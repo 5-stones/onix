@@ -11,6 +11,10 @@
     "typescript",
     "node"
   ],
+  "files": [
+    "src",
+    "dist"
+  ],
   "scripts": {
     "dev": "ts-node index.ts",
     "build": "rm -rf ./dist && tsc --p ./tsconfig.build.json",
