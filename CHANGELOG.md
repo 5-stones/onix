@@ -1,3 +1,7 @@
+# [1.0.0-rc.2](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.1...v1.0.0-rc.2) (2024-04-01)
+
+
+
 # [1.0.0-rc.1](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.0...v1.0.0-rc.1) (2024-04-01)
 
 
