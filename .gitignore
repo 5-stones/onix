@@ -1,0 +1,6 @@
+._*
+.DS_Store
+node_modules
+*.xml
+/index.ts
+dist/

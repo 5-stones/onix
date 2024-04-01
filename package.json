@@ -1,0 +1,31 @@
+{
+  "name": "@5stones/onix",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "onix",
+    "typescript",
+    "node"
+  ],
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "build": "rm -rf ./dist && tsc --p ./tsconfig.build.json",
+    "generate:bisac": "node ./utils/bisac.js",
+    "generate:onix-enums": "node ./utils/onix-enums.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.5",
+    "ssh2-sftp-client": "^10.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.27",
+    "@types/ssh2-sftp-client": "^9.0.3",
+    "cheerio": "^1.0.0-rc.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}

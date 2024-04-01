@@ -1,0 +1,55 @@
+
+// https://ns.editeur.org/onix/en/81 
+export enum ProductContentType {
+  _10 = '10', // Text
+  _15 = '15', // Extensive links between internal content
+  _14 = '14', // Extensive links to external content
+  _51 = '51', // Links to external interactive content
+  _16 = '16', // Additional text not part of main content
+  _45 = '45', // Text within images 
+  _41 = '41', // Additional eye-readable links to external content
+  _17 = '17', // Promotional text for other book product
+  _11 = '11', // Musical notation
+  _07 = '07', // Still images / graphics
+  _18 = '18', // Photographs
+  _19 = '19', // Figures, diagrams, charts, graphs
+  _20 = '20', // Additional images / graphics not part of main work
+  _12 = '12', // Maps and/or other cartographic content
+  _47 = '47', // Chemical content
+  _48 = '48', // Mathematical content
+  _46 = '46', // Decorative images or graphics
+  _42 = '42', // Assessment material
+  _01 = '01', // Audiobook
+  _02 = '02', // Performance – spoken word
+  _13 = '13', // Other speech content
+  _03 = '03', // Music recording
+  _04 = '04', // Other audio
+  _49 = '49', // Images of text
+  _21 = '21', // Partial performance – spoken word
+  _22 = '22', // Additional audio content not part of main content
+  _23 = '23', // Promotional audio for other book product
+  _06 = '06', // Video
+  _26 = '26', // Video recording of a reading
+  _50 = '50', // Video content without audio
+  _27 = '27', // Performance – visual
+  _24 = '24', // Animated / interactive illustrations
+  _25 = '25', // Narrative animation
+  _28 = '28', // Other video
+  _29 = '29', // Partial performance – video
+  _30 = '30', // Additional video content not part of main work
+  _31 = '31', // Promotional video for other book product
+  _05 = '05', // Game / Puzzle
+  _32 = '32', // Contest
+  _08 = '08', // Software
+  _09 = '09', // Data
+  _33 = '33', // Data set plus software
+  _34 = '34', // Blank pages or spaces
+  _35 = '35', // Advertising content
+  _37 = '37', // Advertising – first party
+  _36 = '36', // Advertising – coupons
+  _38 = '38', // Advertising – third party display
+  _39 = '39', // Advertising – third party textual
+  _40 = '40', // Scripting
+  _43 = '43', // Scripted pop-ups
+  _44 = '44', // Sequential art
+}

@@ -1,0 +1,52 @@
+
+// https://ns.editeur.org/onix/en/73 
+export enum WebsiteRole {
+  _00 = '00', // Unspecified, see website description
+  _01 = '01', // Publisher’s corporate website
+  _02 = '02', // Publisher’s website for a specified work
+  _03 = '03', // Online hosting service home page
+  _04 = '04', // Journal home page
+  _05 = '05', // Online resource ‘available content’ page
+  _06 = '06', // Contributor’s own website
+  _07 = '07', // Publisher’s website relating to specified contributor
+  _08 = '08', // Other publisher’s website relating to specified contributor
+  _09 = '09', // Third-party website relating to specified contributor
+  _10 = '10', // Contributor’s own website for specified work
+  _11 = '11', // Other publisher’s website relating to specified work
+  _12 = '12', // Third-party website relating to specified work
+  _13 = '13', // Contributor’s own website for group or series of works
+  _14 = '14', // Publisher’s website relating to group or series of works
+  _15 = '15', // Other publisher’s website relating to group or series of works
+  _16 = '16', // Third-party website relating to group or series of works (eg a fan site)
+  _17 = '17', // Publisher’s B2B website
+  _18 = '18', // Publisher’s B2C website
+  _23 = '23', // Author blog
+  _24 = '24', // Web page for author presentation / commentary
+  _25 = '25', // Web page for author interview
+  _26 = '26', // Web page for author reading
+  _27 = '27', // Web page for cover material
+  _28 = '28', // Web page for sample content
+  _29 = '29', // Web page for full content
+  _30 = '30', // Web page for other commentary / discussion
+  _31 = '31', // Transfer-URL
+  _32 = '32', // DOI Website Link
+  _33 = '33', // Supplier’s corporate website
+  _34 = '34', // Supplier’s B2B website
+  _35 = '35', // Supplier’s B2C website
+  _36 = '36', // Supplier’s website for a specified work
+  _37 = '37', // Supplier’s B2B website for a specified work
+  _38 = '38', // Supplier’s B2C website for a specified work
+  _39 = '39', // Supplier’s website for a group or series of works
+  _40 = '40', // URL of full metadata description
+  _41 = '41', // Social networking URL for specific work or product
+  _42 = '42', // Author’s social networking URL
+  _43 = '43', // Publisher’s social networking URL
+  _44 = '44', // Social networking URL for specific article, chapter or content item
+  _45 = '45', // Publisher’s or third party website for permissions requests
+  _46 = '46', // Publisher’s or third party website for privacy statement
+  _47 = '47', // Publisher’s website for digital preservation
+  _48 = '48', // Third-party website for digital preservation
+  _49 = '49', // Product website for environmental responsibility statement
+  _50 = '50', // Organization’s website for environmental responsibility statement
+  _51 = '51', // Legal deposit website for digital preservation
+}

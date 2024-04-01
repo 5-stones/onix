@@ -1,0 +1,50 @@
+
+// https://ns.editeur.org/onix/en/51 
+export enum ProductRelation {
+  _00 = '00', // Unspecified
+  _01 = '01', // Includes
+  _02 = '02', // Is part of
+  _03 = '03', // Replaces
+  _04 = '04', // Has companion product
+  _05 = '05', // Replaced by
+  _06 = '06', // Alternative format
+  _07 = '07', // Has ancillary product
+  _08 = '08', // Is ancillary to
+  _09 = '09', // Is remaindered as
+  _10 = '10', // Is remainder of
+  _11 = '11', // Is other-language version of
+  _12 = '12', // Publisher’s suggested alternative
+  _13 = '13', // Epublication based on (print product)
+  _16 = '16', // POD replacement for
+  _17 = '17', // Replaced by POD
+  _18 = '18', // Is special edition of
+  _19 = '19', // Has special edition
+  _20 = '20', // Is prebound edition of
+  _21 = '21', // Is original of prebound edition
+  _22 = '22', // Product by same author
+  _23 = '23', // Similar product
+  _24 = '24', // Is facsimile of
+  _25 = '25', // Is original of facsimile
+  _26 = '26', // Is license for
+  _27 = '27', // Electronic version available as
+  _28 = '28', // Enhanced version available as
+  _29 = '29', // Basic version available as
+  _30 = '30', // Product in same collection
+  _31 = '31', // Has alternative in a different market sector
+  _32 = '32', // Has equivalent intended for a different market
+  _33 = '33', // Has alternative intended for different market
+  _34 = '34', // Cites
+  _35 = '35', // Is cited by
+  _37 = '37', // Is signed version of
+  _38 = '38', // Has signed version
+  _39 = '39', // Has related student material
+  _40 = '40', // Has related teacher material
+  _41 = '41', // Some content shared with
+  _42 = '42', // Is later edition of first edition
+  _43 = '43', // Adapted from
+  _44 = '44', // Adapted as
+  _45 = '45', // Has linked product offer
+  _46 = '46', // May be substituted by
+  _47 = '47', // May be substituted for
+  _48 = '48', // Is linked product offer
+}

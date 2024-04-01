@@ -1,0 +1,56 @@
+
+// https://ns.editeur.org/onix/en/158 
+export enum ResourceContentType {
+  _01 = '01', // Front cover
+  _02 = '02', // Back cover
+  _03 = '03', // Cover / pack
+  _04 = '04', // Contributor picture
+  _05 = '05', // Series image / artwork
+  _06 = '06', // Series logo
+  _07 = '07', // Product image / artwork
+  _08 = '08', // Product logo
+  _09 = '09', // Publisher logo
+  _10 = '10', // Imprint logo
+  _11 = '11', // Contributor interview
+  _12 = '12', // Contributor presentation
+  _13 = '13', // Contributor reading
+  _14 = '14', // Contributor event schedule
+  _15 = '15', // Sample content
+  _16 = '16', // Widget
+  _17 = '17', // Review
+  _18 = '18', // Commentary / discussion
+  _19 = '19', // Reading group guide
+  _20 = '20', // Teacher’s guide
+  _21 = '21', // Feature article
+  _22 = '22', // Character ‘interview’
+  _23 = '23', // Wallpaper / screensaver
+  _24 = '24', // Press release
+  _25 = '25', // Table of contents
+  _26 = '26', // Trailer
+  _27 = '27', // Cover thumbnail
+  _28 = '28', // Full content
+  _29 = '29', // Full cover
+  _30 = '30', // Master brand logo
+  _31 = '31', // Description
+  _32 = '32', // Index
+  _33 = '33', // Student’s guide
+  _34 = '34', // Publisher’s catalogue
+  _35 = '35', // Online advertisement panel
+  _36 = '36', // Online advertisement page
+  _37 = '37', // Promotional event material
+  _38 = '38', // Digital review copy
+  _39 = '39', // Instructional material
+  _40 = '40', // Errata
+  _41 = '41', // Introduction
+  _42 = '42', // Collection description
+  _43 = '43', // Bibliography
+  _44 = '44', // Abstract
+  _45 = '45', // Cover holding image
+  _46 = '46', // Rules or instructions
+  _47 = '47', // Transcript
+  _48 = '48', // Full cast and credit list
+  _49 = '49', // Image for social media
+  _50 = '50', // Supplementary learning resources
+  _51 = '51', // Cover flap
+  _99 = '99', // License
+}
