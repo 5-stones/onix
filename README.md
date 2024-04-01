@@ -37,3 +37,24 @@ and generate the code:
 yarn generate:bisac
 yarn generate:onix-enums
 ```
+
+## Release
+
+The standard release command for this project is:
+```
+yarn version [--new-version <newversion> | major | minor | patch ]
+```
+
+This command will:
+
+1. Generate/update the Changelog
+1. Bump the package version
+1. Tag & pushing the commit
+
+
+e.g.
+
+```
+yarn version --new-version 1.2.17
+yarn version patch // 1.2.17 -> 1.2.18
+```
