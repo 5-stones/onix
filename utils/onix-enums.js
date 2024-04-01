@@ -24,6 +24,7 @@ function generate(body, num) {
       .replace(/-/g, '')
       .replace(/–/g, '')
       .replace(/\s+/, ' ')
+      .replace('é', 'e')
     ,
   );
   const elements = $(`table tr[id*="en_${num}_"]`);

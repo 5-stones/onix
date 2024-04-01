@@ -154,7 +154,7 @@ export { UnitOfPricing } from './UnitOfPricing';
 export { UnitOfUsage } from './UnitOfUsage';
 export { UnnamedPersons } from './UnnamedPersons';
 export { UnpricedItemType } from './UnpricedItemType';
-export { UsAndCanadaExcludingQuébecSchoolOrCollegeGrade } from './UsAndCanadaExcludingQuébecSchoolOrCollegeGrade';
+export { UsAndCanadaExcludingQuebecSchoolOrCollegeGrade } from './UsAndCanadaExcludingQuebecSchoolOrCollegeGrade';
 export { UsCpsiaOrOtherInternationalHazardWarningType } from './UsCpsiaOrOtherInternationalHazardWarningType';
 export { UsageStatus } from './UsageStatus';
 export { UsageType } from './UsageType';
