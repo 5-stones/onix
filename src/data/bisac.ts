@@ -10,7 +10,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT003000": [
     "Antiques & Collectibles / Autographs",
-    "Antiques & Collectibles / Automobiles see Subjects & Themes / Transportation"
+    "Antiques & Collectibles / Automobiles see Subjects & Themes / Transportation"
   ],
   "ANT005000": [
     "Antiques & Collectibles / Books"
@@ -38,9 +38,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT008000": [
     "Antiques & Collectibles / Care & Restoration",
-    "Antiques & Collectibles / Cars see Subjects & Themes / Transportation",
-    "Antiques & Collectibles / Ceramics see Pottery & Ceramics",
-    "Antiques & Collectibles / China see Porcelain & China"
+    "Antiques & Collectibles / Cars see Subjects & Themes / Transportation",
+    "Antiques & Collectibles / Ceramics see Pottery & Ceramics",
+    "Antiques & Collectibles / China see Porcelain & China"
   ],
   "ANT010000": [
     "Antiques & Collectibles / Clocks & Watches"
@@ -50,9 +50,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT012000": [
     "Antiques & Collectibles / Comics",
-    "Antiques & Collectibles / Costume see Textiles & Costume",
-    "Antiques & Collectibles / Dance see Subjects & Themes / Performing Arts",
-    "Antiques & Collectibles / Disneyana see Subjects & Themes / Americana"
+    "Antiques & Collectibles / Costume see Textiles & Costume",
+    "Antiques & Collectibles / Dance see Subjects & Themes / Performing Arts",
+    "Antiques & Collectibles / Disneyana see Subjects & Themes / Americana"
   ],
   "ANT015000": [
     "Antiques & Collectibles / Dolls"
@@ -68,8 +68,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT018000": [
     "Antiques & Collectibles / Glass & Glassware",
-    "Antiques & Collectibles / Gold see Silver, Gold & Other Metals",
-    "Antiques & Collectibles / Hummels see Figurines"
+    "Antiques & Collectibles / Gold see Silver, Gold & Other Metals",
+    "Antiques & Collectibles / Hummels see Figurines"
   ],
   "ANT021000": [
     "Antiques & Collectibles / Jewelry"
@@ -79,14 +79,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT023000": [
     "Antiques & Collectibles / Magazines & Newspapers",
-    "Antiques & Collectibles / Medals see Coins, Currency & Medals",
-    "Antiques & Collectibles / Movies see Subjects & Themes / Performing Arts",
-    "Antiques & Collectibles / Musical Instruments see Subjects & Themes / Performing Arts",
-    "Antiques & Collectibles / Newspapers see Magazines & Newspapers"
+    "Antiques & Collectibles / Medals see Coins, Currency & Medals",
+    "Antiques & Collectibles / Movies see Subjects & Themes / Performing Arts",
+    "Antiques & Collectibles / Musical Instruments see Subjects & Themes / Performing Arts",
+    "Antiques & Collectibles / Newspapers see Magazines & Newspapers"
   ],
   "ANT029000": [
     "Antiques & Collectibles / Paper Ephemera",
-    "Antiques & Collectibles / Pewter see Silver, Gold & Other Metals"
+    "Antiques & Collectibles / Pewter see Silver, Gold & Other Metals"
   ],
   "ANT032000": [
     "Antiques & Collectibles / Porcelain & China"
@@ -108,7 +108,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT038000": [
     "Antiques & Collectibles / Reference",
-    "Antiques & Collectibles / Restoration see Care & Restoration"
+    "Antiques & Collectibles / Restoration see Care & Restoration"
   ],
   "ANT040000": [
     "Antiques & Collectibles / Rugs"
@@ -121,7 +121,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT042010": [
     "Antiques & Collectibles / Sports Cards / Baseball",
-    "Antiques & Collectibles / Stained Glass see Glass & Glassware"
+    "Antiques & Collectibles / Stained Glass see Glass & Glassware"
   ],
   "ANT044000": [
     "Antiques & Collectibles / Stamps"
@@ -176,16 +176,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ANT045000": [
     "Antiques & Collectibles / Teddy Bears & Stuffed Animals",
-    "Antiques & Collectibles / Televisions & Television-Related see Radios & Televisions or Subjects & Themes /  Performing Arts"
+    "Antiques & Collectibles / Televisions & Television-Related see Radios & Televisions or Subjects & Themes /  Performing Arts"
   ],
   "ANT047000": [
     "Antiques & Collectibles / Textiles & Costume",
-    "Antiques & Collectibles / Theater see Subjects & Themes / Performing Arts"
+    "Antiques & Collectibles / Theater see Subjects & Themes / Performing Arts"
   ],
   "ANT050000": [
     "Antiques & Collectibles / Toys & Games",
-    "Antiques & Collectibles / Watches see Clocks & Watches",
-    "Antiques & Collectibles / Weapons see Firearms & Weapons"
+    "Antiques & Collectibles / Watches see Clocks & Watches",
+    "Antiques & Collectibles / Weapons see Firearms & Weapons"
   ],
   "ANT051000": [
     "Antiques & Collectibles / Wine"
@@ -339,7 +339,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ARC003000": [
     "Architecture / Buildings / Residential",
-    "Architecture / CAD (Computer Aided Design) see Design, Drafting, Drawing & Presentation"
+    "Architecture / CAD (Computer Aided Design) see Design, Drafting, Drawing & Presentation"
   ],
   "ARC019000": [
     "Architecture / Codes & Standards"
@@ -352,7 +352,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ARC004000": [
     "Architecture / Design, Drafting, Drawing & Presentation",
-    "Architecture / Feng Shui see BODY, MIND & SPIRIT / Feng Shui"
+    "Architecture / Feng Shui see BODY, MIND & SPIRIT / Feng Shui"
   ],
   "ARC014000": [
     "Architecture / Historic Preservation / General"
@@ -482,11 +482,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LIT004100": [
     "Literary Criticism / Caribbean & Latin American",
-    "Literary Criticism / Central American & South American see Caribbean & Latin American"
+    "Literary Criticism / Central American & South American see Caribbean & Latin American"
   ],
   "LIT009000": [
     "Literary Criticism / Children's & Young Adult Literature",
-    "Literary Criticism / Classical see Ancient & Classical"
+    "Literary Criticism / Classical see Ancient & Classical"
   ],
   "LIT017000": [
     "Literary Criticism / Comics & Graphic Novels"
@@ -523,8 +523,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LIT022000": [
     "Literary Criticism / Fairy Tales, Folk Tales, Legends & Mythology",
-    "Literary Criticism / Fantasy see Science Fiction & Fantasy",
-    "Literary Criticism / Far Eastern see headings under Asian"
+    "Literary Criticism / Fantasy see Science Fiction & Fantasy",
+    "Literary Criticism / Far Eastern see headings under Asian"
   ],
   "LIT003000": [
     "Literary Criticism / Feminist"
@@ -585,8 +585,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LIT026000": [
     "Literary Criticism / Novel as Form",
-    "Literary Criticism / Oceanian see Australian & Oceanian",
-    "Literary Criticism / Oriental see headings under Asian"
+    "Literary Criticism / Oceanian see Australian & Oceanian",
+    "Literary Criticism / Oriental see headings under Asian"
   ],
   "LIT014000": [
     "Literary Criticism / Poetry"
@@ -611,7 +611,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LIT018000": [
     "Literary Criticism / Short Stories",
-    "Literary Criticism / South & Southeast Asian see headings under Asian"
+    "Literary Criticism / South & Southeast Asian see headings under Asian"
   ],
   "LIT025000": [
     "Literary Criticism / Subjects & Themes / General"
@@ -639,7 +639,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LIT025050": [
     "Literary Criticism / Subjects & Themes / Women",
-    "Literary Criticism / Theory see Semiotics & Theory"
+    "Literary Criticism / Theory see Semiotics & Theory"
   ],
   "LIT004290": [
     "Literary Criticism / Women Authors"
@@ -664,7 +664,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART069000": [
     "Art / American / Native American",
-    "Art / Animation see PERFORMING ARTS / Animation"
+    "Art / Animation see PERFORMING ARTS / Animation"
   ],
   "ART054000": [
     "Art / Annuals"
@@ -695,11 +695,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART042000": [
     "Art / Australian & Oceanian",
-    "Art / Basic Techniques see headings under Techniques"
+    "Art / Basic Techniques see headings under Techniques"
   ],
   "ART055000": [
     "Art / Body Art & Tattooing",
-    "Art / Book Design see DESIGN / Book"
+    "Art / Book Design see DESIGN / Book"
   ],
   "ART043000": [
     "Art / Business Aspects"
@@ -733,18 +733,18 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART056000": [
     "Art / Conservation & Preservation",
-    "Art / Costume Design see DESIGN / Textile & Costume"
+    "Art / Costume Design see DESIGN / Textile & Costume"
   ],
   "ART009000": [
     "Art / Criticism & Theory",
-    "Art / Design see headings under DESIGN"
+    "Art / Design see headings under DESIGN"
   ],
   "ART046000": [
     "Art / Digital"
   ],
   "ART063000": [
     "Art / Environmental & Land Art",
-    "Art / Exhibitions see headings under Collections, Catalogs, Exhibitions"
+    "Art / Exhibitions see headings under Collections, Catalogs, Exhibitions"
   ],
   "ART015030": [
     "Art / European"
@@ -757,7 +757,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART067000": [
     "Art / Forgeries",
-    "Art / Furniture Design see DESIGN / Furniture"
+    "Art / Furniture Design see DESIGN / Furniture"
   ],
   "ART061000": [
     "Art / Glass"
@@ -815,7 +815,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART016030": [
     "Art / Individual Artists / Monographs",
-    "Art / Latin American see Caribbean & Latin American"
+    "Art / Latin American see Caribbean & Latin American"
   ],
   "ART066000": [
     "Art / LGBTQ+ Artists"
@@ -825,12 +825,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART017000": [
     "Art / Mixed Media",
-    "Art / Museum Administration & Museology see BUSINESS & ECONOMICS / Museum Administration & Museology"
+    "Art / Museum Administration & Museology see BUSINESS & ECONOMICS / Museum Administration & Museology"
   ],
   "ART059000": [
     "Art / Museum Studies",
-    "Art / Oceanian see Australian & Oceanian",
-    "Art / Oriental see headings under Asian"
+    "Art / Oceanian see Australian & Oceanian",
+    "Art / Oriental see headings under Asian"
   ],
   "ART060000": [
     "Art / Performance"
@@ -840,7 +840,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART048000": [
     "Art / Prints",
-    "Art / Product Design see DESIGN / Product"
+    "Art / Product Design see DESIGN / Product"
   ],
   "ART062000": [
     "Art / Public Art"
@@ -952,8 +952,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "ART029000": [
     "Art / Techniques / Watercolor Painting",
-    "Art / Textile Design see DESIGN / Textile & Costume",
-    "Art / Video see Film & Video"
+    "Art / Textile Design see DESIGN / Textile & Costume",
+    "Art / Video see Film & Video"
   ],
   "ART064000": [
     "Art / Video Game Art"
@@ -993,7 +993,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MAT040000": [
     "Mathematics / Complex Analysis",
-    "Mathematics / Computer Mathematics see Discrete Mathematics"
+    "Mathematics / Computer Mathematics see Discrete Mathematics"
   ],
   "MAT006000": [
     "Mathematics / Counting & Numeration"
@@ -1015,14 +1015,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MAT009000": [
     "Mathematics / Finite Mathematics",
-    "Mathematics / Fractions see Arithmetic"
+    "Mathematics / Fractions see Arithmetic"
   ],
   "MAT037000": [
     "Mathematics / Functional Analysis"
   ],
   "MAT011000": [
     "Mathematics / Game Theory",
-    "Mathematics / Games see Recreations & Games"
+    "Mathematics / Games see Recreations & Games"
   ],
   "MAT012000": [
     "Mathematics / Geometry / General"
@@ -1113,7 +1113,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MAT043000": [
     "Mathematics / Social & Cultural Aspects",
-    "Mathematics / Statistics see headings under Probability & Statistics"
+    "Mathematics / Statistics see headings under Probability & Statistics"
   ],
   "MAT030000": [
     "Mathematics / Study & Teaching"
@@ -2140,7 +2140,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED009000": [
     "Medical / Biotechnology",
-    "Medical / Cancer see headings under Oncology"
+    "Medical / Cancer see headings under Oncology"
   ],
   "MED010000": [
     "Medical / Cardiology"
@@ -2156,9 +2156,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED014000": [
     "Medical / Clinical Medicine",
-    "Medical / Communicable Diseases see Infectious Diseases",
-    "Medical / Complementary Medicine see Alternative & Complementary Medicine",
-    "Medical / Cosmetic Surgery see Surgery / Cosmetic & Reconstructive"
+    "Medical / Communicable Diseases see Infectious Diseases",
+    "Medical / Complementary Medicine see Alternative & Complementary Medicine",
+    "Medical / Cosmetic Surgery see Surgery / Cosmetic & Reconstructive"
   ],
   "MED015000": [
     "Medical / Critical Care"
@@ -2216,28 +2216,28 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED022000": [
     "Medical / Diseases",
-    "Medical / Diseases / Abdominal see Gastroenterology",
-    "Medical / Diseases / AIDS & HIV see AIDS & HIV",
-    "Medical / Diseases / Bacterial see Infectious Diseases",
-    "Medical / Diseases / Brain see Neurology",
-    "Medical / Diseases / Cancer see headings under Oncology",
-    "Medical / Diseases / Cardiopulmonary see Cardiology",
-    "Medical / Diseases / Cardiovascular see Cardiology",
-    "Medical / Diseases / Cerebrovascular see Neurology",
-    "Medical / Diseases / Communicable see Infectious Diseases",
-    "Medical / Diseases / Cutaneous see Dermatology",
-    "Medical / Diseases / Diabetes see Endocrinology & Metabolism",
-    "Medical / Diseases / Digestive Organs see Gastroenterology",
-    "Medical / Diseases / Endocrine Glands see Endocrinology & Metabolism",
-    "Medical / Diseases / Gastrointestinal see Gastroenterology",
-    "Medical / Diseases / Genetic see Genetics",
-    "Medical / Diseases / Genitourinary see Urology",
-    "Medical / Diseases / Immunological see Immunology",
-    "Medical / Diseases / Infectious see Infectious Diseases",
-    "Medical / Diseases / Neuromuscular see Anatomy or Neurology or Physical Medicine & Rehabilitation or Physiology",
-    "Medical / Diseases / Nutritional see Nutrition",
-    "Medical / Diseases / Respiratory see Pulmonary & Thoracic Medicine",
-    "Medical / Diseases / Viral see Infectious Diseases"
+    "Medical / Diseases / Abdominal see Gastroenterology",
+    "Medical / Diseases / AIDS & HIV see AIDS & HIV",
+    "Medical / Diseases / Bacterial see Infectious Diseases",
+    "Medical / Diseases / Brain see Neurology",
+    "Medical / Diseases / Cancer see headings under Oncology",
+    "Medical / Diseases / Cardiopulmonary see Cardiology",
+    "Medical / Diseases / Cardiovascular see Cardiology",
+    "Medical / Diseases / Cerebrovascular see Neurology",
+    "Medical / Diseases / Communicable see Infectious Diseases",
+    "Medical / Diseases / Cutaneous see Dermatology",
+    "Medical / Diseases / Diabetes see Endocrinology & Metabolism",
+    "Medical / Diseases / Digestive Organs see Gastroenterology",
+    "Medical / Diseases / Endocrine Glands see Endocrinology & Metabolism",
+    "Medical / Diseases / Gastrointestinal see Gastroenterology",
+    "Medical / Diseases / Genetic see Genetics",
+    "Medical / Diseases / Genitourinary see Urology",
+    "Medical / Diseases / Immunological see Immunology",
+    "Medical / Diseases / Infectious see Infectious Diseases",
+    "Medical / Diseases / Neuromuscular see Anatomy or Neurology or Physical Medicine & Rehabilitation or Physiology",
+    "Medical / Diseases / Nutritional see Nutrition",
+    "Medical / Diseases / Respiratory see Pulmonary & Thoracic Medicine",
+    "Medical / Diseases / Viral see Infectious Diseases"
   ],
   "MED023000": [
     "Medical / Drug Guides"
@@ -2259,7 +2259,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED028000": [
     "Medical / Epidemiology",
-    "Medical / Equipment see Instruments & Supplies"
+    "Medical / Equipment see Instruments & Supplies"
   ],
   "MED109000": [
     "Medical / Essays"
@@ -2278,7 +2278,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED031000": [
     "Medical / Gastroenterology",
-    "Medical / General Practice see Family & General Practice"
+    "Medical / General Practice see Family & General Practice"
   ],
   "MED107000": [
     "Medical / Genetics"
@@ -2300,7 +2300,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED037000": [
     "Medical / Health Risk Assessment",
-    "Medical / Hearing see Audiology & Speech Pathology"
+    "Medical / Hearing see Audiology & Speech Pathology"
   ],
   "MED038000": [
     "Medical / Hematology"
@@ -2319,7 +2319,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED041000": [
     "Medical / Home Care",
-    "Medical / Hospice Care see Terminal Care"
+    "Medical / Hospice Care see Terminal Care"
   ],
   "MED043000": [
     "Medical / Hospital Administration & Care"
@@ -2329,7 +2329,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED122000": [
     "Medical / Indigenous Health & Healing",
-    "Medical / Industrial Medicine see Occupational & Industrial Medicine"
+    "Medical / Industrial Medicine see Occupational & Industrial Medicine"
   ],
   "MED115000": [
     "Medical / Infection Control"
@@ -2345,7 +2345,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED045000": [
     "Medical / Internal Medicine",
-    "Medical / Iridology see Alternative & Complementary Medicine"
+    "Medical / Iridology see Alternative & Complementary Medicine"
   ],
   "MED047000": [
     "Medical / Laboratory Medicine"
@@ -2358,26 +2358,26 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED049000": [
     "Medical / Medicaid & Medicare",
-    "Medical / Medical Ethics see Ethics"
+    "Medical / Medical Ethics see Ethics"
   ],
   "MED051000": [
     "Medical / Medical History & Records"
   ],
   "MED102000": [
     "Medical / Mental Health",
-    "Medical / Metabolism see Endocrinology & Metabolism"
+    "Medical / Metabolism see Endocrinology & Metabolism"
   ],
   "MED052000": [
     "Medical / Microbiology"
   ],
   "MED118000": [
     "Medical / Military Medicine",
-    "Medical / Mind-Body Medicine (Psychoneuroimmunology) see Alternative & Complementary Medicine"
+    "Medical / Mind-Body Medicine (Psychoneuroimmunology) see Alternative & Complementary Medicine"
   ],
   "MED123000": [
     "Medical / Multicultural Medicine",
-    "Medical / Naturopathy see HEALTH & FITNESS / Naturopathy",
-    "Medical / Neonatology see Perinatology & Neonatology"
+    "Medical / Naturopathy see HEALTH & FITNESS / Naturopathy",
+    "Medical / Neonatology see Perinatology & Neonatology"
   ],
   "MED055000": [
     "Medical / Nephrology"
@@ -2387,11 +2387,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED057000": [
     "Medical / Neuroscience",
-    "Medical / Neurosurgery see Surgery / Neurosurgery"
+    "Medical / Neurosurgery see Surgery / Neurosurgery"
   ],
   "MED091000": [
     "Medical / Nosology",
-    "Medical / Nuclear Medicine see Radiology, Radiotherapy & Nuclear Medicine"
+    "Medical / Nuclear Medicine see Radiology, Radiotherapy & Nuclear Medicine"
   ],
   "MED058000": [
     "Medical / Nursing / General"
@@ -2470,7 +2470,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED060000": [
     "Medical / Nutrition",
-    "Medical / Obstetrics see Gynecology & Obstetrics"
+    "Medical / Obstetrics see Gynecology & Obstetrics"
   ],
   "MED061000": [
     "Medical / Occupational & Industrial Medicine"
@@ -2501,7 +2501,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED064000": [
     "Medical / Optometry",
-    "Medical / Oral & Maxillofacial Surgery see Surgery / Oral & Maxillofacial"
+    "Medical / Oral & Maxillofacial Surgery see Surgery / Oral & Maxillofacial"
   ],
   "MED065000": [
     "Medical / Orthopedics"
@@ -2523,7 +2523,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED068000": [
     "Medical / Pathophysiology",
-    "Medical / Patients see Physician & Patient"
+    "Medical / Patients see Physician & Patient"
   ],
   "MED094000": [
     "Medical / Pediatric Emergencies"
@@ -2551,7 +2551,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED075000": [
     "Medical / Physiology",
-    "Medical / Plastic Surgery see Surgery / Cosmetic & Reconstructive"
+    "Medical / Plastic Surgery see Surgery / Cosmetic & Reconstructive"
   ],
   "MED100000": [
     "Medical / Podiatry"
@@ -2588,7 +2588,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED121000": [
     "Medical / Regenerative Medicine",
-    "Medical / Reimbursement see Practice Management & Reimbursement"
+    "Medical / Reimbursement see Practice Management & Reimbursement"
   ],
   "MED082000": [
     "Medical / Reproductive Medicine & Technology"
@@ -2601,11 +2601,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED119000": [
     "Medical / Sleep Medicine",
-    "Medical / Speech Pathology see Audiology & Speech Pathology"
+    "Medical / Speech Pathology see Audiology & Speech Pathology"
   ],
   "MED084000": [
     "Medical / Sports Medicine",
-    "Medical / Supplies see Instruments & Supplies"
+    "Medical / Supplies see Instruments & Supplies"
   ],
   "MED085000": [
     "Medical / Surgery / General"
@@ -2663,7 +2663,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MED086000": [
     "Medical / Test Preparation & Review",
-    "Medical / Thoracic Medicine see Pulmonary & Thoracic Medicine"
+    "Medical / Thoracic Medicine see Pulmonary & Thoracic Medicine"
   ],
   "MED096000": [
     "Medical / Toxicology"
@@ -2718,7 +2718,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BIO003000": [
     "Biography & Autobiography / Business",
-    "Biography & Autobiography / Composers & Musicians see Music"
+    "Biography & Autobiography / Composers & Musicians see Music"
   ],
   "BIO024000": [
     "Biography & Autobiography / Criminals & Outlaws"
@@ -2728,7 +2728,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BIO002000": [
     "Biography & Autobiography / Cultural & Regional",
-    "Biography & Autobiography / Doctors see Medical (incl. Patients)"
+    "Biography & Autobiography / Doctors see Medical (incl. Patients)"
   ],
   "BIO025000": [
     "Biography & Autobiography / Editors, Journalists, Publishers"
@@ -2741,7 +2741,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BIO030000": [
     "Biography & Autobiography / Environmentalists & Naturalists",
-    "Biography & Autobiography / Famous see Rich & Famous"
+    "Biography & Autobiography / Famous see Rich & Famous"
   ],
   "BIO035000": [
     "Biography & Autobiography / Fashion"
@@ -2763,7 +2763,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BIO037000": [
     "Biography & Autobiography / Jewish",
-    "Biography & Autobiography / Judges see Lawyers & Judges"
+    "Biography & Autobiography / Judges see Lawyers & Judges"
   ],
   "BIO027000": [
     "Biography & Autobiography / Law Enforcement"
@@ -2791,23 +2791,23 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BIO040000": [
     "Biography & Autobiography / Native American",
-    "Biography & Autobiography / Nurses see Medical (incl. Patients)"
+    "Biography & Autobiography / Nurses see Medical (incl. Patients)"
   ],
   "BIO033000": [
     "Biography & Autobiography / People with Disabilities",
-    "Biography & Autobiography / Performing Arts see Entertainment & Performing Arts"
+    "Biography & Autobiography / Performing Arts see Entertainment & Performing Arts"
   ],
   "BIO009000": [
     "Biography & Autobiography / Philosophers",
-    "Biography & Autobiography / Photographers see Artists, Architects, Photographers",
-    "Biography & Autobiography / Physicians see Medical (incl. Patients)"
+    "Biography & Autobiography / Photographers see Artists, Architects, Photographers",
+    "Biography & Autobiography / Physicians see Medical (incl. Patients)"
   ],
   "BIO010000": [
     "Biography & Autobiography / Political"
   ],
   "BIO011000": [
     "Biography & Autobiography / Presidents & Heads of State",
-    "Biography & Autobiography / Psychologists see Social Scientists & Psychologists"
+    "Biography & Autobiography / Psychologists see Social Scientists & Psychologists"
   ],
   "BIO012000": [
     "Biography & Autobiography / Reference"
@@ -2832,11 +2832,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BIO016000": [
     "Biography & Autobiography / Sports",
-    "Biography & Autobiography / Surgeons see Medical (incl. Patients)"
+    "Biography & Autobiography / Surgeons see Medical (incl. Patients)"
   ],
   "BIO038000": [
     "Biography & Autobiography / Survival",
-    "Biography & Autobiography / Teachers see Educators"
+    "Biography & Autobiography / Teachers see Educators"
   ],
   "BIO022000": [
     "Biography & Autobiography / Women"
@@ -2846,8 +2846,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS004000": [
     "Music / Business Aspects",
-    "Music / Buyer's Guides see Discography & Buyer's Guides",
-    "Music / Christian see headings under Religious"
+    "Music / Buyer's Guides see Discography & Buyer's Guides",
+    "Music / Christian see headings under Religious"
   ],
   "MUS012000": [
     "Music / Discography & Buyer's Guides"
@@ -2869,7 +2869,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS053000": [
     "Music / Genres & Styles / Big Band & Swing",
-    "Music / Genres & Styles / Bluegrass see Genres & Styles / Country & Bluegrass"
+    "Music / Genres & Styles / Bluegrass see Genres & Styles / Country & Bluegrass"
   ],
   "MUS003000": [
     "Music / Genres & Styles / Blues"
@@ -2885,7 +2885,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS006000": [
     "Music / Genres & Styles / Classical",
-    "Music / Genres & Styles / Computer see Genres & Styles / Electronic"
+    "Music / Genres & Styles / Computer see Genres & Styles / Electronic"
   ],
   "MUS010000": [
     "Music / Genres & Styles / Country & Bluegrass"
@@ -2913,7 +2913,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS036000": [
     "Music / Genres & Styles / Latin",
-    "Music / Genres & Styles / Lullabies see Genres & Styles / Children's"
+    "Music / Genres & Styles / Lullabies see Genres & Styles / Children's"
   ],
   "MUS045000": [
     "Music / Genres & Styles / Military & Marches"
@@ -2938,16 +2938,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS047000": [
     "Music / Genres & Styles / Reggae",
-    "Music / Genres & Styles / Religious see headings under Religious",
-    "Music / Genres & Styles / Rhythm & Blues see Genres & Styles / Soul & R 'n B"
+    "Music / Genres & Styles / Religious see headings under Religious",
+    "Music / Genres & Styles / Rhythm & Blues see Genres & Styles / Soul & R 'n B"
   ],
   "MUS035000": [
     "Music / Genres & Styles / Rock",
-    "Music / Genres & Styles / Salsa see Genres & Styles / Latin"
+    "Music / Genres & Styles / Salsa see Genres & Styles / Latin"
   ],
   "MUS039000": [
     "Music / Genres & Styles / Soul & R 'n B",
-    "Music / Genres & Styles / World Beat see Genres & Styles / International"
+    "Music / Genres & Styles / World Beat see Genres & Styles / International"
   ],
   "MUS020000": [
     "Music / History & Criticism"
@@ -2981,7 +2981,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS042000": [
     "Music / Instruction & Study / Voice",
-    "Music / Instruments see headings under Musical Instruments"
+    "Music / Instruments see headings under Musical Instruments"
   ],
   "MUS052000": [
     "Music / Lyrics"
@@ -3081,7 +3081,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "MUS048030": [
     "Music / Religious / Muslim",
-    "Music / Sacred see headings under Religious"
+    "Music / Sacred see headings under Religious"
   ],
   "OCC000000": [
     "Body, Mind & Spirit / General"
@@ -3133,7 +3133,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "OCC024000": [
     "Body, Mind & Spirit / Divination / Tarot",
-    "Body, Mind & Spirit / Dowsing see Divination / General"
+    "Body, Mind & Spirit / Dowsing see Divination / General"
   ],
   "OCC006000": [
     "Body, Mind & Spirit / Dreams"
@@ -3146,7 +3146,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "OCC033000": [
     "Body, Mind & Spirit / Gaia & Earth Energies",
-    "Body, Mind & Spirit / Gnosticism see RELIGION / Gnosticism"
+    "Body, Mind & Spirit / Gnosticism see RELIGION / Gnosticism"
   ],
   "OCC036050": [
     "Body, Mind & Spirit / Goddess Worship"
@@ -3183,7 +3183,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "OCC043000": [
     "Body, Mind & Spirit / Nature Therapy",
-    "Body, Mind & Spirit / New Age see General"
+    "Body, Mind & Spirit / New Age see General"
   ],
   "OCC014000": [
     "Body, Mind & Spirit / New Thought"
@@ -3193,7 +3193,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "OCC016000": [
     "Body, Mind & Spirit / Occultism",
-    "Body, Mind & Spirit / Paganism & Neo-Paganism see RELIGION / Paganism & Neo-Paganism"
+    "Body, Mind & Spirit / Paganism & Neo-Paganism see RELIGION / Paganism & Neo-Paganism"
   ],
   "OCC020000": [
     "Body, Mind & Spirit / Prophecy"
@@ -3221,7 +3221,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "OCC036030": [
     "Body, Mind & Spirit / Shamanism",
-    "Body, Mind & Spirit / Spiritual Healing see Healing / Prayer & Spiritual"
+    "Body, Mind & Spirit / Spiritual Healing see Healing / Prayer & Spiritual"
   ],
   "OCC027000": [
     "Body, Mind & Spirit / Spiritualism"
@@ -3237,8 +3237,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "OCC026000": [
     "Body, Mind & Spirit / Witchcraft (see also RELIGION / Wicca)",
-    "Body, Mind & Spirit / Yoga see HEALTH & FITNESS / Yoga",
-    "Body, Mind & Spirit / Zen Buddhism see PHILOSOPHY / Zen or RELIGION / Buddhism / Zen"
+    "Body, Mind & Spirit / Yoga see HEALTH & FITNESS / Yoga",
+    "Body, Mind & Spirit / Zen Buddhism see PHILOSOPHY / Zen or RELIGION / Buddhism / Zen"
   ],
   "NAT000000": [
     "Nature / General"
@@ -3356,7 +3356,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "NAT052000": [
     "Nature / Indigenous Stewardship",
-    "Nature / Minerals see Rocks & Minerals"
+    "Nature / Minerals see Rocks & Minerals"
   ],
   "NAT023000": [
     "Nature / Natural Disasters"
@@ -3396,8 +3396,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "NAT033000": [
     "Nature / Sky Observation",
-    "Nature / Taxidermy see CRAFTS & HOBBIES / Taxidermy",
-    "Nature / Volcanoes see Earthquakes & Volcanoes or SCIENCE / Earth Sciences / Seismology & Volcanism"
+    "Nature / Taxidermy see CRAFTS & HOBBIES / Taxidermy",
+    "Nature / Volcanoes see Earthquakes & Volcanoes or SCIENCE / Earth Sciences / Seismology & Volcanism"
   ],
   "NAT036000": [
     "Nature / Weather"
@@ -3413,7 +3413,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS001020": [
     "Business & Economics / Accounting / Governmental",
-    "Business & Economics / Accounting / International see International / Accounting"
+    "Business & Economics / Accounting / International see International / Accounting"
   ],
   "BUS001040": [
     "Business & Economics / Accounting / Managerial"
@@ -3456,7 +3456,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS091000": [
     "Business & Economics / Business Mathematics",
-    "Business & Economics / Business Travel see TRAVEL / Special Interest / Business"
+    "Business & Economics / Business Travel see TRAVEL / Special Interest / Business"
   ],
   "BUS011000": [
     "Business & Economics / Business Writing"
@@ -3478,7 +3478,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS056030": [
     "Business & Economics / Careers / Resumes",
-    "Business & Economics / Charities see headings under Nonprofit Organizations & Charities"
+    "Business & Economics / Charities see headings under Nonprofit Organizations & Charities"
   ],
   "BUS073000": [
     "Business & Economics / Commerce"
@@ -3488,7 +3488,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS110000": [
     "Business & Economics / Conflict Resolution & Mediation",
-    "Business & Economics / Consolidation & Merger see Mergers & Acquisitions"
+    "Business & Economics / Consolidation & Merger see Mergers & Acquisitions"
   ],
   "BUS075000": [
     "Business & Economics / Consulting"
@@ -3561,7 +3561,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS022000": [
     "Business & Economics / Economic Conditions",
-    "Business & Economics / Economic Development see Development / Economic Development"
+    "Business & Economics / Economic Development see Development / Economic Development"
   ],
   "BUS023000": [
     "Business & Economics / Economic History"
@@ -3571,7 +3571,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS069010": [
     "Business & Economics / Economics / Comparative",
-    "Business & Economics / Economics / International see International / Economics & Trade"
+    "Business & Economics / Economics / International see International / Economics & Trade"
   ],
   "BUS039000": [
     "Business & Economics / Economics / Macroeconomics"
@@ -3593,7 +3593,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS099000": [
     "Business & Economics / Environmental Economics",
-    "Business & Economics / Etailing see headings under E-Commerce"
+    "Business & Economics / Etailing see headings under E-Commerce"
   ],
   "BUS026000": [
     "Business & Economics / Exports & Imports"
@@ -3639,12 +3639,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS080000": [
     "Business & Economics / Home-Based Businesses",
-    "Business & Economics / Hospitality, Travel & Tourism see Industries / Hospitality, Travel & Tourism"
+    "Business & Economics / Hospitality, Travel & Tourism see Industries / Hospitality, Travel & Tourism"
   ],
   "BUS030000": [
     "Business & Economics / Human Resources & Personnel Management",
-    "Business & Economics / Humor see HUMOR / Topic / Business & Professional",
-    "Business & Economics / Imports see Exports & Imports"
+    "Business & Economics / Humor see HUMOR / Topic / Business & Professional",
+    "Business & Economics / Imports see Exports & Imports"
   ],
   "BUS119000": [
     "Business & Economics / Indigenous Economies"
@@ -3804,7 +3804,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS112000": [
     "Business & Economics / Islamic Banking & Finance",
-    "Business & Economics / Job Hunting see Careers / Job Hunting"
+    "Business & Economics / Job Hunting see Careers / Job Hunting"
   ],
   "BUS098000": [
     "Business & Economics / Knowledge Capital"
@@ -3823,7 +3823,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS116000": [
     "Business & Economics / Logistics & Supply Chain",
-    "Business & Economics / Macroeconomics see Economics / Macroeconomics"
+    "Business & Economics / Macroeconomics see Economics / Macroeconomics"
   ],
   "BUS040000": [
     "Business & Economics / Mail Order"
@@ -3842,8 +3842,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS043020": [
     "Business & Economics / Marketing / Industrial",
-    "Business & Economics / Marketing / International see International / Marketing",
-    "Business & Economics / Marketing / Internet see E-Commerce / Digital Marketing"
+    "Business & Economics / Marketing / International see International / Marketing",
+    "Business & Economics / Marketing / Internet see E-Commerce / Digital Marketing"
   ],
   "BUS043040": [
     "Business & Economics / Marketing / Multilevel"
@@ -3859,11 +3859,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS015000": [
     "Business & Economics / Mergers & Acquisitions",
-    "Business & Economics / Microeconomics see Economics / Microeconomics"
+    "Business & Economics / Microeconomics see Economics / Microeconomics"
   ],
   "BUS045000": [
     "Business & Economics / Money & Monetary Policy",
-    "Business & Economics / Money Management see Personal Finance / Money Management"
+    "Business & Economics / Money Management see Personal Finance / Money Management"
   ],
   "BUS046000": [
     "Business & Economics / Motivational"
@@ -3900,7 +3900,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS096000": [
     "Business & Economics / Office Management",
-    "Business & Economics / Operations Management see Production & Operations Management"
+    "Business & Economics / Operations Management see Production & Operations Management"
   ],
   "BUS049000": [
     "Business & Economics / Operations Research"
@@ -3934,15 +3934,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS107000": [
     "Business & Economics / Personal Success",
-    "Business & Economics / Personnel Management see Human Resources & Personnel Management",
-    "Business & Economics / Planning see Strategic Planning"
+    "Business & Economics / Personnel Management see Human Resources & Personnel Management",
+    "Business & Economics / Planning see Strategic Planning"
   ],
   "BUS087000": [
     "Business & Economics / Production & Operations Management"
   ],
   "BUS101000": [
     "Business & Economics / Project Management",
-    "Business & Economics / Promotion see Advertising & Promotion"
+    "Business & Economics / Promotion see Advertising & Promotion"
   ],
   "BUS051000": [
     "Business & Economics / Public Finance"
@@ -3973,9 +3973,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS108000": [
     "Business & Economics / Research & Development",
-    "Business & Economics / Resumes see Careers / Resumes",
-    "Business & Economics / Retailing see Industries / Retailing",
-    "Business & Economics / Risk Assessment & Management see Insurance / Risk Assessment & Management"
+    "Business & Economics / Resumes see Careers / Resumes",
+    "Business & Economics / Retailing see Industries / Retailing",
+    "Business & Economics / Risk Assessment & Management see Insurance / Risk Assessment & Management"
   ],
   "BUS058000": [
     "Business & Economics / Sales & Selling / General"
@@ -3985,7 +3985,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS089000": [
     "Business & Economics / Secretarial Aids & Training",
-    "Business & Economics / Securities see headings under Investments & Securities"
+    "Business & Economics / Securities see headings under Investments & Securities"
   ],
   "BUS059000": [
     "Business & Economics / Skills"
@@ -4001,15 +4001,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS062000": [
     "Business & Economics / Structural Adjustment",
-    "Business & Economics / Sustainable Development see Development / Sustainable Development"
+    "Business & Economics / Sustainable Development see Development / Sustainable Development"
   ],
   "BUS064000": [
     "Business & Economics / Taxation / General"
   ],
   "BUS064010": [
     "Business & Economics / Taxation / Corporate",
-    "Business & Economics / Taxation / International see International / Taxation",
-    "Business & Economics / Taxation / Personal see Personal Finance / Taxation"
+    "Business & Economics / Taxation / International see International / Taxation",
+    "Business & Economics / Taxation / Personal see Personal Finance / Taxation"
   ],
   "BUS064030": [
     "Business & Economics / Taxation / Small Business"
@@ -4022,7 +4022,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "BUS066000": [
     "Business & Economics / Training",
-    "Business & Economics / Travel & Tourism see Industries / Hospitality, Travel & Tourism"
+    "Business & Economics / Travel & Tourism see Industries / Hospitality, Travel & Tourism"
   ],
   "BUS067000": [
     "Business & Economics / Urban & Regional"
@@ -4044,7 +4044,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PER017000": [
     "Performing Arts / Animation (see also Film / Genres / Animated)",
-    "Performing Arts / Broadway & Musicals see Theater / Broadway & Musicals"
+    "Performing Arts / Broadway & Musicals see Theater / Broadway & Musicals"
   ],
   "PER014000": [
     "Performing Arts / Business Aspects"
@@ -4156,8 +4156,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PER018000": [
     "Performing Arts / Individual Director (see also BIOGRAPHY & AUTOBIOGRAPHY / Entertainment & Performing Arts)",
-    "Performing Arts / Mass Media see SOCIAL SCIENCE / Media Studies",
-    "Performing Arts / Miming see Theater / Miming"
+    "Performing Arts / Mass Media see SOCIAL SCIENCE / Media Studies",
+    "Performing Arts / Miming see Theater / Miming"
   ],
   "PER020000": [
     "Performing Arts / Monologues & Scenes"
@@ -4257,7 +4257,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PER011040": [
     "Performing Arts / Theater / Stagecraft & Scenography",
-    "Performing Arts / Video see headings under Film"
+    "Performing Arts / Video see headings under Film"
   ],
   "PER023000": [
     "Performing Arts / Voice Acting"
@@ -4279,7 +4279,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CGN023000": [
     "Comics & Graphic Novels / Asian American & Pacific Islander",
-    "Comics & Graphic Novels / Comics & Cartoons see HUMOR / Form / Comic Strips & Cartoons"
+    "Comics & Graphic Novels / Comics & Cartoons see HUMOR / Form / Comic Strips & Cartoons"
   ],
   "CGN024000": [
     "Comics & Graphic Novels / Coming of Age"
@@ -4382,8 +4382,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CGN030000": [
     "Comics & Graphic Novels / Jewish",
-    "Comics & Graphic Novels / Juvenile Fiction see headings under JUVENILE FICTION / Comics & Graphic Novels",
-    "Comics & Graphic Novels / Juvenile Nonfiction see headings under JUVENILE NONFICTION / Comics & Graphic Novels"
+    "Comics & Graphic Novels / Juvenile Fiction see headings under JUVENILE FICTION / Comics & Graphic Novels",
+    "Comics & Graphic Novels / Juvenile Nonfiction see headings under JUVENILE NONFICTION / Comics & Graphic Novels"
   ],
   "CGN009000": [
     "Comics & Graphic Novels / LGBTQ+ / General"
@@ -4489,14 +4489,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CGN017000": [
     "Comics & Graphic Novels / Supervillains",
-    "Comics & Graphic Novels / Techniques see ART / Techniques / Cartooning",
-    "Comics & Graphic Novels / Young Adult Fiction see headings under YOUNG ADULT FICTION / Comics & Graphic Novels",
-    "Comics & Graphic Novels / Young Adult Nonfiction see headings under YOUNG ADULT NONFICTION / Comics & Graphic Novels"
+    "Comics & Graphic Novels / Techniques see ART / Techniques / Cartooning",
+    "Comics & Graphic Novels / Young Adult Fiction see headings under YOUNG ADULT FICTION / Comics & Graphic Novels",
+    "Comics & Graphic Novels / Young Adult Nonfiction see headings under YOUNG ADULT NONFICTION / Comics & Graphic Novels"
   ],
   "PET000000": [
     "Pets / General",
-    "Pets / Amphibians see Reptiles, Amphibians & Terrariums",
-    "Pets / Aquarium see Fish & Aquariums"
+    "Pets / Amphibians see Reptiles, Amphibians & Terrariums",
+    "Pets / Aquarium see Fish & Aquariums"
   ],
   "PET002000": [
     "Pets / Birds"
@@ -4506,7 +4506,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PET003010": [
     "Pets / Cats / Breeds",
-    "Pets / Cooking for Pets see COOKING / Pet Food"
+    "Pets / Cooking for Pets see COOKING / Pet Food"
   ],
   "PET004000": [
     "Pets / Dogs / General"
@@ -4540,7 +4540,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PET009000": [
     "Pets / Reptiles, Amphibians & Terrariums",
-    "Pets / Travel see TRAVEL / Special Interest / Pets"
+    "Pets / Travel see TRAVEL / Special Interest / Pets"
   ],
   "COM000000": [
     "Computers / General"
@@ -4616,7 +4616,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM059000": [
     "Computers / Computer Engineering",
-    "Computers / Computer Industry see BUSINESS & ECONOMICS / Industries / Computers & Information Technology"
+    "Computers / Computer Industry see BUSINESS & ECONOMICS / Industries / Computers & Information Technology"
   ],
   "COM013000": [
     "Computers / Computer Literacy"
@@ -4626,11 +4626,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM072000": [
     "Computers / Computer Simulation",
-    "Computers / Computer Viruses see Security / Viruses & Malware"
+    "Computers / Computer Viruses see Security / Viruses & Malware"
   ],
   "COM017000": [
     "Computers / Cybernetics",
-    "Computers / Data Recovery see System Administration / Backup & Recovery"
+    "Computers / Data Recovery see System Administration / Backup & Recovery"
   ],
   "COM018000": [
     "Computers / Data Science / General"
@@ -4694,16 +4694,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM064000": [
     "Computers / Electronic Commerce (see also headings under BUSINESS & ECONOMICS / E-Commerce)",
-    "Computers / Email see Business & Productivity Software / Email Clients or System Administration / Email Servers"
+    "Computers / Email see Business & Productivity Software / Email Clients or System Administration / Email Servers"
   ],
   "COM092000": [
     "Computers / Embedded Computer Systems",
-    "Computers / Entertainment & Games see GAMES & ACTIVITIES / Video & Mobile",
-    "Computers / Financial Applications see Business & Productivity Software / Accounting & Finance"
+    "Computers / Entertainment & Games see GAMES & ACTIVITIES / Video & Mobile",
+    "Computers / Financial Applications see Business & Productivity Software / Accounting & Finance"
   ],
   "COM099000": [
     "Computers / Forensics",
-    "Computers / Games see Programming / Games or GAMES & ACTIVITIES / Video & Mobile"
+    "Computers / Games see Programming / Games or GAMES & ACTIVITIES / Video & Mobile"
   ],
   "COM067000": [
     "Computers / Hardware / General"
@@ -4737,18 +4737,18 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM079010": [
     "Computers / Human-Computer Interaction (HCI)",
-    "Computers / Hypertext Systems see Languages / HTML"
+    "Computers / Hypertext Systems see Languages / HTML"
   ],
   "COM012050": [
     "Computers / Image Processing",
-    "Computers / Information Storage & Retrieval see System Administration / Storage & Retrieval"
+    "Computers / Information Storage & Retrieval see System Administration / Storage & Retrieval"
   ],
   "COM032000": [
     "Computers / Information Technology"
   ],
   "COM031000": [
     "Computers / Information Theory",
-    "Computers / Input-Output Equipment see headings under Hardware"
+    "Computers / Input-Output Equipment see headings under Hardware"
   ],
   "COM034000": [
     "Computers / Interactive & Multimedia"
@@ -4758,11 +4758,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM060100": [
     "Computers / Internet / Blogging",
-    "Computers / Internet / Commercial Use see Electronic Commerce or headings under BUSINESS & ECONOMICS / E-Commerce"
+    "Computers / Internet / Commercial Use see Electronic Commerce or headings under BUSINESS & ECONOMICS / E-Commerce"
   ],
   "COM060170": [
     "Computers / Internet / Content Management Systems",
-    "Computers / Internet / Intranets see Networking / Intranets & Extranets"
+    "Computers / Internet / Intranets see Networking / Intranets & Extranets"
   ],
   "COM060040": [
     "Computers / Internet / Online Safety & Privacy"
@@ -4853,14 +4853,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM037000": [
     "Computers / Machine Theory",
-    "Computers / Mainframes & Minicomputers see Hardware / Mainframes & Minicomputers"
+    "Computers / Mainframes & Minicomputers see Hardware / Mainframes & Minicomputers"
   ],
   "COM039000": [
     "Computers / Management Information Systems"
   ],
   "COM077000": [
     "Computers / Mathematical & Statistical Software",
-    "Computers / Multimedia see Interactive & Multimedia"
+    "Computers / Multimedia see Interactive & Multimedia"
   ],
   "COM043000": [
     "Computers / Networking / General"
@@ -4876,7 +4876,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM043040": [
     "Computers / Networking / Network Protocols",
-    "Computers / Networking / Security see Security / Network Security"
+    "Computers / Networking / Security see Security / Network Security"
   ],
   "COM046000": [
     "Computers / Operating Systems / General"
@@ -4910,8 +4910,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM096000": [
     "Computers / Parallel Processing",
-    "Computers / Peripherals see Hardware / Printers, Scanners & External Accessories",
-    "Computers / Personal Computers & Microcomputers see headings under Hardware / Personal Computers"
+    "Computers / Peripherals see Hardware / Printers, Scanners & External Accessories",
+    "Computers / Personal Computers & Microcomputers see headings under Hardware / Personal Computers"
   ],
   "COM051000": [
     "Computers / Programming / General"
@@ -4924,7 +4924,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM012040": [
     "Computers / Programming / Games",
-    "Computers / Programming / Languages see headings under Languages"
+    "Computers / Programming / Languages see headings under Languages"
   ],
   "COM051370": [
     "Computers / Programming / Macintosh"
@@ -4943,7 +4943,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM051220": [
     "Computers / Programming / Parallel",
-    "Computers / Programming Languages see headings under Languages"
+    "Computers / Programming Languages see headings under Languages"
   ],
   "COM097000": [
     "Computers / Quantum Computing"
@@ -5007,15 +5007,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "COM088020": [
     "Computers / System Administration / Windows Administration",
-    "Computers / Systems Analysis see Software Development & Engineering / Systems Analysis & Design"
+    "Computers / Systems Analysis see Software Development & Engineering / Systems Analysis & Design"
   ],
   "COM070000": [
     "Computers / User Interfaces",
-    "Computers / Video Games see GAMES & ACTIVITIES / Video & Mobile"
+    "Computers / Video Games see GAMES & ACTIVITIES / Video & Mobile"
   ],
   "COM057000": [
     "Computers / Virtual & Augmented Reality",
-    "Computers / Viruses see Security / Viruses & Malware"
+    "Computers / Viruses see Security / Viruses & Malware"
   ],
   "COM098000": [
     "Computers / Voice Search & Digital Assistants"
@@ -5049,8 +5049,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHI005000": [
     "Philosophy / Ethics & Moral Philosophy",
-    "Philosophy / Ethnophilosophy see headings under SOCIAL SCIENCE / Ethnic Studies",
-    "Philosophy / Feminism see SOCIAL SCIENCE / Feminism & Feminist Theory"
+    "Philosophy / Ethnophilosophy see headings under SOCIAL SCIENCE / Ethnic Studies",
+    "Philosophy / Feminism see SOCIAL SCIENCE / Feminism & Feminist Theory"
   ],
   "PHI007000": [
     "Philosophy / Free Will & Determinism"
@@ -5099,7 +5099,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHI015000": [
     "Philosophy / Mind & Body",
-    "Philosophy / Moral Philosophy see Ethics & Moral Philosophy"
+    "Philosophy / Moral Philosophy see Ethics & Moral Philosophy"
   ],
   "PHI031000": [
     "Philosophy / Movements / General"
@@ -5148,14 +5148,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHI030000": [
     "Philosophy / Movements / Utilitarianism",
-    "Philosophy / Mysticism see BODY, MIND & SPIRIT / Mysticism or RELIGION / Mysticism"
+    "Philosophy / Mysticism see BODY, MIND & SPIRIT / Mysticism or RELIGION / Mysticism"
   ],
   "PHI049000": [
     "Philosophy / Nature",
-    "Philosophy / Philosophy of Education see EDUCATION / Philosophy, Theory & Social Aspects",
-    "Philosophy / Philosophy of Language see Language",
-    "Philosophy / Philosophy of Religion see RELIGION / Philosophy",
-    "Philosophy / Philosophy of Science see SCIENCE / Philosophy & Social Aspects"
+    "Philosophy / Philosophy of Education see EDUCATION / Philosophy, Theory & Social Aspects",
+    "Philosophy / Philosophy of Language see Language",
+    "Philosophy / Philosophy of Religion see RELIGION / Philosophy",
+    "Philosophy / Philosophy of Science see SCIENCE / Philosophy & Social Aspects"
   ],
   "PHI019000": [
     "Philosophy / Political"
@@ -5171,9 +5171,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHI023000": [
     "Philosophy / Taoist",
-    "Philosophy / Utopian see POLITICAL SCIENCE / Utopias",
-    "Philosophy / Western see specific headings in this section",
-    "Philosophy / Yoga see Hindu or HEALTH & FITNESS / Yoga"
+    "Philosophy / Utopian see POLITICAL SCIENCE / Utopias",
+    "Philosophy / Western see specific headings in this section",
+    "Philosophy / Yoga see Hindu or HEALTH & FITNESS / Yoga"
   ],
   "PHI025000": [
     "Philosophy / Zen"
@@ -5213,7 +5213,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB128000": [
     "Cooking / Celebrities & Media Tie-In",
-    "Cooking / Cigars & Tobacco see Entertaining or ANTIQUES & COLLECTIBLES / Subjects & Themes / Tobacco-Related"
+    "Cooking / Cigars & Tobacco see Entertaining or ANTIQUES & COLLECTIBLES / Subjects & Themes / Tobacco-Related"
   ],
   "CKB127000": [
     "Cooking / Comfort Food"
@@ -5331,7 +5331,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB052000": [
     "Cooking / Health & Healing / Low Salt",
-    "Cooking / Health & Healing / Low Sugar see Health & Healing / Diabetic & Sugar-Free"
+    "Cooking / Health & Healing / Low Sugar see Health & Healing / Diabetic & Sugar-Free"
   ],
   "CKB026000": [
     "Cooking / Health & Healing / Weight Control"
@@ -5452,7 +5452,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB097000": [
     "Cooking / Regional & Cultural / Australian & Oceanian",
-    "Cooking / Regional & Cultural / British see Regional & Cultural / English, Scottish & Welsh"
+    "Cooking / Regional & Cultural / British see Regional & Cultural / English, Scottish & Welsh"
   ],
   "CKB013000": [
     "Cooking / Regional & Cultural / Cajun & Creole"
@@ -5468,8 +5468,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB017000": [
     "Cooking / Regional & Cultural / Chinese",
-    "Cooking / Regional & Cultural / Creole see Regional & Cultural / Cajun & Creole",
-    "Cooking / Regional & Cultural / Eastern European see Regional & Cultural / European"
+    "Cooking / Regional & Cultural / Creole see Regional & Cultural / Cajun & Creole",
+    "Cooking / Regional & Cultural / Eastern European see Regional & Cultural / European"
   ],
   "CKB011000": [
     "Cooking / Regional & Cultural / English, Scottish & Welsh"
@@ -5515,7 +5515,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB123000": [
     "Cooking / Regional & Cultural / Korean",
-    "Cooking / Regional & Cultural / Latin American see Regional & Cultural / Central American & South American"
+    "Cooking / Regional & Cultural / Latin American see Regional & Cultural / Central American & South American"
   ],
   "CKB055000": [
     "Cooking / Regional & Cultural / Mediterranean"
@@ -5540,11 +5540,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB074000": [
     "Cooking / Regional & Cultural / Scandinavian",
-    "Cooking / Regional & Cultural / Scottish see Regional & Cultural / English, Scottish & Welsh"
+    "Cooking / Regional & Cultural / Scottish see Regional & Cultural / English, Scottish & Welsh"
   ],
   "CKB078000": [
     "Cooking / Regional & Cultural / Soul Food",
-    "Cooking / Regional & Cultural / South American see Regional & Cultural / Central American & South American"
+    "Cooking / Regional & Cultural / South American see Regional & Cultural / Central American & South American"
   ],
   "CKB124000": [
     "Cooking / Regional & Cultural / Southeast Asian"
@@ -5560,8 +5560,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CKB094000": [
     "Cooking / Regional & Cultural / Vietnamese",
-    "Cooking / Regional & Cultural / Welsh see Regional & Cultural / English, Scottish & Welsh",
-    "Cooking / Regional & Cultural / West Indian see Regional & Cultural / Caribbean & West Indian"
+    "Cooking / Regional & Cultural / Welsh see Regional & Cultural / English, Scottish & Welsh",
+    "Cooking / Regional & Cultural / West Indian see Regional & Cultural / Caribbean & West Indian"
   ],
   "CKB077000": [
     "Cooking / Seasonal"
@@ -5625,11 +5625,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHO026000": [
     "Photography / Astrophotography",
-    "Photography / Basic Techniques see headings under Techniques"
+    "Photography / Basic Techniques see headings under Techniques"
   ],
   "PHO003000": [
     "Photography / Business Aspects",
-    "Photography / Camera Specific see Techniques / Equipment"
+    "Photography / Camera Specific see Techniques / Equipment"
   ],
   "PHO004000": [
     "Photography / Collections, Catalogs, Exhibitions / General"
@@ -5663,7 +5663,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHO011030": [
     "Photography / Individual Photographers / Monographs",
-    "Photography / Nature & Wildlife see Subjects & Themes / Plants & Animals"
+    "Photography / Nature & Wildlife see Subjects & Themes / Plants & Animals"
   ],
   "PHO014000": [
     "Photography / Photoessays & Documentaries"
@@ -5751,8 +5751,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PHO012000": [
     "Photography / Techniques / Lighting",
-    "Photography / Travel see Subjects & Themes / Regional",
-    "Photography / Videography see Techniques / Cinematography & Videography"
+    "Photography / Travel see Subjects & Themes / Regional",
+    "Photography / Videography see Techniques / Cinematography & Videography"
   ],
   "CRA000000": [
     "Crafts & Hobbies / General"
@@ -5774,7 +5774,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CRA003000": [
     "Crafts & Hobbies / Carving",
-    "Crafts & Hobbies / Ceramics see Pottery & Ceramics"
+    "Crafts & Hobbies / Ceramics see Pottery & Ceramics"
   ],
   "CRA066000": [
     "Crafts & Hobbies / Cosplay"
@@ -5820,7 +5820,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CRA012000": [
     "Crafts & Hobbies / Glass & Glassware",
-    "Crafts & Hobbies / Graphic Arts see headings under DESIGN / Graphic Arts"
+    "Crafts & Hobbies / Graphic Arts see headings under DESIGN / Graphic Arts"
   ],
   "CRA034000": [
     "Crafts & Hobbies / Holiday & Seasonal"
@@ -5863,7 +5863,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CRA008000": [
     "Crafts & Hobbies / Needlework / Embroidery",
-    "Crafts & Hobbies / Needlework / Felting see Felting"
+    "Crafts & Hobbies / Needlework / Felting see Felting"
   ],
   "CRA015000": [
     "Crafts & Hobbies / Needlework / Knitting"
@@ -5873,7 +5873,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CRA021000": [
     "Crafts & Hobbies / Needlework / Needlepoint",
-    "Crafts & Hobbies / Needlework / Tatting see Needlework / Lace & Tatting"
+    "Crafts & Hobbies / Needlework / Tatting see Needlework / Lace & Tatting"
   ],
   "CRA023000": [
     "Crafts & Hobbies / Origami"
@@ -5922,7 +5922,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "CRA064000": [
     "Crafts & Hobbies / Soap Making",
-    "Crafts & Hobbies / Stained Glass see Glass & Glassware"
+    "Crafts & Hobbies / Stained Glass see Glass & Glassware"
   ],
   "CRA036000": [
     "Crafts & Hobbies / Stenciling"
@@ -6022,7 +6022,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POE025000": [
     "Poetry / Haiku",
-    "Poetry / History & Criticism see LITERARY CRITICISM / Poetry"
+    "Poetry / History & Criticism see LITERARY CRITICISM / Poetry"
   ],
   "POE030000": [
     "Poetry / Indigenous"
@@ -6044,7 +6044,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POE015000": [
     "Poetry / Native American",
-    "Poetry / Nursery Rhymes see JUVENILE FICTION / Nursery Rhymes"
+    "Poetry / Nursery Rhymes see JUVENILE FICTION / Nursery Rhymes"
   ],
   "POE016000": [
     "Poetry / Russian & Soviet"
@@ -6066,7 +6066,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POE023050": [
     "Poetry / Subjects & Themes / Family",
-    "Poetry / Subjects & Themes / Humorous see HUMOR / Form / Limericks & Verse"
+    "Poetry / Subjects & Themes / Humorous see HUMOR / Form / Limericks & Verse"
   ],
   "POE023020": [
     "Poetry / Subjects & Themes / Love & Erotica"
@@ -6085,7 +6085,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POE023070": [
     "Poetry / Subjects & Themes / War",
-    "Poetry / Turkic see Middle Eastern"
+    "Poetry / Turkic see Middle Eastern"
   ],
   "POE024000": [
     "Poetry / Women Authors"
@@ -6107,7 +6107,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "DES005000": [
     "Design / Fashion & Accessories",
-    "Design / Feng Shui see BODY, MIND & SPIRIT / Feng Shui"
+    "Design / Feng Shui see BODY, MIND & SPIRIT / Feng Shui"
   ],
   "DES006000": [
     "Design / Furniture"
@@ -6138,7 +6138,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "DES009000": [
     "Design / Industrial",
-    "Design / Interior Decorating see ARCHITECTURE / Interior Design / General or HOUSE & HOME / Decorating & Furnishings"
+    "Design / Interior Decorating see ARCHITECTURE / Interior Design / General or HOUSE & HOME / Decorating & Furnishings"
   ],
   "DES014000": [
     "Design / Jewelry"
@@ -6193,7 +6193,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL009000": [
     "Political Science / Comparative Politics",
-    "Political Science / Congress see American Government / Legislative Branch"
+    "Political Science / Congress see American Government / Legislative Branch"
   ],
   "POL022000": [
     "Political Science / Constitutions"
@@ -6203,7 +6203,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL032000": [
     "Political Science / Essays",
-    "Political Science / Federal Government see American Government / National or headings under World"
+    "Political Science / Federal Government see American Government / National or headings under World"
   ],
   "POL061000": [
     "Political Science / Genocide & War Crimes"
@@ -6306,7 +6306,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL031000": [
     "Political Science / Political Ideologies / Nationalism & Patriotism",
-    "Political Science / Political Ideologies / Racism see SOCIAL SCIENCE / Discrimination"
+    "Political Science / Political Ideologies / Racism see SOCIAL SCIENCE / Discrimination"
   ],
   "POL042040": [
     "Political Science / Political Ideologies / Radicalism"
@@ -6325,7 +6325,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL015000": [
     "Political Science / Political Process / Political Parties",
-    "Political Science / Practical Politics see headings under Political Process"
+    "Political Science / Practical Politics see headings under Political Process"
   ],
   "POL066000": [
     "Political Science / Privacy & Surveillance (see also SOCIAL SCIENCE / Privacy & Surveillance)"
@@ -6347,7 +6347,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL002000": [
     "Political Science / Public Policy / City Planning & Urban Development",
-    "Political Science / Public Policy / Commercial Policy see BUSINESS & ECONOMICS / Commercial Policy"
+    "Political Science / Public Policy / Commercial Policy see BUSINESS & ECONOMICS / Commercial Policy"
   ],
   "POL050000": [
     "Political Science / Public Policy / Communication Policy"
@@ -6357,7 +6357,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL024000": [
     "Political Science / Public Policy / Economic Policy",
-    "Political Science / Public Policy / Education see headings under EDUCATION / Educational Policy & Reform"
+    "Political Science / Public Policy / Education see headings under EDUCATION / Educational Policy & Reform"
   ],
   "POL068000": [
     "Political Science / Public Policy / Energy Policy"
@@ -6400,7 +6400,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "POL012000": [
     "Political Science / Security (National & International)",
-    "Political Science / State & Local Government see American Government / Local or American Government / State"
+    "Political Science / State & Local Government see American Government / Local or American Government / State"
   ],
   "POL037000": [
     "Political Science / Terrorism"
@@ -6470,7 +6470,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "DRA012000": [
     "Drama / Australian & Oceanian",
-    "Drama / Authorship & Technique see PERFORMING ARTS / Theater / Playwriting"
+    "Drama / Authorship & Technique see PERFORMING ARTS / Theater / Playwriting"
   ],
   "DRA013000": [
     "Drama / Canadian"
@@ -6501,7 +6501,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "DRA004040": [
     "Drama / European / Spanish & Portuguese",
-    "Drama / History & Criticism see LITERARY CRITICISM / Drama"
+    "Drama / History & Criticism see LITERARY CRITICISM / Drama"
   ],
   "DRA020000": [
     "Drama / Indigenous"
@@ -6520,7 +6520,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "DRA015000": [
     "Drama / Middle Eastern",
-    "Drama / Monologues see PERFORMING ARTS / Monologues & Scenes"
+    "Drama / Monologues see PERFORMING ARTS / Monologues & Scenes"
   ],
   "DRA023000": [
     "Drama / Native American"
@@ -6551,7 +6551,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY000000": [
     "Psychology / General",
-    "Psychology / Abnormal Psychology see headings under Psychopathology"
+    "Psychology / Abnormal Psychology see headings under Psychopathology"
   ],
   "PSY054000": [
     "Psychology / Animal & Comparative Psychology"
@@ -6600,7 +6600,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY044000": [
     "Psychology / Developmental / Lifespan Development",
-    "Psychology / Education & School Psychology see EDUCATION / Educational Psychology *"
+    "Psychology / Education & School Psychology see EDUCATION / Educational Psychology"
   ],
   "PSY012000": [
     "Psychology / Education, Training & Supervision"
@@ -6631,7 +6631,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY052000": [
     "Psychology / Grief & Loss",
-    "Psychology / Group Psychology see Social Psychology"
+    "Psychology / Group Psychology see Social Psychology"
   ],
   "PSY063000": [
     "Psychology / Health Psychology"
@@ -6656,16 +6656,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY036000": [
     "Psychology / Mental Health",
-    "Psychology / Mental Illness see headings under Psychopathology",
-    "Psychology / Methodology see Research & Methodology"
+    "Psychology / Mental Illness see headings under Psychopathology",
+    "Psychology / Methodology see Research & Methodology"
   ],
   "PSY020000": [
     "Psychology / Neuropsychology",
-    "Psychology / Occupational Psychology see Industrial & Organizational Psychology"
+    "Psychology / Occupational Psychology see Industrial & Organizational Psychology"
   ],
   "PSY065000": [
     "Psychology / Parapsychology",
-    "Psychology / Pathological Psychology see headings under Psychopathology"
+    "Psychology / Pathological Psychology see headings under Psychopathology"
   ],
   "PSY023000": [
     "Psychology / Personality"
@@ -6678,8 +6678,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY046000": [
     "Psychology / Practice Management",
-    "Psychology / Psychiatry see headings under MEDICAL / Psychiatry",
-    "Psychology / Psychoanalysis see Movements / Psychoanalysis"
+    "Psychology / Psychiatry see headings under MEDICAL / Psychiatry",
+    "Psychology / Psychoanalysis see Movements / Psychoanalysis"
   ],
   "PSY067000": [
     "Psychology / Psychology of Technology"
@@ -6725,7 +6725,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY022050": [
     "Psychology / Psychopathology / Schizophrenia",
-    "Psychology / Psychopharmacology see MEDICAL / Psychiatry / Psychopharmacology"
+    "Psychology / Psychopharmacology see MEDICAL / Psychiatry / Psychopharmacology"
   ],
   "PSY028000": [
     "Psychology / Psychotherapy / General"
@@ -6792,19 +6792,19 @@ export const BISAC: Record<string, string[]> = {
   ],
   "PSY030000": [
     "Psychology / Research & Methodology",
-    "Psychology / Sexuality see Human Sexuality"
+    "Psychology / Sexuality see Human Sexuality"
   ],
   "PSY031000": [
     "Psychology / Social Psychology",
-    "Psychology / Sports & Exercise Psychology see SPORTS & RECREATION / Sports Psychology *"
+    "Psychology / Sports & Exercise Psychology see SPORTS & RECREATION / Sports Psychology"
   ],
   "PSY032000": [
     "Psychology / Statistics",
-    "Psychology / Substance Abuse see Psychopathology / Addiction"
+    "Psychology / Substance Abuse see Psychopathology / Addiction"
   ],
   "PSY037000": [
     "Psychology / Suicide",
-    "Psychology / Testing & Measurement see Assessment, Testing & Measurement"
+    "Psychology / Testing & Measurement see Assessment, Testing & Measurement"
   ],
   "PSY075000": [
     "Psychology / Trauma Psychology"
@@ -6832,7 +6832,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU003000": [
     "Education / Aims & Objectives",
-    "Education / Alternative Education see Non-Formal Education"
+    "Education / Alternative Education see Non-Formal Education"
   ],
   "EDU057000": [
     "Education / Arts in Education"
@@ -6878,7 +6878,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU041000": [
     "Education / Distance, Open & Online Education",
-    "Education / Driver Education see TRANSPORTATION / Automotive / Driver Education"
+    "Education / Driver Education see TRANSPORTATION / Automotive / Driver Education"
   ],
   "EDU034000": [
     "Education / Educational Policy & Reform / General"
@@ -6900,7 +6900,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU013000": [
     "Education / Finance",
-    "Education / Funding see Finance or STUDY AIDS / Financial Aid"
+    "Education / Funding see Finance or STUDY AIDS / Financial Aid"
   ],
   "EDU016000": [
     "Education / History"
@@ -6910,7 +6910,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU048000": [
     "Education / Inclusive Education",
-    "Education / Institutions see Organizations & Institutions"
+    "Education / Institutions see Organizations & Institutions"
   ],
   "EDU018000": [
     "Education / Language Experience Approach"
@@ -6920,8 +6920,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU051000": [
     "Education / Learning Styles",
-    "Education / Library & Information Science see headings under LANGUAGE ARTS & DISCIPLINES / Library & Information Science",
-    "Education / Mainstreaming see Inclusive Education"
+    "Education / Library & Information Science see headings under LANGUAGE ARTS & DISCIPLINES / Library & Information Science",
+    "Education / Mainstreaming see Inclusive Education"
   ],
   "EDU020000": [
     "Education / Multicultural Education"
@@ -6982,7 +6982,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU060050": [
     "Education / Schools / Types / Religious",
-    "Education / Social Aspects see Philosophy, Theory & Social Aspects"
+    "Education / Social Aspects see Philosophy, Theory & Social Aspects"
   ],
   "EDU026000": [
     "Education / Special Education / General"
@@ -7010,7 +7010,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "EDU027000": [
     "Education / Statistics",
-    "Education / Student Financial Aid see STUDY AIDS / Financial Aid"
+    "Education / Student Financial Aid see STUDY AIDS / Financial Aid"
   ],
   "EDU038000": [
     "Education / Student Life & Student Affairs"
@@ -7080,16 +7080,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REF001000": [
     "Reference / Almanacs",
-    "Reference / Annuals see Yearbooks & Annuals"
+    "Reference / Annuals see Yearbooks & Annuals"
   ],
   "REF002000": [
     "Reference / Atlases, Gazetteers & Maps (see also TRAVEL / Maps & Road Atlases)",
-    "Reference / Basic Skills see Personal & Practical Guides",
-    "Reference / Biographical Dictionaries see BIOGRAPHY & AUTOBIOGRAPHY / Reference"
+    "Reference / Basic Skills see Personal & Practical Guides",
+    "Reference / Biographical Dictionaries see BIOGRAPHY & AUTOBIOGRAPHY / Reference"
   ],
   "REF004000": [
     "Reference / Bibliographies & Indexes",
-    "Reference / Business Skills see BUSINESS & ECONOMICS / Skills"
+    "Reference / Business Skills see BUSINESS & ECONOMICS / Skills"
   ],
   "REF030000": [
     "Reference / Consumer Guides"
@@ -7108,14 +7108,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REF011000": [
     "Reference / Etiquette",
-    "Reference / Etymology see LANGUAGE ARTS & DISCIPLINES / Linguistics / Etymology"
+    "Reference / Etymology see LANGUAGE ARTS & DISCIPLINES / Linguistics / Etymology"
   ],
   "REF032000": [
     "Reference / Event Planning"
   ],
   "REF013000": [
     "Reference / Genealogy & Heraldry",
-    "Reference / Indexes see Bibliographies & Indexes"
+    "Reference / Indexes see Bibliographies & Indexes"
   ],
   "REF015000": [
     "Reference / Personal & Practical Guides"
@@ -7125,8 +7125,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REF035000": [
     "Reference / Planners",
-    "Reference / Public Speaking see LANGUAGE ARTS & DISCIPLINES / Public Speaking & Speech Writing",
-    "Reference / Publishing see LANGUAGE ARTS & DISCIPLINES / Publishers & Publishing Industry"
+    "Reference / Public Speaking see LANGUAGE ARTS & DISCIPLINES / Public Speaking & Speech Writing",
+    "Reference / Publishing see LANGUAGE ARTS & DISCIPLINES / Publishers & Publishing Industry"
   ],
   "REF018000": [
     "Reference / Questions & Answers"
@@ -7136,11 +7136,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REF020000": [
     "Reference / Research",
-    "Reference / Secretarial Aids & Training see BUSINESS & ECONOMICS / Secretarial Aids & Training"
+    "Reference / Secretarial Aids & Training see BUSINESS & ECONOMICS / Secretarial Aids & Training"
   ],
   "REF034000": [
     "Reference / Signs & Symbols",
-    "Reference / Synonyms & Antonyms see Thesauri"
+    "Reference / Synonyms & Antonyms see Thesauri"
   ],
   "REF022000": [
     "Reference / Thesauri"
@@ -7153,7 +7153,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REF025000": [
     "Reference / Word Lists",
-    "Reference / Writing Skills see headings under LANGUAGE ARTS & DISCIPLINES"
+    "Reference / Writing Skills see headings under LANGUAGE ARTS & DISCIPLINES"
   ],
   "REF027000": [
     "Reference / Yearbooks & Annuals"
@@ -7196,8 +7196,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FAM050000": [
     "Family & Relationships / Babysitting, Day Care & Child Care",
-    "Family & Relationships / Bereavement see Death, Grief, Bereavement",
-    "Family & Relationships / Breastfeeding see HEALTH & FITNESS / Breastfeeding"
+    "Family & Relationships / Bereavement see Death, Grief, Bereavement",
+    "Family & Relationships / Breastfeeding see HEALTH & FITNESS / Breastfeeding"
   ],
   "FAM049000": [
     "Family & Relationships / Bullying"
@@ -7237,12 +7237,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FAM021000": [
     "Family & Relationships / Friendship",
-    "Family & Relationships / Grief see Death, Grief, Bereavement",
-    "Family & Relationships / Humorous see HUMOR / Topic / Marriage & Family or HUMOR / Topic / Men, Women & Relationships"
+    "Family & Relationships / Grief see Death, Grief, Bereavement",
+    "Family & Relationships / Humorous see HUMOR / Topic / Marriage & Family or HUMOR / Topic / Men, Women & Relationships"
   ],
   "FAM061000": [
     "Family & Relationships / Indigenous Families",
-    "Family & Relationships / Infertility see HEALTH & FITNESS / Fertility & Infertility"
+    "Family & Relationships / Infertility see HEALTH & FITNESS / Fertility & Infertility"
   ],
   "FAM028000": [
     "Family & Relationships / Learning Disabilities"
@@ -7312,15 +7312,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FAM035000": [
     "Family & Relationships / Peer Pressure",
-    "Family & Relationships / Pregnancy & Childbirth see HEALTH & FITNESS / Pregnancy & Childbirth"
+    "Family & Relationships / Pregnancy & Childbirth see HEALTH & FITNESS / Pregnancy & Childbirth"
   ],
   "FAM037000": [
     "Family & Relationships / Prejudice"
   ],
   "FAM038000": [
     "Family & Relationships / Reference",
-    "Family & Relationships / Romance see Love & Romance",
-    "Family & Relationships / Sexuality see HEALTH & FITNESS / Sexuality or RELIGION / Sexuality & Gender Studies or SELF-HELP / Sexual Instruction"
+    "Family & Relationships / Romance see Love & Romance",
+    "Family & Relationships / Sexuality see HEALTH & FITNESS / Sexuality or RELIGION / Sexuality & Gender Studies or SELF-HELP / Sexual Instruction"
   ],
   "FAM041000": [
     "Family & Relationships / Siblings"
@@ -7342,7 +7342,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL072000": [
     "Religion / Antiquities & Archaeology",
-    "Religion / Archaeology see Antiquities & Archaeology"
+    "Religion / Archaeology see Antiquities & Archaeology"
   ],
   "REL004000": [
     "Religion / Atheism"
@@ -7508,8 +7508,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL092000": [
     "Religion / Buddhism / Zen (see also PHILOSOPHY / Zen)",
-    "Religion / Canon & Ecclesiastical Law see Christian Church / Canon & Ecclesiastical Law",
-    "Religion / Catechisms see Christianity / Catechisms or specific non-Christian religions"
+    "Religion / Canon & Ecclesiastical Law see Christian Church / Canon & Ecclesiastical Law",
+    "Religion / Catechisms see Christianity / Catechisms or specific non-Christian religions"
   ],
   "REL108000": [
     "Religion / Christian Church / General"
@@ -7597,7 +7597,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL012130": [
     "Religion / Christian Living / Women's Interests",
-    "Religion / Christian Literature see Christianity / Literature & the Arts"
+    "Religion / Christian Literature see Christianity / Literature & the Arts"
   ],
   "REL109000": [
     "Religion / Christian Ministry / General"
@@ -7652,7 +7652,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL067040": [
     "Religion / Christian Theology / Christology",
-    "Religion / Christian Theology / Doctrinal see Christian Theology / Systematic"
+    "Religion / Christian Theology / Doctrinal see Christian Theology / Systematic"
   ],
   "REL067050": [
     "Religion / Christian Theology / Ecclesiology"
@@ -7710,19 +7710,19 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL046000": [
     "Religion / Christianity / Church of Jesus Christ of Latter-day Saints (Mormon)",
-    "Religion / Christianity / Congregational see Christianity / United Church of Christ"
+    "Religion / Christianity / Congregational see Christianity / United Church of Christ"
   ],
   "REL094000": [
     "Religion / Christianity / Denominations"
   ],
   "REL027000": [
     "Religion / Christianity / Episcopalian",
-    "Religion / Christianity / Friends see Christianity / Quaker"
+    "Religion / Christianity / Friends see Christianity / Quaker"
   ],
   "REL015000": [
     "Religion / Christianity / History",
-    "Religion / Christianity / Holidays see headings under Holidays",
-    "Religion / Christianity / Holy Spirit see Christian Theology / Pneumatology"
+    "Religion / Christianity / Holidays see headings under Holidays",
+    "Religion / Christianity / Holy Spirit see Christian Theology / Pneumatology"
   ],
   "REL096000": [
     "Religion / Christianity / Jehovah's Witnesses"
@@ -7738,14 +7738,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL044000": [
     "Religion / Christianity / Methodist",
-    "Religion / Christianity / Mormon see Christianity / Church of Jesus Christ of Latter-day Saints (Mormon)"
+    "Religion / Christianity / Mormon see Christianity / Church of Jesus Christ of Latter-day Saints (Mormon)"
   ],
   "REL049000": [
     "Religion / Christianity / Orthodox"
   ],
   "REL079000": [
     "Religion / Christianity / Pentecostal & Charismatic",
-    "Religion / Christianity / Prayerbooks see Prayerbooks / Christian"
+    "Religion / Christianity / Prayerbooks see Prayerbooks / Christian"
   ],
   "REL097000": [
     "Religion / Christianity / Presbyterian"
@@ -7755,25 +7755,25 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL088000": [
     "Religion / Christianity / Quaker",
-    "Religion / Christianity / Roman Catholic see Christianity / Catholic"
+    "Religion / Christianity / Roman Catholic see Christianity / Catholic"
   ],
   "REL110000": [
     "Religion / Christianity / Saints & Sainthood",
-    "Religion / Christianity / Sermons see Sermons / Christian"
+    "Religion / Christianity / Sermons see Sermons / Christian"
   ],
   "REL098000": [
     "Religion / Christianity / Seventh-Day Adventist"
   ],
   "REL059000": [
     "Religion / Christianity / Shaker",
-    "Religion / Christianity / Society of Friends see Christianity / Quaker",
-    "Religion / Christianity / Unitarian Universalism see Unitarian Universalism"
+    "Religion / Christianity / Society of Friends see Christianity / Quaker",
+    "Religion / Christianity / Unitarian Universalism see Unitarian Universalism"
   ],
   "REL111000": [
     "Religion / Christianity / United Church of Christ",
-    "Religion / Church Administration see Christian Church / Administration",
-    "Religion / Church & State see Religion, Politics & State",
-    "Religion / Church Institutions & Organizations see Institutions & Organizations"
+    "Religion / Church Administration see Christian Church / Administration",
+    "Religion / Church & State see Religion, Politics & State",
+    "Religion / Church Institutions & Organizations see Institutions & Organizations"
   ],
   "REL081000": [
     "Religion / Clergy"
@@ -7801,11 +7801,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL022000": [
     "Religion / Devotional",
-    "Religion / Discipleship see Christian Ministry / Discipleship"
+    "Religion / Discipleship see Christian Ministry / Discipleship"
   ],
   "REL024000": [
     "Religion / Eastern",
-    "Religion / Ecclesiastical Law see Christian Church / Canon & Ecclesiastical Law"
+    "Religion / Ecclesiastical Law see Christian Church / Canon & Ecclesiastical Law"
   ],
   "REL107000": [
     "Religion / Eckankar"
@@ -7824,7 +7824,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL028000": [
     "Religion / Ethics",
-    "Religion / Evangelism see Christian Ministry / Evangelism"
+    "Religion / Evangelism see Christian Ministry / Evangelism"
   ],
   "REL077000": [
     "Religion / Faith"
@@ -7834,7 +7834,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL029000": [
     "Religion / Folk & Tribal",
-    "Religion / Freemasonry see SOCIAL SCIENCE / Freemasonry & Secret Societies"
+    "Religion / Freemasonry see SOCIAL SCIENCE / Freemasonry & Secret Societies"
   ],
   "REL078000": [
     "Religion / Fundamentalism"
@@ -7877,7 +7877,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL034050": [
     "Religion / Holidays / Other",
-    "Religion / I Ching see BODY, MIND & SPIRIT / I Ching"
+    "Religion / I Ching see BODY, MIND & SPIRIT / I Ching"
   ],
   "REL124000": [
     "Religion / Indigenous / General"
@@ -7914,7 +7914,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL041000": [
     "Religion / Islam / Koran & Sacred Writings",
-    "Religion / Islam / Law see LAW / Islamic"
+    "Religion / Islam / Law see LAW / Islamic"
   ],
   "REL037030": [
     "Religion / Islam / Rituals & Practice"
@@ -7933,7 +7933,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL038000": [
     "Religion / Jainism",
-    "Religion / Jewish Life see Judaism / Rituals & Practice"
+    "Religion / Jewish Life see Judaism / Rituals & Practice"
   ],
   "REL040000": [
     "Religion / Judaism / General"
@@ -7943,14 +7943,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL040030": [
     "Religion / Judaism / History",
-    "Religion / Judaism / Holocaust see HISTORY / Modern / 20th Century / Holocaust"
+    "Religion / Judaism / Holocaust see HISTORY / Modern / 20th Century / Holocaust"
   ],
   "REL040060": [
     "Religion / Judaism / Kabbalah & Mysticism"
   ],
   "REL040070": [
     "Religion / Judaism / Orthodox",
-    "Religion / Judaism / Prayerbooks, Prayers, Liturgy see Prayerbooks / Jewish"
+    "Religion / Judaism / Prayerbooks, Prayers, Liturgy see Prayerbooks / Jewish"
   ],
   "REL040080": [
     "Religion / Judaism / Reform"
@@ -7966,11 +7966,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL040090": [
     "Religion / Judaism / Theology",
-    "Religion / Koran see Islam / Koran & Sacred Writings"
+    "Religion / Koran see Islam / Koran & Sacred Writings"
   ],
   "REL071000": [
     "Religion / Leadership",
-    "Religion / LGBTQ+ see Sexuality & Gender Studies"
+    "Religion / LGBTQ+ see Sexuality & Gender Studies"
   ],
   "REL042000": [
     "Religion / Meditations"
@@ -7980,19 +7980,19 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL086000": [
     "Religion / Monasticism",
-    "Religion / Muslim see headings under Islam"
+    "Religion / Muslim see headings under Islam"
   ],
   "REL047000": [
     "Religion / Mysticism",
-    "Religion / Mythology see SOCIAL SCIENCE / Folklore & Mythology"
+    "Religion / Mythology see SOCIAL SCIENCE / Folklore & Mythology"
   ],
   "REL126000": [
     "Religion / Native American"
   ],
   "REL117000": [
     "Religion / Paganism & Neo-Paganism",
-    "Religion / Pastoral Counseling see Christian Ministry / Counseling & Recovery",
-    "Religion / Pastoral Ministry see Christian Ministry / Pastoral Resources"
+    "Religion / Pastoral Counseling see Christian Ministry / Counseling & Recovery",
+    "Religion / Pastoral Ministry see Christian Ministry / Pastoral Resources"
   ],
   "REL051000": [
     "Religion / Philosophy"
@@ -8029,12 +8029,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL116000": [
     "Religion / Religious Intolerance, Persecution & Conflict",
-    "Religion / Rituals & Practice see specific religions",
-    "Religion / Rosicrucianism see BODY, MIND & SPIRIT / Hermetism & Rosicrucianism"
+    "Religion / Rituals & Practice see specific religions",
+    "Religion / Rosicrucianism see BODY, MIND & SPIRIT / Hermetism & Rosicrucianism"
   ],
   "REL120000": [
     "Religion / Sacred Places",
-    "Religion / Satanism see Demonology & Satanism"
+    "Religion / Satanism see Demonology & Satanism"
   ],
   "REL089000": [
     "Religion / Scientology"
@@ -8050,20 +8050,20 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL105000": [
     "Religion / Sexuality & Gender Studies",
-    "Religion / Shamanism see BODY, MIND & SPIRIT / Shamanism"
+    "Religion / Shamanism see BODY, MIND & SPIRIT / Shamanism"
   ],
   "REL060000": [
     "Religion / Shintoism"
   ],
   "REL061000": [
     "Religion / Sikhism",
-    "Religion / Sociology of Religion see SOCIAL SCIENCE / Sociology of Religion"
+    "Religion / Sociology of Religion see SOCIAL SCIENCE / Sociology of Religion"
   ],
   "REL062000": [
     "Religion / Spirituality",
-    "Religion / Stewardship see Christian Living / Stewardship & Giving",
-    "Religion / Sufi see Islam / Sufi",
-    "Religion / Talmud see Judaism / Talmud"
+    "Religion / Stewardship see Christian Living / Stewardship & Giving",
+    "Religion / Sufi see Islam / Sufi",
+    "Religion / Talmud see Judaism / Talmud"
   ],
   "REL065000": [
     "Religion / Taoism (see also PHILOSOPHY / Taoist)"
@@ -8082,8 +8082,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "REL118000": [
     "Religion / Wicca (see also BODY, MIND & SPIRIT / Witchcraft)",
-    "Religion / Youth Ministries see Christian Education / Children & Youth",
-    "Religion / Zen Buddhism see Buddhism / Zen"
+    "Religion / Youth Ministries see Christian Education / Children & Youth",
+    "Religion / Zen Buddhism see Buddhism / Zen"
   ],
   "REL069000": [
     "Religion / Zoroastrianism"
@@ -8096,12 +8096,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC002000": [
     "Fiction / Action & Adventure",
-    "Fiction / Action & Adventure / Fantasy see Fantasy / Action & Adventure",
-    "Fiction / Action & Adventure / Romance see Romance / Action & Adventure"
+    "Fiction / Action & Adventure / Fantasy see Fantasy / Action & Adventure",
+    "Fiction / Action & Adventure / Romance see Romance / Action & Adventure"
   ],
   "FIC075000": [
     "Fiction / Adaptations & Pastiche",
-    "Fiction / Adventure see Action & Adventure"
+    "Fiction / Adventure see Action & Adventure"
   ],
   "FIC049000": [
     "Fiction / African American & Black / General"
@@ -8117,7 +8117,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC049050": [
     "Fiction / African American & Black / Mystery & Detective",
-    "Fiction / African American & Black / Romance see Romance / African American & Black"
+    "Fiction / African American & Black / Romance see Romance / African American & Black"
   ],
   "FIC049070": [
     "Fiction / African American & Black / Urban & Street Lit"
@@ -8148,7 +8148,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC042000": [
     "Fiction / Christian / General",
-    "Fiction / Christian / African American & Black see African American & Black / Christian"
+    "Fiction / Christian / African American & Black see African American & Black / Christian"
   ],
   "FIC042090": [
     "Fiction / Christian / Biblical"
@@ -8191,7 +8191,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC004000": [
     "Fiction / Classics",
-    "Fiction / Comics see headings under COMICS & GRAPHIC NOVELS"
+    "Fiction / Comics see headings under COMICS & GRAPHIC NOVELS"
   ],
   "FIC043000": [
     "Fiction / Coming of Age"
@@ -8219,7 +8219,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC005000": [
     "Fiction / Erotica / General",
-    "Fiction / Erotica / African American & Black see African American & Black / Erotica"
+    "Fiction / Erotica / African American & Black see African American & Black / Erotica"
   ],
   "FIC005010": [
     "Fiction / Erotica / BDSM"
@@ -8262,7 +8262,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC045020": [
     "Fiction / Family Life / Siblings",
-    "Fiction / Family Saga see Sagas"
+    "Fiction / Family Saga see Sagas"
   ],
   "FIC009000": [
     "Fiction / Fantasy / General"
@@ -8272,7 +8272,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC009110": [
     "Fiction / Fantasy / Arthurian",
-    "Fiction / Fantasy / Christian see Christian / Fantasy"
+    "Fiction / Fantasy / Christian see Christian / Fantasy"
   ],
   "FIC009040": [
     "Fiction / Fantasy / Collections & Anthologies"
@@ -8315,7 +8315,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC076000": [
     "Fiction / Feminist",
-    "Fiction / Folklore see Fairy Tales, Folk Tales, Legends & Mythology"
+    "Fiction / Folklore see Fairy Tales, Folk Tales, Legends & Mythology"
   ],
   "FIC071000": [
     "Fiction / Friendship"
@@ -8325,7 +8325,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC027040": [
     "Fiction / Gothic",
-    "Fiction / Graphic Novels see headings under COMICS & GRAPHIC NOVELS"
+    "Fiction / Graphic Novels see headings under COMICS & GRAPHIC NOVELS"
   ],
   "FIC056000": [
     "Fiction / Hispanic & Latino / General"
@@ -8353,7 +8353,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC056080": [
     "Fiction / Hispanic & Latino / Mystery & Detective",
-    "Fiction / Hispanic & Latino / Romance see Romance / Hispanic & Latino *"
+    "Fiction / Hispanic & Latino / Romance see Romance / Hispanic & Latino"
   ],
   "FIC056090": [
     "Fiction / Hispanic & Latino / Science Fiction"
@@ -8366,28 +8366,28 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC014000": [
     "Fiction / Historical / General",
-    "Fiction / Historical / African American & Black see African American & Black / Historical"
+    "Fiction / Historical / African American & Black see African American & Black / Historical"
   ],
   "FIC014010": [
     "Fiction / Historical / Ancient",
-    "Fiction / Historical / Christian see Christian / Historical"
+    "Fiction / Historical / Christian see Christian / Historical"
   ],
   "FIC014060": [
     "Fiction / Historical / Civil War Era"
   ],
   "FIC014070": [
     "Fiction / Historical / Colonial America & Revolution",
-    "Fiction / Historical / Erotica see Erotica / Historical",
-    "Fiction / Historical / Fantasy see Fantasy / Historical"
+    "Fiction / Historical / Erotica see Erotica / Historical",
+    "Fiction / Historical / Fantasy see Fantasy / Historical"
   ],
   "FIC014020": [
     "Fiction / Historical / Medieval",
-    "Fiction / Historical / Mystery & Detective see Mystery & Detective / Historical"
+    "Fiction / Historical / Mystery & Detective see Mystery & Detective / Historical"
   ],
   "FIC014030": [
     "Fiction / Historical / Renaissance",
-    "Fiction / Historical / Romance see headings under Romance / Historical",
-    "Fiction / Historical / Thrillers see Thrillers / Historical"
+    "Fiction / Historical / Romance see headings under Romance / Historical",
+    "Fiction / Historical / Thrillers see Thrillers / Historical"
   ],
   "FIC014080": [
     "Fiction / Historical / 20th Century / General"
@@ -8412,8 +8412,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC060000": [
     "Fiction / Humorous / Dark Humor",
-    "Fiction / Humorous / Fantasy see Fantasy / Humorous",
-    "Fiction / Humorous / Science Fiction see Science Fiction / Humorous"
+    "Fiction / Humorous / Fantasy see Fantasy / Humorous",
+    "Fiction / Humorous / Science Fiction see Science Fiction / Humorous"
   ],
   "FIC134000": [
     "Fiction / Immigration"
@@ -8465,7 +8465,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC034000": [
     "Fiction / Legal",
-    "Fiction / Legends see Fairy Tales, Folk Tales, Legends & Mythology"
+    "Fiction / Legends see Fairy Tales, Folk Tales, Legends & Mythology"
   ],
   "FIC068000": [
     "Fiction / LGBTQ+ / General"
@@ -8502,11 +8502,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC035000": [
     "Fiction / Medical",
-    "Fiction / Metaphysical see Visionary & Metaphysical"
+    "Fiction / Metaphysical see Visionary & Metaphysical"
   ],
   "FIC131000": [
     "Fiction / Middle Eastern & Arab American",
-    "Fiction / Movie Tie-In see Media Tie-In"
+    "Fiction / Movie Tie-In see Media Tie-In"
   ],
   "FIC080000": [
     "Fiction / Multiple Timelines"
@@ -8516,7 +8516,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC022000": [
     "Fiction / Mystery & Detective / General",
-    "Fiction / Mystery & Detective / African American & Black see African American & Black / Mystery & Detective"
+    "Fiction / Mystery & Detective / African American & Black see African American & Black / Mystery & Detective"
   ],
   "FIC022100": [
     "Fiction / Mystery & Detective / Amateur Sleuth"
@@ -8568,7 +8568,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC022040": [
     "Fiction / Mystery & Detective / Women Sleuths",
-    "Fiction / Mythology see Fairy Tales, Folk Tales, Legends & Mythology"
+    "Fiction / Mythology see Fairy Tales, Folk Tales, Legends & Mythology"
   ],
   "FIC137000": [
     "Fiction / Native American"
@@ -8620,7 +8620,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC027340": [
     "Fiction / Romance / Billionaires",
-    "Fiction / Romance / Christian see Christian / Romance"
+    "Fiction / Romance / Christian see Christian / Romance"
   ],
   "FIC027270": [
     "Fiction / Romance / Clean & Wholesome"
@@ -8780,11 +8780,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC028090": [
     "Fiction / Science Fiction / Alien Contact",
-    "Fiction / Science Fiction / Alternative History see Alternative History"
+    "Fiction / Science Fiction / Alternative History see Alternative History"
   ],
   "FIC028070": [
     "Fiction / Science Fiction / Apocalyptic & Post-Apocalyptic",
-    "Fiction / Science Fiction / Christian see Christian / Futuristic"
+    "Fiction / Science Fiction / Christian see Christian / Futuristic"
   ],
   "FIC028040": [
     "Fiction / Science Fiction / Collections & Anthologies"
@@ -8806,7 +8806,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC028050": [
     "Fiction / Science Fiction / Military",
-    "Fiction / Science Fiction / Romance see Romance / Science Fiction"
+    "Fiction / Science Fiction / Romance see Romance / Science Fiction"
   ],
   "FIC028130": [
     "Fiction / Science Fiction / Space Exploration"
@@ -8822,7 +8822,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC047000": [
     "Fiction / Sea Stories",
-    "Fiction / Short Stories (multiple authors) see Anthologies (multiple authors)"
+    "Fiction / Short Stories (multiple authors) see Anthologies (multiple authors)"
   ],
   "FIC029000": [
     "Fiction / Short Stories (single author)"
@@ -8835,18 +8835,18 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC038000": [
     "Fiction / Sports",
-    "Fiction / Sports Romance see Romance / Sports"
+    "Fiction / Sports Romance see Romance / Sports"
   ],
   "FIC138000": [
     "Fiction / Suburban"
   ],
   "FIC063000": [
     "Fiction / Superheroes (see also COMICS & GRAPHIC NOVELS / Superheroes)",
-    "Fiction / Television Tie-In see Media Tie-In"
+    "Fiction / Television Tie-In see Media Tie-In"
   ],
   "FIC031000": [
     "Fiction / Thrillers / General",
-    "Fiction / Thrillers / Christian see Christian / Suspense"
+    "Fiction / Thrillers / Christian see Christian / Suspense"
   ],
   "FIC031010": [
     "Fiction / Thrillers / Crime"
@@ -8874,7 +8874,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC031080": [
     "Fiction / Thrillers / Psychological",
-    "Fiction / Thrillers / Romance see Romance / Suspense"
+    "Fiction / Thrillers / Romance see Romance / Suspense"
   ],
   "FIC031070": [
     "Fiction / Thrillers / Supernatural"
@@ -8890,7 +8890,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC048000": [
     "Fiction / Urban & Street Lit",
-    "Fiction / Urban Fantasy see Fantasy / Urban"
+    "Fiction / Urban Fantasy see Fantasy / Urban"
   ],
   "FIC039000": [
     "Fiction / Visionary & Metaphysical"
@@ -8900,8 +8900,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC033000": [
     "Fiction / Westerns",
-    "Fiction / Westerns / Christian see Christian / Western",
-    "Fiction / Westerns / Romantic see Romance / Western"
+    "Fiction / Westerns / Christian see Christian / Western",
+    "Fiction / Westerns / Romantic see Romance / Western"
   ],
   "FIC044000": [
     "Fiction / Women"
@@ -8914,7 +8914,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FIC083020": [
     "Fiction / World Literature / Africa / Nigeria",
-    "Fiction / World Literature / Africa / North Africa see World Literature / Middle East / Egypt & North Africa"
+    "Fiction / World Literature / Africa / North Africa see World Literature / Middle East / Egypt & North Africa"
   ],
   "FIC083030": [
     "Fiction / World Literature / Africa / Southern Africa"
@@ -9203,7 +9203,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI013010": [
     "Science / Chemistry / Analytic",
-    "Science / Chemistry / Biochemistry see Life Sciences / Biochemistry"
+    "Science / Chemistry / Biochemistry see Life Sciences / Biochemistry"
   ],
   "SCI013020": [
     "Science / Chemistry / Clinical"
@@ -9243,7 +9243,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI031000": [
     "Science / Earth Sciences / Geology",
-    "Science / Earth Sciences / Geophysics see Physics / Geophysics"
+    "Science / Earth Sciences / Geophysics see Physics / Geophysics"
   ],
   "SCI081000": [
     "Science / Earth Sciences / Hydrology"
@@ -9322,7 +9322,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI017000": [
     "Science / Life Sciences / Cell Biology",
-    "Science / Life Sciences / Cytology see Life Sciences / Cell Biology"
+    "Science / Life Sciences / Cytology see Life Sciences / Cell Biology"
   ],
   "SCI072000": [
     "Science / Life Sciences / Developmental Biology"
@@ -9356,7 +9356,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI089000": [
     "Science / Life Sciences / Neuroscience",
-    "Science / Life Sciences / Physiology see Life Sciences / Anatomy & Physiology"
+    "Science / Life Sciences / Physiology see Life Sciences / Anatomy & Physiology"
   ],
   "SCI087000": [
     "Science / Life Sciences / Taxonomy"
@@ -9387,7 +9387,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI070050": [
     "Science / Life Sciences / Zoology / Primatology",
-    "Science / Light see Physics / Optics & Light"
+    "Science / Light see Physics / Optics & Light"
   ],
   "SCI041000": [
     "Science / Mechanics / General"
@@ -9403,7 +9403,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI095000": [
     "Science / Mechanics / Hydrodynamics",
-    "Science / Mechanics / Materials Science see headings under TECHNOLOGY & ENGINEERING / Materials Science"
+    "Science / Mechanics / Materials Science see headings under TECHNOLOGY & ENGINEERING / Materials Science"
   ],
   "SCI096000": [
     "Science / Mechanics / Solids"
@@ -9413,7 +9413,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI065000": [
     "Science / Mechanics / Thermodynamics",
-    "Science / Methodology see Research & Methodology"
+    "Science / Methodology see Research & Methodology"
   ],
   "SCI047000": [
     "Science / Microscopes & Microscopy"
@@ -9438,7 +9438,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI074000": [
     "Science / Physics / Atomic & Molecular",
-    "Science / Physics / Biophysics see Life Sciences / Biophysics"
+    "Science / Physics / Biophysics see Life Sciences / Biophysics"
   ],
   "SCI077000": [
     "Science / Physics / Condensed Matter"
@@ -9481,7 +9481,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI061000": [
     "Science / Physics / Relativity",
-    "Science / Projects see Experiments & Projects"
+    "Science / Projects see Experiments & Projects"
   ],
   "SCI058000": [
     "Science / Radiation"
@@ -9497,8 +9497,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SCI076000": [
     "Science / Scientific Instruments",
-    "Science / Social Aspects see Philosophy & Social Aspects",
-    "Science / Sound see Acoustics & Sound"
+    "Science / Social Aspects see Philosophy & Social Aspects",
+    "Science / Sound see Acoustics & Sound"
   ],
   "SCI098000": [
     "Science / Space Science / General"
@@ -9547,7 +9547,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FOR002000": [
     "Foreign Language Study / Arabic",
-    "Foreign Language Study / Australian Languages see Oceanic & Australian Languages"
+    "Foreign Language Study / Australian Languages see Oceanic & Australian Languages"
   ],
   "FOR034000": [
     "Foreign Language Study / Baltic Languages"
@@ -9620,7 +9620,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "FOR018000": [
     "Foreign Language Study / Multi-Language Phrasebooks",
-    "Foreign Language Study / Native American Languages see Indigenous Languages in the Americas"
+    "Foreign Language Study / Native American Languages see Indigenous Languages in the Americas"
   ],
   "FOR039000": [
     "Foreign Language Study / Norwegian"
@@ -9681,7 +9681,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SEL001000": [
     "Self-help / Abuse",
-    "Self-help / Addiction see headings under Substance Abuse & Addictions"
+    "Self-help / Addiction see headings under Substance Abuse & Addictions"
   ],
   "SEL003000": [
     "Self-help / Adult Children of Substance Abusers"
@@ -9694,8 +9694,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SEL036000": [
     "Self-help / Anxieties & Phobias",
-    "Self-help / Bereavement see Death, Grief, Bereavement",
-    "Self-help / Chemical Dependence see headings under Substance Abuse & Addictions"
+    "Self-help / Bereavement see Death, Grief, Bereavement",
+    "Self-help / Chemical Dependence see headings under Substance Abuse & Addictions"
   ],
   "SEL008000": [
     "Self-help / Codependency"
@@ -9744,11 +9744,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SEL039000": [
     "Self-help / Green Lifestyle",
-    "Self-help / Grief see Death, Grief, Bereavement"
+    "Self-help / Grief see Death, Grief, Bereavement"
   ],
   "SEL015000": [
     "Self-help / Handwriting Analysis",
-    "Self-help / Hypnotism see Self-Hypnosis"
+    "Self-help / Hypnotism see Self-Hypnosis"
   ],
   "SEL050000": [
     "Self-help / Indigenous Mental Health & Healing"
@@ -9758,7 +9758,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SEL019000": [
     "Self-help / Meditations",
-    "Self-help / Memory Improvement see Personal Growth / Memory Improvement"
+    "Self-help / Memory Improvement see Personal Growth / Memory Improvement"
   ],
   "SEL020000": [
     "Self-help / Mood Disorders / General"
@@ -9792,8 +9792,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SEL043000": [
     "Self-help / Post-Traumatic Stress Disorder (PTSD)",
-    "Self-help / Recovery see specific headings in this section",
-    "Self-help / Relaxation see Self-Management / Stress Management"
+    "Self-help / Recovery see specific headings in this section",
+    "Self-help / Relaxation see Self-Management / Stress Management"
   ],
   "SEL049000": [
     "Self-help / Safety & Security / General (see also HOUSE & HOME / Safety & Security)"
@@ -9851,7 +9851,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "GAM001000": [
     "Games & Activities / Board Games",
-    "Games & Activities / Bridge see Card Games / Bridge"
+    "Games & Activities / Bridge see Card Games / Bridge"
   ],
   "GAM002000": [
     "Games & Activities / Card Games / General"
@@ -9882,14 +9882,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "GAM023000": [
     "Games & Activities / eSports",
-    "Games & Activities / Fantasy Games see Role Playing & Fantasy"
+    "Games & Activities / Fantasy Games see Role Playing & Fantasy"
   ],
   "GAM016000": [
     "Games & Activities / Fantasy Sports"
   ],
   "GAM004000": [
     "Games & Activities / Gambling / General (see also SELF-HELP / Compulsive Behavior / Gambling)",
-    "Games & Activities / Gambling / Card Games see headings under Card Games"
+    "Games & Activities / Gambling / Card Games see headings under Card Games"
   ],
   "GAM004020": [
     "Games & Activities / Gambling / Lotteries"
@@ -9962,8 +9962,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC072000": [
     "Social Science / Activism & Social Justice",
-    "Social Science / African American & Black Studies see Ethnic Studies / American / African American & Black Studies",
-    "Social Science / African Diaspora see Black Studies (Global)"
+    "Social Science / African American & Black Studies see Ethnic Studies / American / African American & Black Studies",
+    "Social Science / African Diaspora see Black Studies (Global)"
   ],
   "SOC055000": [
     "Social Science / Agriculture & Food (see also POLITICAL SCIENCE / Public Policy / Agriculture & Food Policy)"
@@ -9991,7 +9991,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC067000": [
     "Social Science / Capital Punishment",
-    "Social Science / Charity see Philanthropy & Charity"
+    "Social Science / Charity see Philanthropy & Charity"
   ],
   "SOC047000": [
     "Social Science / Children's Studies"
@@ -10022,7 +10022,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC044000": [
     "Social Science / Cultural & Ethnic Studies / American / Hispanic & Latino Studies",
-    "Social Science / Cultural & Ethnic Studies / American / Native American Studies see Native American Studies"
+    "Social Science / Cultural & Ethnic Studies / American / Native American Studies see Native American Studies"
   ],
   "SOC008020": [
     "Social Science / Cultural & Ethnic Studies / Asian Studies"
@@ -10053,7 +10053,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC042000": [
     "Social Science / Developing & Emerging Countries",
-    "Social Science / Disabled see People with Disabilities"
+    "Social Science / Disabled see People with Disabilities"
   ],
   "SOC040000": [
     "Social Science / Disasters & Disaster Relief"
@@ -10072,7 +10072,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC041000": [
     "Social Science / Essays",
-    "Social Science / Ethnology see Anthropology / Cultural & Social"
+    "Social Science / Ethnology see Anthropology / Cultural & Social"
   ],
   "SOC010000": [
     "Social Science / Feminism & Feminist Theory"
@@ -10091,11 +10091,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC013000": [
     "Social Science / Gerontology",
-    "Social Science / Handicapped see People with Disabilities"
+    "Social Science / Handicapped see People with Disabilities"
   ],
   "SOC014000": [
     "Social Science / Holidays (non-religious)",
-    "Social Science / Homosexuality see headings under LGBTQ+ Studies"
+    "Social Science / Homosexuality see headings under LGBTQ+ Studies"
   ],
   "SOC015000": [
     "Social Science / Human Geography"
@@ -10108,7 +10108,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC073000": [
     "Social Science / Human Trafficking",
-    "Social Science / Immigration see Emigration & Immigration"
+    "Social Science / Immigration see Emigration & Immigration"
   ],
   "SOC075000": [
     "Social Science / Indigenous Peoples of Turtle Island Studies"
@@ -10199,7 +10199,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC050000": [
     "Social Science / Social Classes & Economic Disparity",
-    "Social Science / Social History see HISTORY / Social History"
+    "Social Science / Social History see HISTORY / Social History"
   ],
   "SOC025000": [
     "Social Science / Social Work"
@@ -10221,14 +10221,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SOC039000": [
     "Social Science / Sociology of Religion",
-    "Social Science / Sociology of Sports see SPORTS & RECREATION / Cultural & Social Aspects"
+    "Social Science / Sociology of Sports see SPORTS & RECREATION / Cultural & Social Aspects"
   ],
   "SOC027000": [
     "Social Science / Statistics"
   ],
   "SOC071000": [
     "Social Science / Technology Studies",
-    "Social Science / Thanatology see Death & Dying"
+    "Social Science / Thanatology see Death & Dying"
   ],
   "SOC051000": [
     "Social Science / Violence in Society"
@@ -10262,14 +10262,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "GAR002000": [
     "Gardening / Essays & Narratives",
-    "Gardening / Flower Arranging see CRAFTS & HOBBIES / Flower Arranging"
+    "Gardening / Flower Arranging see CRAFTS & HOBBIES / Flower Arranging"
   ],
   "GAR004000": [
     "Gardening / Flowers / General"
   ],
   "GAR004010": [
     "Gardening / Flowers / Annuals",
-    "Gardening / Flowers / Azaleas see Shrubs"
+    "Gardening / Flowers / Azaleas see Shrubs"
   ],
   "GAR004030": [
     "Gardening / Flowers / Bulbs"
@@ -10282,7 +10282,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "GAR004060": [
     "Gardening / Flowers / Roses",
-    "Gardening / Flowers / Violets see Flowers / Annuals"
+    "Gardening / Flowers / Violets see Flowers / Annuals"
   ],
   "GAR004080": [
     "Gardening / Flowers / Wildflowers"
@@ -10307,7 +10307,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "GAR011000": [
     "Gardening / Hydroponics",
-    "Gardening / Indoor see House Plants & Indoor"
+    "Gardening / Indoor see House Plants & Indoor"
   ],
   "GAR013000": [
     "Gardening / Japanese Gardens"
@@ -10383,7 +10383,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "GAR029000": [
     "Gardening / Water Gardens",
-    "Gardening / Xeriscaping see Techniques"
+    "Gardening / Xeriscaping see Techniques"
   ],
   "SPO000000": [
     "Sports & Recreation / General"
@@ -10492,7 +10492,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SPO064000": [
     "Sports & Recreation / Extreme Sports",
-    "Sports & Recreation / Fantasy Sports see GAMES & ACTIVITIES / Fantasy Sports"
+    "Sports & Recreation / Fantasy Sports see GAMES & ACTIVITIES / Fantasy Sports"
   ],
   "SPO071000": [
     "Sports & Recreation / Fencing"
@@ -10526,10 +10526,10 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SPO022000": [
     "Sports & Recreation / Hunting",
-    "Sports & Recreation / In-Line Skating see Roller & In-Line Skating",
-    "Sports & Recreation / Jogging see Running & Jogging",
-    "Sports & Recreation / Judo see Martial Arts / General",
-    "Sports & Recreation / Juggling see GAMES & ACTIVITIES / Juggling"
+    "Sports & Recreation / In-Line Skating see Roller & In-Line Skating",
+    "Sports & Recreation / Jogging see Running & Jogging",
+    "Sports & Recreation / Judo see Martial Arts / General",
+    "Sports & Recreation / Juggling see GAMES & ACTIVITIES / Juggling"
   ],
   "SPO026000": [
     "Sports & Recreation / Lacrosse"
@@ -10593,7 +10593,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SPO035000": [
     "Sports & Recreation / Running & Jogging",
-    "Sports & Recreation / Self-Defense see SELF-HELP / Safety & Security / Personal Safety & Self-Defense"
+    "Sports & Recreation / Self-Defense see SELF-HELP / Safety & Security / Personal Safety & Self-Defense"
   ],
   "SPO037000": [
     "Sports & Recreation / Shooting"
@@ -10651,7 +10651,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "SPO043000": [
     "Sports & Recreation / Water Sports / Swimming & Diving",
-    "Sports & Recreation / Weightlifting see Bodybuilding & Weightlifting"
+    "Sports & Recreation / Weightlifting see Bodybuilding & Weightlifting"
   ],
   "SPO052000": [
     "Sports & Recreation / Winter Sports / General"
@@ -10703,7 +10703,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HEA053000": [
     "Health & Fitness / Cannabis & CBD",
-    "Health & Fitness / Childbirth see Pregnancy & Childbirth"
+    "Health & Fitness / Childbirth see Pregnancy & Childbirth"
   ],
   "HEA046000": [
     "Health & Fitness / Children's Health"
@@ -10737,7 +10737,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HEA039140": [
     "Health & Fitness / Diseases & Conditions / Alzheimer's & Dementia",
-    "Health & Fitness / Diseases & Conditions / Brain see Diseases & Conditions / Nervous System (incl. Brain)"
+    "Health & Fitness / Diseases & Conditions / Brain see Diseases & Conditions / Nervous System (incl. Brain)"
   ],
   "HEA039030": [
     "Health & Fitness / Diseases & Conditions / Cancer"
@@ -10873,7 +10873,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HEA020000": [
     "Health & Fitness / Reference",
-    "Health & Fitness / Reflexology see Massage & Reflexology"
+    "Health & Fitness / Reflexology see Massage & Reflexology"
   ],
   "HEA042000": [
     "Health & Fitness / Sexuality"
@@ -10964,7 +10964,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "STU032000": [
     "Study Aids / MCAT (Medical College Admission Test)",
-    "Study Aids / Medical Certification & Licensing see MEDICAL / Test Preparation & Review"
+    "Study Aids / Medical Certification & Licensing see MEDICAL / Test Preparation & Review"
   ],
   "STU035000": [
     "Study Aids / NCLEX"
@@ -10980,7 +10980,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "STU024000": [
     "Study Aids / SAT",
-    "Study Aids / Scholarships & Loans see Financial Aid"
+    "Study Aids / Scholarships & Loans see Financial Aid"
   ],
   "STU036000": [
     "Study Aids / Study & Test-Taking Skills"
@@ -11011,7 +11011,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS001020": [
     "History / Africa / East",
-    "History / Africa / Egypt see Middle East / Egypt or Ancient / Egypt"
+    "History / Africa / Egypt see Middle East / Egypt or Ancient / Egypt"
   ],
   "HIS001030": [
     "History / Africa / North"
@@ -11186,7 +11186,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS042000": [
     "History / Europe / Greece (see also Ancient / Greece)",
-    "History / Europe / Hungary see Europe / Austria & Hungary"
+    "History / Europe / Hungary see Europe / Austria & Hungary"
   ],
   "HIS018000": [
     "History / Europe / Ireland"
@@ -11202,8 +11202,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS064000": [
     "History / Europe / Portugal",
-    "History / Europe / Scandinavia see Europe / Nordic Countries",
-    "History / Europe / Soviet Union see Russia / Soviet Era"
+    "History / Europe / Scandinavia see Europe / Nordic Countries",
+    "History / Europe / Soviet Union see Russia / Soviet Era"
   ],
   "HIS045000": [
     "History / Europe / Spain"
@@ -11216,7 +11216,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS051000": [
     "History / Expeditions & Discoveries",
-    "History / Far East see headings under Asia"
+    "History / Far East see headings under Asia"
   ],
   "HIS068000": [
     "History / Hispanic & Latino"
@@ -11256,7 +11256,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS022000": [
     "History / Jewish",
-    "History / Labor see POLITICAL SCIENCE / Labor & Industrial Relations"
+    "History / Labor see POLITICAL SCIENCE / Labor & Industrial Relations"
   ],
   "HIS024000": [
     "History / Latin America / General"
@@ -11374,7 +11374,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS027120": [
     "History / Military / Veterans",
-    "History / Military / Wars & Conflicts see headings under Wars & Conflicts"
+    "History / Military / Wars & Conflicts see headings under Wars & Conflicts"
   ],
   "HIS027080": [
     "History / Military / Weapons"
@@ -11498,7 +11498,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS027210": [
     "History / Wars & Conflicts / War of 1812",
-    "History / Wars & Conflicts / Civil War (U.S.) see United States / Civil War Period (1850-1877)"
+    "History / Wars & Conflicts / Civil War (U.S.) see United States / Civil War Period (1850-1877)"
   ],
   "HIS027090": [
     "History / Wars & Conflicts / World War I"
@@ -11532,15 +11532,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HIS027170": [
     "History / Wars & Conflicts / Iraq War (2003-2011)",
-    "History / West Indies see headings under Caribbean & West Indies"
+    "History / West Indies see headings under Caribbean & West Indies"
   ],
   "HIS058000": [
     "History / Women"
   ],
   "HIS037000": [
     "History / World",
-    "History / World / Ancient see headings under Ancient",
-    "History / World / Modern see headings under Modern"
+    "History / World / Ancient see headings under Ancient",
+    "History / World / Modern see headings under Modern"
   ],
   "TEC000000": [
     "Technology & Engineering / General"
@@ -11568,7 +11568,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC003100": [
     "Technology & Engineering / Agriculture / Beekeeping",
-    "Technology & Engineering / Agriculture / Business Aspects see BUSINESS & ECONOMICS / Industries / Agribusiness"
+    "Technology & Engineering / Agriculture / Business Aspects see BUSINESS & ECONOMICS / Industries / Agribusiness"
   ],
   "TEC003110": [
     "Technology & Engineering / Agriculture / Enology & Viticulture"
@@ -11581,7 +11581,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC003090": [
     "Technology & Engineering / Agriculture / Organic",
-    "Technology & Engineering / Agriculture / Pest Control see Pest Control"
+    "Technology & Engineering / Agriculture / Pest Control see Pest Control"
   ],
   "TEC003070": [
     "Technology & Engineering / Agriculture / Sustainable Agriculture"
@@ -11591,8 +11591,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC003120": [
     "Technology & Engineering / Agriculture / Urban Farming",
-    "Technology & Engineering / Aquaculture see Fisheries & Aquaculture",
-    "Technology & Engineering / Astronautics see Aeronautics & Astronautics"
+    "Technology & Engineering / Aquaculture see Fisheries & Aquaculture",
+    "Technology & Engineering / Astronautics see Aeronautics & Astronautics"
   ],
   "TEC004000": [
     "Technology & Engineering / Automation"
@@ -11707,7 +11707,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC065000": [
     "Technology & Engineering / Emergency Management",
-    "Technology & Engineering / Energy Resources see headings under Power Resources"
+    "Technology & Engineering / Energy Resources see headings under Power Resources"
   ],
   "TEC009000": [
     "Technology & Engineering / Engineering (General)"
@@ -11753,7 +11753,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC013000": [
     "Technology & Engineering / Fracture Mechanics",
-    "Technology & Engineering / Geographic Information Systems see Remote Sensing & Geographic Information Systems"
+    "Technology & Engineering / Geographic Information Systems see Remote Sensing & Geographic Information Systems"
   ],
   "TEC056000": [
     "Technology & Engineering / History"
@@ -11763,7 +11763,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC014000": [
     "Technology & Engineering / Hydraulics",
-    "Technology & Engineering / Hydrology see SCIENCE / Earth Sciences / Hydrology"
+    "Technology & Engineering / Hydrology see SCIENCE / Earth Sciences / Hydrology"
   ],
   "TEC015000": [
     "Technology & Engineering / Imaging Systems"
@@ -11824,7 +11824,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC009070": [
     "Technology & Engineering / Mechanical",
-    "Technology & Engineering / Mechanical Drawing see Drafting & Mechanical Drawing"
+    "Technology & Engineering / Mechanical Drawing see Drafting & Mechanical Drawing"
   ],
   "TEC023000": [
     "Technology & Engineering / Metallurgy"
@@ -11858,7 +11858,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC072000": [
     "Technology & Engineering / Pharmaceutical",
-    "Technology & Engineering / Polymers see Textiles & Polymers"
+    "Technology & Engineering / Polymers see Textiles & Polymers"
   ],
   "TEC031000": [
     "Technology & Engineering / Power Resources / General"
@@ -11907,8 +11907,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TEC052000": [
     "Technology & Engineering / Social Aspects",
-    "Technology & Engineering / Sound see Acoustics & Sound",
-    "Technology & Engineering / Spectroscopy see SCIENCE / Spectroscopy & Spectrum Analysis"
+    "Technology & Engineering / Sound see Acoustics & Sound",
+    "Technology & Engineering / Spectroscopy see SCIENCE / Spectroscopy & Spectrum Analysis"
   ],
   "TEC063000": [
     "Technology & Engineering / Structural"
@@ -11951,7 +11951,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HOM019000": [
     "House & Home / Cleaning, Caretaking & Organizing",
-    "House & Home / Contracting see TECHNOLOGY & ENGINEERING / Construction / Contracting"
+    "House & Home / Contracting see TECHNOLOGY & ENGINEERING / Construction / Contracting"
   ],
   "HOM003000": [
     "House & Home / Decorating & Furnishings"
@@ -11982,7 +11982,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "HOM020000": [
     "House & Home / Equipment, Appliances & Supplies",
-    "House & Home / Estimating see TECHNOLOGY & ENGINEERING / Construction / Estimating"
+    "House & Home / Estimating see TECHNOLOGY & ENGINEERING / Construction / Estimating"
   ],
   "HOM009000": [
     "House & Home / Hand Tools"
@@ -12037,7 +12037,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRA001080": [
     "Transportation / Automotive / Driver Education",
-    "Transportation / Automotive / High Performance & Engine Rebuilding see Automotive / Customizing"
+    "Transportation / Automotive / High Performance & Engine Rebuilding see Automotive / Customizing"
   ],
   "TRA001050": [
     "Transportation / Automotive / History"
@@ -12068,8 +12068,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRA010000": [
     "Transportation / Bicycles",
-    "Transportation / Commercial see BUSINESS & ECONOMICS / Industries / Transportation",
-    "Transportation / Military see headings under HISTORY / Military / Vehicles"
+    "Transportation / Commercial see BUSINESS & ECONOMICS / Industries / Transportation",
+    "Transportation / Military see headings under HISTORY / Military / Vehicles"
   ],
   "TRA003000": [
     "Transportation / Motorcycles / General"
@@ -12196,7 +12196,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV000000": [
     "Travel / General",
-    "Travel / Adventure see Special Interest / Adventure"
+    "Travel / Adventure see Special Interest / Adventure"
   ],
   "TRV002000": [
     "Travel / Africa / General"
@@ -12224,7 +12224,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV002080": [
     "Travel / Africa / West",
-    "Travel / Antarctica see Polar Regions"
+    "Travel / Antarctica see Polar Regions"
   ],
   "TRV003000": [
     "Travel / Asia / General"
@@ -12261,7 +12261,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV004000": [
     "Travel / Australia & Oceania",
-    "Travel / Campgrounds see Parks & Campgrounds"
+    "Travel / Campgrounds see Parks & Campgrounds"
   ],
   "TRV006000": [
     "Travel / Canada / General"
@@ -12343,7 +12343,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV009190": [
     "Travel / Europe / Nordic Countries / Sweden",
-    "Travel / Europe / Scandinavia see headings under Europe / Nordic Countries"
+    "Travel / Europe / Scandinavia see headings under Europe / Nordic Countries"
   ],
   "TRV009130": [
     "Travel / Europe / Spain & Portugal"
@@ -12353,7 +12353,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV009150": [
     "Travel / Europe / Western",
-    "Travel / Family Travel see Special Interest / Family"
+    "Travel / Family Travel see Special Interest / Family"
   ],
   "TRV036000": [
     "Travel / Food, Lodging & Transportation / General"
@@ -12399,8 +12399,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV016000": [
     "Travel / Museums, Tours, Points of Interest",
-    "Travel / National Parks see Parks & Campgrounds",
-    "Travel / Oceania see Australia & Oceania"
+    "Travel / National Parks see Parks & Campgrounds",
+    "Travel / Oceania see Australia & Oceania"
   ],
   "TRV018000": [
     "Travel / Parks & Campgrounds"
@@ -12539,7 +12539,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "TRV025130": [
     "Travel / United States / West / Pacific (AK, CA, HI, OR, WA)",
-    "Travel / West Indies see Caribbean & West Indies"
+    "Travel / West Indies see Caribbean & West Indies"
   ],
   "JUV000000": [
     "Juvenile Fiction / General"
@@ -12732,9 +12732,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV006000": [
     "Juvenile Fiction / Business, Careers, Occupations",
-    "Juvenile Fiction / Celebrations see headings under Holidays & Celebrations",
-    "Juvenile Fiction / Circus see Performing Arts / Circus",
-    "Juvenile Fiction / City Life see Lifestyles / City & Town Life"
+    "Juvenile Fiction / Celebrations see headings under Holidays & Celebrations",
+    "Juvenile Fiction / Circus see Performing Arts / Circus",
+    "Juvenile Fiction / City Life see Lifestyles / City & Town Life"
   ],
   "JUV007000": [
     "Juvenile Fiction / Classics"
@@ -12855,22 +12855,22 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV050000": [
     "Juvenile Fiction / Cooking & Food",
-    "Juvenile Fiction / Country Life see Lifestyles / Country Life",
-    "Juvenile Fiction / Crime see Law & Crime",
-    "Juvenile Fiction / Detective Stories see Mysteries & Detective Stories"
+    "Juvenile Fiction / Country Life see Lifestyles / Country Life",
+    "Juvenile Fiction / Crime see Law & Crime",
+    "Juvenile Fiction / Detective Stories see Mysteries & Detective Stories"
   ],
   "JUV039150": [
     "Juvenile Fiction / Disabilities"
   ],
   "JUV074000": [
     "Juvenile Fiction / Diversity & Multicultural",
-    "Juvenile Fiction / Dolls see Toys, Dolls & Puppets",
-    "Juvenile Fiction / Dreams see Bedtime & Dreams"
+    "Juvenile Fiction / Dolls see Toys, Dolls & Puppets",
+    "Juvenile Fiction / Dreams see Bedtime & Dreams"
   ],
   "JUV059000": [
     "Juvenile Fiction / Dystopian",
-    "Juvenile Fiction / Education see School & Education",
-    "Juvenile Fiction / Fables see headings under Legends, Myths, Fables"
+    "Juvenile Fiction / Education see School & Education",
+    "Juvenile Fiction / Fables see headings under Legends, Myths, Fables"
   ],
   "JUV012030": [
     "Juvenile Fiction / Fairy Tales & Folklore / General"
@@ -12886,7 +12886,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV013000": [
     "Juvenile Fiction / Family / General (see also headings under Social Themes)",
-    "Juvenile Fiction / Family / Abuse see Social Themes / Physical & Emotional Abuse or Social Themes / Sexual Abuse"
+    "Juvenile Fiction / Family / Abuse see Social Themes / Physical & Emotional Abuse or Social Themes / Sexual Abuse"
   ],
   "JUV013010": [
     "Juvenile Fiction / Family / Adoption"
@@ -12920,26 +12920,26 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV037000": [
     "Juvenile Fiction / Fantasy & Magic",
-    "Juvenile Fiction / Farm Life see Lifestyles / Farm & Ranch Life"
+    "Juvenile Fiction / Farm Life see Lifestyles / Farm & Ranch Life"
   ],
   "JUV082000": [
     "Juvenile Fiction / First Nations",
-    "Juvenile Fiction / Folklore see headings under Fairy Tales & Folklore",
-    "Juvenile Fiction / Games see Sports & Recreation / Games"
+    "Juvenile Fiction / Folklore see headings under Fairy Tales & Folklore",
+    "Juvenile Fiction / Games see Sports & Recreation / Games"
   ],
   "JUV069000": [
     "Juvenile Fiction / Ghost Stories"
   ],
   "JUV014000": [
     "Juvenile Fiction / Girls & Women",
-    "Juvenile Fiction / Graphic Novels see headings under Comics & Graphic Novels"
+    "Juvenile Fiction / Graphic Novels see headings under Comics & Graphic Novels"
   ],
   "JUV015000": [
     "Juvenile Fiction / Health & Daily Living / General"
   ],
   "JUV015010": [
     "Juvenile Fiction / Health & Daily Living / Daily Activities",
-    "Juvenile Fiction / Health & Daily Living / Depression & Mental Illness see Social Themes / Depression & Mental Illness"
+    "Juvenile Fiction / Health & Daily Living / Depression & Mental Illness see Social Themes / Depression & Mental Illness"
   ],
   "JUV015020": [
     "Juvenile Fiction / Health & Daily Living / Diseases, Illnesses & Injuries"
@@ -13171,15 +13171,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV026000": [
     "Juvenile Fiction / Love & Romance",
-    "Juvenile Fiction / Magic see Fantasy & Magic"
+    "Juvenile Fiction / Magic see Fantasy & Magic"
   ],
   "JUV072000": [
     "Juvenile Fiction / Mathematics"
   ],
   "JUV027000": [
     "Juvenile Fiction / Media Tie-In",
-    "Juvenile Fiction / Medicine see headings under Health & Daily Living",
-    "Juvenile Fiction / Men see Boys & Men"
+    "Juvenile Fiction / Medicine see headings under Health & Daily Living",
+    "Juvenile Fiction / Men see Boys & Men"
   ],
   "JUV066000": [
     "Juvenile Fiction / Mermaids & Mermen"
@@ -13192,22 +13192,22 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV052000": [
     "Juvenile Fiction / Monsters",
-    "Juvenile Fiction / Music see Performing Arts / Music"
+    "Juvenile Fiction / Music see Performing Arts / Music"
   ],
   "JUV028000": [
     "Juvenile Fiction / Mysteries & Detective Stories",
-    "Juvenile Fiction / Myths see headings under Legends, Myths, Fables"
+    "Juvenile Fiction / Myths see headings under Legends, Myths, Fables"
   ],
   "JUV011040": [
     "Juvenile Fiction / Native American"
   ],
   "JUV077000": [
     "Juvenile Fiction / Neurodiversity",
-    "Juvenile Fiction / Night see Bedtime & Dreams"
+    "Juvenile Fiction / Night see Bedtime & Dreams"
   ],
   "JUV055000": [
     "Juvenile Fiction / Nursery Rhymes",
-    "Juvenile Fiction / Occupations see Business, Careers, Occupations"
+    "Juvenile Fiction / Occupations see Business, Careers, Occupations"
   ],
   "JUV058000": [
     "Juvenile Fiction / Paranormal, Occult & Supernatural"
@@ -13265,14 +13265,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV030060": [
     "Juvenile Fiction / Places / United States",
-    "Juvenile Fiction / Play see Imagination & Play"
+    "Juvenile Fiction / Play see Imagination & Play"
   ],
   "JUV070000": [
     "Juvenile Fiction / Poetry (see also Stories in Verse)"
   ],
   "JUV061000": [
     "Juvenile Fiction / Politics & Government",
-    "Juvenile Fiction / Puppets see Toys, Dolls & Puppets"
+    "Juvenile Fiction / Puppets see Toys, Dolls & Puppets"
   ],
   "JUV043000": [
     "Juvenile Fiction / Readers / Beginner"
@@ -13285,7 +13285,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV086000": [
     "Juvenile Fiction / Readers / Hi-Lo",
-    "Juvenile Fiction / Recreation see headings under Sports & Recreation"
+    "Juvenile Fiction / Recreation see headings under Sports & Recreation"
   ],
   "JUV063000": [
     "Juvenile Fiction / Recycling & Green Living"
@@ -13370,7 +13370,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV056000": [
     "Juvenile Fiction / Robots",
-    "Juvenile Fiction / Romance see Love & Romance"
+    "Juvenile Fiction / Romance see Love & Romance"
   ],
   "JUV034000": [
     "Juvenile Fiction / Royalty"
@@ -13410,11 +13410,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV038000": [
     "Juvenile Fiction / Short Stories",
-    "Juvenile Fiction / Sleeping see Bedtime & Dreams"
+    "Juvenile Fiction / Sleeping see Bedtime & Dreams"
   ],
   "JUV039000": [
     "Juvenile Fiction / Social Themes / General (see also headings under Family)",
-    "Juvenile Fiction / Social Themes / Abuse see Social Themes / Physical & Emotional Abuse or Social Themes / Sexual Abuse"
+    "Juvenile Fiction / Social Themes / Abuse see Social Themes / Physical & Emotional Abuse or Social Themes / Sexual Abuse"
   ],
   "JUV039290": [
     "Juvenile Fiction / Social Themes / Activism & Social Justice"
@@ -13445,7 +13445,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV039060": [
     "Juvenile Fiction / Social Themes / Friendship",
-    "Juvenile Fiction / Social Themes / Homosexuality see LGBTQ+"
+    "Juvenile Fiction / Social Themes / Homosexuality see LGBTQ+"
   ],
   "JUV039200": [
     "Juvenile Fiction / Social Themes / Manners & Etiquette"
@@ -13476,11 +13476,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV039210": [
     "Juvenile Fiction / Social Themes / Sexual Abuse",
-    "Juvenile Fiction / Social Themes / Sexuality see Social Themes / Dating & Relationships"
+    "Juvenile Fiction / Social Themes / Sexuality see Social Themes / Dating & Relationships"
   ],
   "JUV039270": [
     "Juvenile Fiction / Social Themes / Strangers",
-    "Juvenile Fiction / Social Themes / Substance Abuse see Social Themes / Drugs, Alcohol, Substance Abuse"
+    "Juvenile Fiction / Social Themes / Substance Abuse see Social Themes / Drugs, Alcohol, Substance Abuse"
   ],
   "JUV039220": [
     "Juvenile Fiction / Social Themes / Values & Virtues"
@@ -13577,11 +13577,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV036020": [
     "Juvenile Fiction / Technology / Inventions",
-    "Juvenile Fiction / Television Tie-In see Media Tie-In"
+    "Juvenile Fiction / Television Tie-In see Media Tie-In"
   ],
   "JUV067000": [
     "Juvenile Fiction / Thrillers & Suspense",
-    "Juvenile Fiction / Town Life see Lifestyles / City & Town Life"
+    "Juvenile Fiction / Town Life see Lifestyles / City & Town Life"
   ],
   "JUV040000": [
     "Juvenile Fiction / Toys, Dolls & Puppets"
@@ -13621,8 +13621,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JUV042000": [
     "Juvenile Fiction / Westerns",
-    "Juvenile Fiction / Women see Girls & Women",
-    "Juvenile Fiction / Work see Business, Careers, Occupations"
+    "Juvenile Fiction / Women see Girls & Women",
+    "Juvenile Fiction / Work see Business, Careers, Occupations"
   ],
   "JUV080000": [
     "Juvenile Fiction / Zombies"
@@ -13674,7 +13674,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF071000": [
     "Juvenile Nonfiction / Activism & Social Justice",
-    "Juvenile Nonfiction / Activities see headings under Games & Activities"
+    "Juvenile Nonfiction / Activities see headings under Games & Activities"
   ],
   "JNF001000": [
     "Juvenile Nonfiction / Activity Books / General"
@@ -13690,7 +13690,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF018010": [
     "Juvenile Nonfiction / African American & Black",
-    "Juvenile Nonfiction / Alphabet see Concepts / Alphabet"
+    "Juvenile Nonfiction / Alphabet see Concepts / Alphabet"
   ],
   "JNF003000": [
     "Juvenile Nonfiction / Animals / General"
@@ -13904,12 +13904,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF011000": [
     "Juvenile Nonfiction / Careers",
-    "Juvenile Nonfiction / Celebrations see headings under Holidays & Celebrations",
-    "Juvenile Nonfiction / City Life see Lifestyles / City & Town Life"
+    "Juvenile Nonfiction / Celebrations see headings under Holidays & Celebrations",
+    "Juvenile Nonfiction / City Life see Lifestyles / City & Town Life"
   ],
   "JNF059000": [
     "Juvenile Nonfiction / Clothing & Dress",
-    "Juvenile Nonfiction / Collectibles see Antiques & Collectibles"
+    "Juvenile Nonfiction / Collectibles see Antiques & Collectibles"
   ],
   "JNF062000": [
     "Juvenile Nonfiction / Comics & Graphic Novels / General"
@@ -13982,12 +13982,12 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF014000": [
     "Juvenile Nonfiction / Cooking & Food",
-    "Juvenile Nonfiction / Counting & Numbers see Concepts / Counting & Numbers",
-    "Juvenile Nonfiction / Country Life see Lifestyles / Country Life"
+    "Juvenile Nonfiction / Counting & Numbers see Concepts / Counting & Numbers",
+    "Juvenile Nonfiction / Country Life see Lifestyles / Country Life"
   ],
   "JNF015000": [
     "Juvenile Nonfiction / Crafts & Hobbies",
-    "Juvenile Nonfiction / Crime see Law & Crime"
+    "Juvenile Nonfiction / Crime see Law & Crime"
   ],
   "JNF016000": [
     "Juvenile Nonfiction / Curiosities & Wonders"
@@ -13997,16 +13997,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF069000": [
     "Juvenile Nonfiction / Diversity & Multicultural",
-    "Juvenile Nonfiction / Dolls see Toys, Dolls & Puppets"
+    "Juvenile Nonfiction / Dolls see Toys, Dolls & Puppets"
   ],
   "JNF017000": [
     "Juvenile Nonfiction / Drama",
-    "Juvenile Nonfiction / Economics see Business & Economics",
-    "Juvenile Nonfiction / Education see School & Education"
+    "Juvenile Nonfiction / Economics see Business & Economics",
+    "Juvenile Nonfiction / Education see School & Education"
   ],
   "JNF019000": [
     "Juvenile Nonfiction / Family / General (see also headings under Social Topics)",
-    "Juvenile Nonfiction / Family / Abuse see Social Topics / Physical & Emotional Abuse or Social Topics / Sexual Abuse"
+    "Juvenile Nonfiction / Family / Abuse see Social Topics / Physical & Emotional Abuse or Social Topics / Sexual Abuse"
   ],
   "JNF019010": [
     "Juvenile Nonfiction / Family / Adoption"
@@ -14037,7 +14037,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF019070": [
     "Juvenile Nonfiction / Family / Siblings",
-    "Juvenile Nonfiction / Farm Life see Lifestyles / Farm & Ranch Life"
+    "Juvenile Nonfiction / Farm Life see Lifestyles / Farm & Ranch Life"
   ],
   "JNF075000": [
     "Juvenile Nonfiction / First Nations"
@@ -14071,15 +14071,15 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF023000": [
     "Juvenile Nonfiction / Girls & Women",
-    "Juvenile Nonfiction / Government see Social Science / Politics & Government"
+    "Juvenile Nonfiction / Government see Social Science / Politics & Government"
   ],
   "JNF024000": [
     "Juvenile Nonfiction / Health & Daily Living / General",
-    "Juvenile Nonfiction / Health & Daily Living / Bodily Functions see Health & Daily Living / Personal Hygiene"
+    "Juvenile Nonfiction / Health & Daily Living / Bodily Functions see Health & Daily Living / Personal Hygiene"
   ],
   "JNF024120": [
     "Juvenile Nonfiction / Health & Daily Living / Daily Activities",
-    "Juvenile Nonfiction / Health & Daily Living / Depression & Mental Illness see Social Topics / Depression & Mental Illness"
+    "Juvenile Nonfiction / Health & Daily Living / Depression & Mental Illness see Social Topics / Depression & Mental Illness"
   ],
   "JNF024010": [
     "Juvenile Nonfiction / Health & Daily Living / Diet & Nutrition"
@@ -14305,7 +14305,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF029000": [
     "Juvenile Nonfiction / Language Arts / General",
-    "Juvenile Nonfiction / Language Arts / Alphabet see Concepts / Alphabet"
+    "Juvenile Nonfiction / Language Arts / Alphabet see Concepts / Alphabet"
   ],
   "JNF029010": [
     "Juvenile Nonfiction / Language Arts / Composition & Creative Writing"
@@ -14318,7 +14318,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF029060": [
     "Juvenile Nonfiction / Language Arts / Journal Writing",
-    "Juvenile Nonfiction / Language Arts / Readers see headings under Readers"
+    "Juvenile Nonfiction / Language Arts / Readers see headings under Readers"
   ],
   "JNF029050": [
     "Juvenile Nonfiction / Language Arts / Sign Language"
@@ -14367,7 +14367,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF035030": [
     "Juvenile Nonfiction / Mathematics / Arithmetic",
-    "Juvenile Nonfiction / Mathematics / Counting & Numbers see Concepts / Counting & Numbers"
+    "Juvenile Nonfiction / Mathematics / Counting & Numbers see Concepts / Counting & Numbers"
   ],
   "JNF035040": [
     "Juvenile Nonfiction / Mathematics / Fractions"
@@ -14380,9 +14380,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF064000": [
     "Juvenile Nonfiction / Media Tie-In",
-    "Juvenile Nonfiction / Medicine see headings under Health & Daily Living",
-    "Juvenile Nonfiction / Men see Boys & Men",
-    "Juvenile Nonfiction / Metaphysical see Paranormal & Supernatural"
+    "Juvenile Nonfiction / Medicine see headings under Health & Daily Living",
+    "Juvenile Nonfiction / Men see Boys & Men",
+    "Juvenile Nonfiction / Metaphysical see Paranormal & Supernatural"
   ],
   "JNF078000": [
     "Juvenile Nonfiction / Métis"
@@ -14422,7 +14422,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF018040": [
     "Juvenile Nonfiction / Native American",
-    "Juvenile Nonfiction / Nature see headings under Animals or Science & Nature"
+    "Juvenile Nonfiction / Nature see headings under Animals or Science & Nature"
   ],
   "JNF072000": [
     "Juvenile Nonfiction / Neurodiversity"
@@ -14441,14 +14441,14 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF039030": [
     "Juvenile Nonfiction / Performing Arts / Film",
-    "Juvenile Nonfiction / Performing Arts / Music see headings under Music"
+    "Juvenile Nonfiction / Performing Arts / Music see headings under Music"
   ],
   "JNF039040": [
     "Juvenile Nonfiction / Performing Arts / Television & Radio"
   ],
   "JNF039050": [
     "Juvenile Nonfiction / Performing Arts / Theater & Musicals",
-    "Juvenile Nonfiction / Pets see Animals / Pets"
+    "Juvenile Nonfiction / Pets see Animals / Pets"
   ],
   "JNF040000": [
     "Juvenile Nonfiction / Philosophy"
@@ -14497,9 +14497,9 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF042010": [
     "Juvenile Nonfiction / Poetry / Humorous",
-    "Juvenile Nonfiction / Politics & Government see Social Science / Politics & Government",
-    "Juvenile Nonfiction / Psychology see Social Science / Psychology",
-    "Juvenile Nonfiction / Puppets see Toys, Dolls & Puppets"
+    "Juvenile Nonfiction / Politics & Government see Social Science / Politics & Government",
+    "Juvenile Nonfiction / Psychology see Social Science / Psychology",
+    "Juvenile Nonfiction / Puppets see Toys, Dolls & Puppets"
   ],
   "JNF045000": [
     "Juvenile Nonfiction / Readers / Beginner"
@@ -14512,7 +14512,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF079000": [
     "Juvenile Nonfiction / Readers / Hi-Lo",
-    "Juvenile Nonfiction / Recreation see headings under Sports & Recreation"
+    "Juvenile Nonfiction / Recreation see headings under Sports & Recreation"
   ],
   "JNF065000": [
     "Juvenile Nonfiction / Recycling & Green Living"
@@ -14726,7 +14726,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF053000": [
     "Juvenile Nonfiction / Social Topics / General (see also headings under Family)",
-    "Juvenile Nonfiction / Social Topics / Abuse see Social Topics / Physical & Emotional Abuse or Social Topics / Sexual Abuse"
+    "Juvenile Nonfiction / Social Topics / Abuse see Social Topics / Physical & Emotional Abuse or Social Topics / Sexual Abuse"
   ],
   "JNF053010": [
     "Juvenile Nonfiction / Social Topics / Adolescence"
@@ -14757,7 +14757,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF053060": [
     "Juvenile Nonfiction / Social Topics / Friendship",
-    "Juvenile Nonfiction / Social Topics / Homosexuality see LGBTQ+"
+    "Juvenile Nonfiction / Social Topics / Homosexuality see LGBTQ+"
   ],
   "JNF053090": [
     "Juvenile Nonfiction / Social Topics / Manners & Etiquette"
@@ -14782,16 +14782,16 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF053170": [
     "Juvenile Nonfiction / Social Topics / Sexual Abuse",
-    "Juvenile Nonfiction / Social Topics / Sexuality see Social Topics / Dating & Relationships",
-    "Juvenile Nonfiction / Social Topics / Strangers (see Health & Daily Living / Safety)",
-    "Juvenile Nonfiction / Social Topics / Substance Abuse see Social Topics / Drugs, Alcohol, Substance Abuse"
+    "Juvenile Nonfiction / Social Topics / Sexuality see Social Topics / Dating & Relationships",
+    "Juvenile Nonfiction / Social Topics / Strangers (see Health & Daily Living / Safety)",
+    "Juvenile Nonfiction / Social Topics / Substance Abuse see Social Topics / Drugs, Alcohol, Substance Abuse"
   ],
   "JNF053200": [
     "Juvenile Nonfiction / Social Topics / Values & Virtues"
   ],
   "JNF053210": [
     "Juvenile Nonfiction / Social Topics / Violence",
-    "Juvenile Nonfiction / Social Studies see headings under Social Science"
+    "Juvenile Nonfiction / Social Studies see headings under Social Science"
   ],
   "JNF068000": [
     "Juvenile Nonfiction / Spies & Spying"
@@ -14822,7 +14822,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF054050": [
     "Juvenile Nonfiction / Sports & Recreation / Football",
-    "Juvenile Nonfiction / Sports & Recreation / Games see headings under Games & Activities"
+    "Juvenile Nonfiction / Sports & Recreation / Games see headings under Games & Activities"
   ],
   "JNF054230": [
     "Juvenile Nonfiction / Sports & Recreation / Golf"
@@ -14886,7 +14886,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF051020": [
     "Juvenile Nonfiction / Technology / Agriculture",
-    "Juvenile Nonfiction / Technology / Computers see headings under Computers"
+    "Juvenile Nonfiction / Technology / Computers see headings under Computers"
   ],
   "JNF051090": [
     "Juvenile Nonfiction / Technology / Electricity & Electronics"
@@ -14902,7 +14902,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF061020": [
     "Juvenile Nonfiction / Technology / Robotics",
-    "Juvenile Nonfiction / Town Life see Lifestyles / City & Town Life"
+    "Juvenile Nonfiction / Town Life see Lifestyles / City & Town Life"
   ],
   "JNF056000": [
     "Juvenile Nonfiction / Toys, Dolls & Puppets"
@@ -14927,11 +14927,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "JNF058000": [
     "Juvenile Nonfiction / Travel",
-    "Juvenile Nonfiction / Vocational Guidance see Careers"
+    "Juvenile Nonfiction / Vocational Guidance see Careers"
   ],
   "JNF073000": [
     "Juvenile Nonfiction / Volunteering",
-    "Juvenile Nonfiction / Women see Girls & Women"
+    "Juvenile Nonfiction / Women see Girls & Women"
   ],
   "YAF000000": [
     "Young Adult Fiction / General"
@@ -15769,7 +15769,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAN009000": [
     "Language Arts & Disciplines / Linguistics / General",
-    "Language Arts & Disciplines / Linguistics / Computational see COMPUTERS / Artificial Intelligence / Natural Language Processing"
+    "Language Arts & Disciplines / Linguistics / Computational see COMPUTERS / Artificial Intelligence / Natural Language Processing"
   ],
   "LAN024000": [
     "Language Arts & Disciplines / Linguistics / Etymology"
@@ -15809,7 +15809,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAN030000": [
     "Language Arts & Disciplines / Orality",
-    "Language Arts & Disciplines / Proofreading see Editing & Proofreading"
+    "Language Arts & Disciplines / Proofreading see Editing & Proofreading"
   ],
   "LAN026000": [
     "Language Arts & Disciplines / Public Speaking & Speech Writing"
@@ -16689,7 +16689,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW001000": [
     "Law / Administrative Law & Regulatory Practice",
-    "Law / Admiralty see Maritime"
+    "Law / Admiralty see Maritime"
   ],
   "LAW102000": [
     "Law / Agricultural"
@@ -16723,7 +16723,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW010000": [
     "Law / Child Advocacy",
-    "Law / Children see Family Law / Children"
+    "Law / Children see Family Law / Children"
   ],
   "LAW011000": [
     "Law / Civil Law"
@@ -16766,11 +16766,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW021000": [
     "Law / Contracts",
-    "Law / Copyright see Intellectual Property / Copyright"
+    "Law / Copyright see Intellectual Property / Copyright"
   ],
   "LAW022000": [
     "Law / Corporate",
-    "Law / Corporate Governance see Corporate or BUSINESS & ECONOMICS / Corporate Governance"
+    "Law / Corporate Governance see Corporate or BUSINESS & ECONOMICS / Corporate Governance"
   ],
   "LAW023000": [
     "Law / Court Records"
@@ -16810,8 +16810,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW094000": [
     "Law / Discrimination",
-    "Law / Divorce see Family Law / Divorce & Separation",
-    "Law / Domestic Relations see headings under Family Law"
+    "Law / Divorce see Family Law / Divorce & Separation",
+    "Law / Domestic Relations see headings under Family Law"
   ],
   "LAW118000": [
     "Law / Drugs & the Law"
@@ -16827,7 +16827,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW032000": [
     "Law / Emigration & Immigration",
-    "Law / Employment see Labor & Employment"
+    "Law / Employment see Labor & Employment"
   ],
   "LAW033000": [
     "Law / Entertainment"
@@ -16861,7 +16861,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW041000": [
     "Law / Forensic Science",
-    "Law / Franchising see Business & Financial"
+    "Law / Franchising see Business & Financial"
   ],
   "LAW043000": [
     "Law / Gender & the Law"
@@ -16883,8 +16883,8 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW047000": [
     "Law / Housing & Urban Development",
-    "Law / Human Rights see POLITICAL SCIENCE / Human Rights",
-    "Law / Immigration see Emigration & Immigration"
+    "Law / Human Rights see POLITICAL SCIENCE / Human Rights",
+    "Law / Immigration see Emigration & Immigration"
   ],
   "LAW110000": [
     "Law / Indigenous Law & Legal Systems"
@@ -16930,7 +16930,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW056000": [
     "Law / Law Office Management",
-    "Law / Legal Assistants see Paralegals & Paralegalism"
+    "Law / Legal Assistants see Paralegals & Paralegalism"
   ],
   "LAW059000": [
     "Law / Legal Education"
@@ -16949,25 +16949,25 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW113000": [
     "Law / Liability",
-    "Law / Libel & Slander see Defamation"
+    "Law / Libel & Slander see Defamation"
   ],
   "LAW064000": [
     "Law / Litigation"
   ],
   "LAW100000": [
     "Law / Living Trusts",
-    "Law / Living Wills see Right to Die"
+    "Law / Living Wills see Right to Die"
   ],
   "LAW095000": [
     "Law / Malpractice"
   ],
   "LAW066000": [
     "Law / Maritime",
-    "Law / Marriage see Family Law / Marriage"
+    "Law / Marriage see Family Law / Marriage"
   ],
   "LAW096000": [
     "Law / Media & the Law",
-    "Law / Mediation see Arbitration, Negotiation, Mediation"
+    "Law / Mediation see Arbitration, Negotiation, Mediation"
   ],
   "LAW093000": [
     "Law / Medical Law & Legislation"
@@ -16986,11 +16986,11 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW070000": [
     "Law / Natural Resources",
-    "Law / Negotiation see Arbitration, Negotiation, Mediation"
+    "Law / Negotiation see Arbitration, Negotiation, Mediation"
   ],
   "LAW071000": [
     "Law / Paralegals & Paralegalism",
-    "Law / Patent see Intellectual Property / Patent"
+    "Law / Patent see Intellectual Property / Patent"
   ],
   "LAW115000": [
     "Law / Pension Law"
@@ -17003,7 +17003,7 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW116000": [
     "Law / Privacy",
-    "Law / Professional Responsibility see Ethics & Professional Responsibility"
+    "Law / Professional Responsibility see Ethics & Professional Responsibility"
   ],
   "LAW074000": [
     "Law / Property"
@@ -17040,26 +17040,26 @@ export const BISAC: Record<string, string[]> = {
   ],
   "LAW083000": [
     "Law / Securities",
-    "Law / Separation see Family Law / Divorce & Separation"
+    "Law / Separation see Family Law / Divorce & Separation"
   ],
   "LAW084000": [
     "Law / Sports",
-    "Law / Study & Teaching see Legal Education"
+    "Law / Study & Teaching see Legal Education"
   ],
   "LAW086000": [
     "Law / Taxation",
-    "Law / Technology see Science & Technology"
+    "Law / Technology see Science & Technology"
   ],
   "LAW087000": [
     "Law / Torts",
-    "Law / Trademark see Intellectual Property / Trademark"
+    "Law / Trademark see Intellectual Property / Trademark"
   ],
   "LAW117000": [
     "Law / Transportation"
   ],
   "LAW088000": [
     "Law / Trial Practice",
-    "Law / Urban Development see Housing & Urban Development"
+    "Law / Urban Development see Housing & Urban Development"
   ],
   "LAW090000": [
     "Law / Wills"

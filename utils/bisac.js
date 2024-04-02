@@ -21,6 +21,14 @@ function titleize(str) {
   return newStr
 }
 
+function cleanLabel(label) {
+  return label
+    .trim()
+    .replace(/\s/g, ' ') // normalize whitespace characters
+    .replace(/\s\*$/g, '')
+  ;
+}
+
 async function scrapePage(href) {
   console.log(">>>>>>>", href);
   const resp = await fetch(href);
@@ -40,11 +48,7 @@ async function scrapePage(href) {
       isCodeCtx = true;
       const parts = txt.split(reg);
       const code = parts[1].trim();
-      const label = parts[2]
-        .trim()
-        .replace(/\s/g, ' ') // normalize whitespace characters
-        .replace(/\s\*$/g, '')
-      ;
+      const label = cleanLabel(parts[2]);
 
       lastCode = code;
       if (!prefix) {
@@ -53,7 +57,10 @@ async function scrapePage(href) {
       
       codes[code] = [label.replace(prefix, titleize(prefix))];
     } else if (prefix && txt.includes(prefix)) {
-      codes[lastCode].push(txt.trim().replace(prefix, titleize(prefix)));
+      codes[lastCode].push(
+        cleanLabel(txt)
+          .replace(prefix, titleize(prefix))
+       );
     }
   }
 
