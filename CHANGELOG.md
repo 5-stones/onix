@@ -1,3 +1,12 @@
+# [1.0.0-rc.5](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2024-04-02)
+
+
+### Bug Fixes
+
+* **bisac:** fix an issue with whitespace normalization ([a7eb27c](https://gitlab.com/annunciate/onix/commit/a7eb27c0d68d329925ab3eeaffe155756254b9cd))
+
+
+
 # [1.0.0-rc.4](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.3...v1.0.0-rc.4) (2024-04-02)
 
 
