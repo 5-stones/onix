@@ -22,7 +22,7 @@
     "postversion": "yarn publish:git && yarn publish:npm",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "publish:git": "git push && git push --tags",
-    "publish:npm": "yarn build && yarn npm publish --access public",
+    "publish:npm": "yarn build && yarn publish --access public --non-interactive",
     "generate:bisac": "node ./utils/bisac.js",
     "generate:onix-enums": "node ./utils/onix-enums.js"
   },
