@@ -14,18 +14,17 @@ const someONIXMessage = '...';
 const parsed = parse(someONIXMessage);
 ```
 
-There's also a function for parsing an ONIX feed file from an SFTP connection:
-
-```ts
-import { parseFeedOnSFTP } from '@5stones/onix';
-
-const connectionOptions = {...};
-const directory = '/';
-const parsed = parseFeedOnSFTP(connectionOptions, directory);
-```
-
 There are also numerous interfaces, enums, and other data that can be used
 for strong typing and parsing (e.g. BISAC data).
+
+There are also the following helpers for dealing with BISAC:
+
+```ts
+import { getBISACLabelsForCode, getBISACCodeForLabel } from '@5stones/onix';
+
+const labels: string[] = getBISACLabelsForCode('...');
+const code: string = getBISACCodeForLabel('...');
+```
 
 ## Code Generation
 

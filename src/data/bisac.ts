@@ -266,7 +266,7 @@ export const BISAC: Record<string, string[]> = {
     "Literary Collections / Indigenous"
   ],
   "LCO023000": [
-    "Literary Collections / Indigenous Peoples of Turtle Island *"
+    "Literary Collections / Indigenous Peoples of Turtle Island"
   ],
   "LCO020000": [
     "Literary Collections / Interviews"
@@ -284,7 +284,7 @@ export const BISAC: Record<string, string[]> = {
     "Literary Collections / Middle Eastern"
   ],
   "LCO024000": [
-    "Literary Collections / Native American *"
+    "Literary Collections / Native American"
   ],
   "LCO021000": [
     "Literary Collections / Prisoners' Writings"
@@ -542,7 +542,7 @@ export const BISAC: Record<string, string[]> = {
     "Literary Criticism / Indigenous"
   ],
   "LIT027000": [
-    "Literary Criticism / Indigenous Peoples of Turtle Island *"
+    "Literary Criticism / Indigenous Peoples of Turtle Island"
   ],
   "LIT004210": [
     "Literary Criticism / Jewish"
@@ -581,7 +581,7 @@ export const BISAC: Record<string, string[]> = {
     "Literary Criticism / Mystery & Detective"
   ],
   "LIT028000": [
-    "Literary Criticism / Native American *"
+    "Literary Criticism / Native American"
   ],
   "LIT026000": [
     "Literary Criticism / Novel as Form",
@@ -663,7 +663,7 @@ export const BISAC: Record<string, string[]> = {
     "Art / American / Hispanic & Latino"
   ],
   "ART069000": [
-    "Art / American / Native American *",
+    "Art / American / Native American",
     "Art / Animation see PERFORMING ARTS / Animation"
   ],
   "ART054000": [
@@ -676,7 +676,7 @@ export const BISAC: Record<string, string[]> = {
     "Art / Asian / General"
   ],
   "ART019040": [
-    "Art / Asian / Central Asian *"
+    "Art / Asian / Central Asian"
   ],
   "ART019010": [
     "Art / Asian / Chinese"
@@ -688,10 +688,10 @@ export const BISAC: Record<string, string[]> = {
     "Art / Asian / Japanese"
   ],
   "ART019050": [
-    "Art / Asian / Korean *"
+    "Art / Asian / Korean"
   ],
   "ART019060": [
-    "Art / Asian / Southeast Asian *"
+    "Art / Asian / Southeast Asian"
   ],
   "ART042000": [
     "Art / Australian & Oceanian",
@@ -775,7 +775,7 @@ export const BISAC: Record<string, string[]> = {
     "Art / History / Ancient & Classical"
   ],
   "ART015130": [
-    "Art / History / European / General *"
+    "Art / History / European / General"
   ],
   "ART015070": [
     "Art / History / European / Medieval"
@@ -790,7 +790,7 @@ export const BISAC: Record<string, string[]> = {
     "Art / History / European / Romanticism"
   ],
   "ART015140": [
-    "Art / History / Indigenous *"
+    "Art / History / Indigenous"
   ],
   "ART015100": [
     "Art / History / Modern (late 19th Century to 1945)"
@@ -802,7 +802,7 @@ export const BISAC: Record<string, string[]> = {
     "Art / Indigenous"
   ],
   "ART070000": [
-    "Art / Indigenous Art of Turtle Island *"
+    "Art / Indigenous Art of Turtle Island"
   ],
   "ART016000": [
     "Art / Individual Artists / General"
@@ -861,7 +861,7 @@ export const BISAC: Record<string, string[]> = {
     "Art / Subjects & Themes / General"
   ],
   "ART050080": [
-    "Art / Subjects & Themes / Buildings & Cityscapes *"
+    "Art / Subjects & Themes / Buildings & Cityscapes"
   ],
   "ART050050": [
     "Art / Subjects & Themes / Erotica"
@@ -897,10 +897,10 @@ export const BISAC: Record<string, string[]> = {
     "Art / Techniques / Airbrush"
   ],
   "ART071000": [
-    "Art / Techniques / Basketry *"
+    "Art / Techniques / Basketry"
   ],
   "ART072000": [
-    "Art / Techniques / Beadwork *"
+    "Art / Techniques / Beadwork"
   ],
   "ART003000": [
     "Art / Techniques / Calligraphy"
@@ -912,13 +912,13 @@ export const BISAC: Record<string, string[]> = {
     "Art / Techniques / Color"
   ],
   "ART073000": [
-    "Art / Techniques / Composition *"
+    "Art / Techniques / Composition"
   ],
   "ART010000": [
     "Art / Techniques / Drawing"
   ],
   "ART074000": [
-    "Art / Techniques / Leatherwork & Hidework *"
+    "Art / Techniques / Leatherwork & Hidework"
   ],
   "ART052000": [
     "Art / Techniques / Life Drawing"
@@ -942,13 +942,13 @@ export const BISAC: Record<string, string[]> = {
     "Art / Techniques / Printmaking"
   ],
   "ART075000": [
-    "Art / Techniques / Quillwork *"
+    "Art / Techniques / Quillwork"
   ],
   "ART053000": [
     "Art / Techniques / Sculpting"
   ],
   "ART076000": [
-    "Art / Techniques / Textiles & Weaving *"
+    "Art / Techniques / Textiles & Weaving"
   ],
   "ART029000": [
     "Art / Techniques / Watercolor Painting",
@@ -1112,7 +1112,7 @@ export const BISAC: Record<string, string[]> = {
     "Mathematics / Set Theory"
   ],
   "MAT043000": [
-    "Mathematics / Social & Cultural Aspects *",
+    "Mathematics / Social & Cultural Aspects",
     "Mathematics / Statistics see headings under Probability & Statistics"
   ],
   "MAT030000": [
@@ -2328,7 +2328,7 @@ export const BISAC: Record<string, string[]> = {
     "Medical / Immunology"
   ],
   "MED122000": [
-    "Medical / Indigenous Health & Healing *",
+    "Medical / Indigenous Health & Healing",
     "Medical / Industrial Medicine see Occupational & Industrial Medicine"
   ],
   "MED115000": [
@@ -2375,7 +2375,7 @@ export const BISAC: Record<string, string[]> = {
     "Medical / Mind-Body Medicine (Psychoneuroimmunology) see Alternative & Complementary Medicine"
   ],
   "MED123000": [
-    "Medical / Multicultural Medicine *",
+    "Medical / Multicultural Medicine",
     "Medical / Naturopathy see HEALTH & FITNESS / Naturopathy",
     "Medical / Neonatology see Perinatology & Neonatology"
   ],
@@ -2759,7 +2759,7 @@ export const BISAC: Record<string, string[]> = {
     "Biography & Autobiography / Indigenous"
   ],
   "BIO039000": [
-    "Biography & Autobiography / Indigenous Peoples of Turtle Island *"
+    "Biography & Autobiography / Indigenous Peoples of Turtle Island"
   ],
   "BIO037000": [
     "Biography & Autobiography / Jewish",
@@ -2790,7 +2790,7 @@ export const BISAC: Record<string, string[]> = {
     "Biography & Autobiography / Music"
   ],
   "BIO040000": [
-    "Biography & Autobiography / Native American *",
+    "Biography & Autobiography / Native American",
     "Biography & Autobiography / Nurses see Medical (incl. Patients)"
   ],
   "BIO033000": [
@@ -2903,7 +2903,7 @@ export const BISAC: Record<string, string[]> = {
     "Music / Genres & Styles / Heavy Metal"
   ],
   "MUS056000": [
-    "Music / Genres & Styles / Indigenous *"
+    "Music / Genres & Styles / Indigenous"
   ],
   "MUS024000": [
     "Music / Genres & Styles / International"
@@ -3164,7 +3164,7 @@ export const BISAC: Record<string, string[]> = {
     "Body, Mind & Spirit / Hermetism & Rosicrucianism"
   ],
   "OCC046000": [
-    "Body, Mind & Spirit / Human Design *"
+    "Body, Mind & Spirit / Human Design"
   ],
   "OCC038000": [
     "Body, Mind & Spirit / I Ching"
@@ -3214,7 +3214,7 @@ export const BISAC: Record<string, string[]> = {
     "Body, Mind & Spirit / Reference"
   ],
   "OCC047000": [
-    "Body, Mind & Spirit / Sacred Geometry *"
+    "Body, Mind & Spirit / Sacred Geometry"
   ],
   "OCC041000": [
     "Body, Mind & Spirit / Sacred Sexuality"
@@ -3295,7 +3295,7 @@ export const BISAC: Record<string, string[]> = {
     "Nature / Birdwatching Guides"
   ],
   "NAT050000": [
-    "Nature / Cultural Botany *"
+    "Nature / Cultural Botany"
   ],
   "NAT009000": [
     "Nature / Earthquakes & Volcanoes"
@@ -3346,7 +3346,7 @@ export const BISAC: Record<string, string[]> = {
     "Nature / Essays"
   ],
   "NAT051000": [
-    "Nature / Foraging *"
+    "Nature / Foraging"
   ],
   "NAT015000": [
     "Nature / Fossils"
@@ -3355,7 +3355,7 @@ export const BISAC: Record<string, string[]> = {
     "Nature / Fungi & Mushrooms"
   ],
   "NAT052000": [
-    "Nature / Indigenous Stewardship *",
+    "Nature / Indigenous Stewardship",
     "Nature / Minerals see Rocks & Minerals"
   ],
   "NAT023000": [
@@ -3465,7 +3465,7 @@ export const BISAC: Record<string, string[]> = {
     "Business & Economics / Careers / General"
   ],
   "BUS012030": [
-    "Business & Economics / Careers / Career Advancement & Professional Development *"
+    "Business & Economics / Careers / Career Advancement & Professional Development"
   ],
   "BUS012010": [
     "Business & Economics / Careers / Internships"
@@ -3647,7 +3647,7 @@ export const BISAC: Record<string, string[]> = {
     "Business & Economics / Imports see Exports & Imports"
   ],
   "BUS119000": [
-    "Business & Economics / Indigenous Economies *"
+    "Business & Economics / Indigenous Economies"
   ],
   "BUS082000": [
     "Business & Economics / Industrial Management"
@@ -4092,7 +4092,7 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Dance / Tap"
   ],
   "PER024000": [
-    "Performing Arts / Drag *"
+    "Performing Arts / Drag"
   ],
   "PER004000": [
     "Performing Arts / Film / General"
@@ -4125,13 +4125,13 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Film / Genres / Horror"
   ],
   "PER004170": [
-    "Performing Arts / Film / Genres / Musicals *"
+    "Performing Arts / Film / Genres / Musicals"
   ],
   "PER004140": [
     "Performing Arts / Film / Genres / Science Fiction & Fantasy"
   ],
   "PER004180": [
-    "Performing Arts / Film / Genres / Superheroes *"
+    "Performing Arts / Film / Genres / Superheroes"
   ],
   "PER004150": [
     "Performing Arts / Film / Genres / Westerns"
@@ -4193,7 +4193,7 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Television / Genres / General"
   ],
   "PER010120": [
-    "Performing Arts / Television / Genres / Animated *"
+    "Performing Arts / Television / Genres / Animated"
   ],
   "PER010070": [
     "Performing Arts / Television / Genres / Children's"
@@ -4202,7 +4202,7 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Television / Genres / Comedy"
   ],
   "PER010130": [
-    "Performing Arts / Television / Genres / Documentary *"
+    "Performing Arts / Television / Genres / Documentary"
   ],
   "PER010090": [
     "Performing Arts / Television / Genres / Drama"
@@ -4214,7 +4214,7 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Television / Genres / Science Fiction, Fantasy & Horror"
   ],
   "PER010140": [
-    "Performing Arts / Television / Genres / Superheroes *"
+    "Performing Arts / Television / Genres / Superheroes"
   ],
   "PER010020": [
     "Performing Arts / Television / Guides & Reviews"
@@ -4238,7 +4238,7 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Theater / Direction & Production"
   ],
   "PER011050": [
-    "Performing Arts / Theater / Dramaturgy *"
+    "Performing Arts / Theater / Dramaturgy"
   ],
   "PER011020": [
     "Performing Arts / Theater / History & Criticism"
@@ -4250,10 +4250,10 @@ export const BISAC: Record<string, string[]> = {
     "Performing Arts / Theater / Playwriting"
   ],
   "PER011060": [
-    "Performing Arts / Theater / Reference *"
+    "Performing Arts / Theater / Reference"
   ],
   "PER011070": [
-    "Performing Arts / Theater / Regional & National *"
+    "Performing Arts / Theater / Regional & National"
   ],
   "PER011040": [
     "Performing Arts / Theater / Stagecraft & Scenography",
@@ -4272,17 +4272,17 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Adaptations"
   ],
   "CGN022000": [
-    "Comics & Graphic Novels / African American & Black *"
+    "Comics & Graphic Novels / African American & Black"
   ],
   "CGN001000": [
     "Comics & Graphic Novels / Anthologies"
   ],
   "CGN023000": [
-    "Comics & Graphic Novels / Asian American & Pacific Islander *",
+    "Comics & Graphic Novels / Asian American & Pacific Islander",
     "Comics & Graphic Novels / Comics & Cartoons see HUMOR / Form / Comic Strips & Cartoons"
   ],
   "CGN024000": [
-    "Comics & Graphic Novels / Coming of Age *"
+    "Comics & Graphic Novels / Coming of Age"
   ],
   "CGN008000": [
     "Comics & Graphic Novels / Contemporary Women"
@@ -4291,13 +4291,13 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Crime & Mystery"
   ],
   "CGN025000": [
-    "Comics & Graphic Novels / Diversity & Multicultural *"
+    "Comics & Graphic Novels / Diversity & Multicultural"
   ],
   "CGN013000": [
     "Comics & Graphic Novels / Dystopian"
   ],
   "CGN004340": [
-    "Comics & Graphic Novels / East Asian Style / General *"
+    "Comics & Graphic Novels / East Asian Style / General"
   ],
   "CGN004050": [
     "Comics & Graphic Novels / East Asian Style / Manga / General"
@@ -4321,7 +4321,7 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / East Asian Style / Manga / Yuri (Girls' Love)"
   ],
   "CGN004350": [
-    "Comics & Graphic Novels / East Asian Style / Manhua *"
+    "Comics & Graphic Novels / East Asian Style / Manhua"
   ],
   "CGN021000": [
     "Comics & Graphic Novels / East Asian Style / Manhwa"
@@ -4339,34 +4339,34 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Fantasy / General"
   ],
   "CGN004360": [
-    "Comics & Graphic Novels / Fantasy / Dark Fantasy *"
+    "Comics & Graphic Novels / Fantasy / Dark Fantasy"
   ],
   "CGN004370": [
-    "Comics & Graphic Novels / Fantasy / Dragons & Mythical Creatures *"
+    "Comics & Graphic Novels / Fantasy / Dragons & Mythical Creatures"
   ],
   "CGN004380": [
-    "Comics & Graphic Novels / Fantasy / Epic *"
+    "Comics & Graphic Novels / Fantasy / Epic"
   ],
   "CGN026000": [
-    "Comics & Graphic Novels / Feminist *"
+    "Comics & Graphic Novels / Feminist"
   ],
   "CGN004330": [
     "Comics & Graphic Novels / Food"
   ],
   "CGN027000": [
-    "Comics & Graphic Novels / Hispanic & Latino *"
+    "Comics & Graphic Novels / Hispanic & Latino"
   ],
   "CGN010000": [
     "Comics & Graphic Novels / Historical Fiction / General"
   ],
   "CGN010010": [
-    "Comics & Graphic Novels / Historical Fiction / Ancient *"
+    "Comics & Graphic Novels / Historical Fiction / Ancient"
   ],
   "CGN010020": [
-    "Comics & Graphic Novels / Historical Fiction / Medieval *"
+    "Comics & Graphic Novels / Historical Fiction / Medieval"
   ],
   "CGN010030": [
-    "Comics & Graphic Novels / Historical Fiction / World War II & Holocaust *"
+    "Comics & Graphic Novels / Historical Fiction / World War II & Holocaust"
   ],
   "CGN004040": [
     "Comics & Graphic Novels / Horror"
@@ -4375,13 +4375,13 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Humorous"
   ],
   "CGN028000": [
-    "Comics & Graphic Novels / Indigenous *"
+    "Comics & Graphic Novels / Indigenous"
   ],
   "CGN029000": [
-    "Comics & Graphic Novels / Indigenous Peoples of Turtle Island *"
+    "Comics & Graphic Novels / Indigenous Peoples of Turtle Island"
   ],
   "CGN030000": [
-    "Comics & Graphic Novels / Jewish *",
+    "Comics & Graphic Novels / Jewish",
     "Comics & Graphic Novels / Juvenile Fiction see headings under JUVENILE FICTION / Comics & Graphic Novels",
     "Comics & Graphic Novels / Juvenile Nonfiction see headings under JUVENILE NONFICTION / Comics & Graphic Novels"
   ],
@@ -4389,19 +4389,19 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / LGBTQ+ / General"
   ],
   "CGN009010": [
-    "Comics & Graphic Novels / LGBTQ+ / Bisexual *"
+    "Comics & Graphic Novels / LGBTQ+ / Bisexual"
   ],
   "CGN009020": [
-    "Comics & Graphic Novels / LGBTQ+ / Gay *"
+    "Comics & Graphic Novels / LGBTQ+ / Gay"
   ],
   "CGN009030": [
-    "Comics & Graphic Novels / LGBTQ+ / Lesbian *"
+    "Comics & Graphic Novels / LGBTQ+ / Lesbian"
   ],
   "CGN009040": [
-    "Comics & Graphic Novels / LGBTQ+ / Transgender *"
+    "Comics & Graphic Novels / LGBTQ+ / Transgender"
   ],
   "CGN009050": [
-    "Comics & Graphic Novels / LGBTQ+ / Two-Spirited & Indigiqueer *"
+    "Comics & Graphic Novels / LGBTQ+ / Two-Spirited & Indigiqueer"
   ],
   "CGN004320": [
     "Comics & Graphic Novels / Light Novel"
@@ -4410,13 +4410,13 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Literary"
   ],
   "CGN031000": [
-    "Comics & Graphic Novels / Magical Realism *"
+    "Comics & Graphic Novels / Magical Realism"
   ],
   "CGN004060": [
     "Comics & Graphic Novels / Media Tie-In"
   ],
   "CGN032000": [
-    "Comics & Graphic Novels / Native American *"
+    "Comics & Graphic Novels / Native American"
   ],
   "CGN007000": [
     "Comics & Graphic Novels / Nonfiction / General"
@@ -4431,16 +4431,16 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Nonfiction / Journalism"
   ],
   "CGN007050": [
-    "Comics & Graphic Novels / Nonfiction / Medicine *"
+    "Comics & Graphic Novels / Nonfiction / Medicine"
   ],
   "CGN007060": [
-    "Comics & Graphic Novels / Nonfiction / Politics & Philosophy *"
+    "Comics & Graphic Novels / Nonfiction / Politics & Philosophy"
   ],
   "CGN007040": [
     "Comics & Graphic Novels / Nonfiction / Science & Nature"
   ],
   "CGN007070": [
-    "Comics & Graphic Novels / Nonfiction / Self-Help *"
+    "Comics & Graphic Novels / Nonfiction / Self-Help"
   ],
   "CGN016000": [
     "Comics & Graphic Novels / Occult & Supernatural"
@@ -4455,7 +4455,7 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Romance"
   ],
   "CGN033000": [
-    "Comics & Graphic Novels / Satire *"
+    "Comics & Graphic Novels / Satire"
   ],
   "CGN004280": [
     "Comics & Graphic Novels / School Life"
@@ -4464,22 +4464,22 @@ export const BISAC: Record<string, string[]> = {
     "Comics & Graphic Novels / Science Fiction / General"
   ],
   "CGN004390": [
-    "Comics & Graphic Novels / Science Fiction / Alien Contact *"
+    "Comics & Graphic Novels / Science Fiction / Alien Contact"
   ],
   "CGN004400": [
-    "Comics & Graphic Novels / Science Fiction / Apocalyptic & Post-Apocalyptic *"
+    "Comics & Graphic Novels / Science Fiction / Apocalyptic & Post-Apocalyptic"
   ],
   "CGN004410": [
-    "Comics & Graphic Novels / Science Fiction / Cyberpunk *"
+    "Comics & Graphic Novels / Science Fiction / Cyberpunk"
   ],
   "CGN004420": [
-    "Comics & Graphic Novels / Science Fiction / Steampunk *"
+    "Comics & Graphic Novels / Science Fiction / Steampunk"
   ],
   "CGN034000": [
-    "Comics & Graphic Novels / Slice of Life *"
+    "Comics & Graphic Novels / Slice of Life"
   ],
   "CGN035000": [
-    "Comics & Graphic Novels / Spies & Espionage *"
+    "Comics & Graphic Novels / Spies & Espionage"
   ],
   "CGN004200": [
     "Comics & Graphic Novels / Sports"
@@ -5080,7 +5080,7 @@ export const BISAC: Record<string, string[]> = {
     "Philosophy / History & Surveys / Modern"
   ],
   "PHI050000": [
-    "Philosophy / Indigenous *"
+    "Philosophy / Indigenous"
   ],
   "PHI046000": [
     "Philosophy / Individual Philosophers"
@@ -5276,13 +5276,13 @@ export const BISAC: Record<string, string[]> = {
     "Cooking / Courses & Dishes / Sauces & Dressings"
   ],
   "CKB135000": [
-    "Cooking / Courses & Dishes / Snacks *"
+    "Cooking / Courses & Dishes / Snacks"
   ],
   "CKB079000": [
     "Cooking / Courses & Dishes / Soups & Stews"
   ],
   "CKB136000": [
-    "Cooking / Courses & Dishes / Tea Time *"
+    "Cooking / Courses & Dishes / Tea Time"
   ],
   "CKB029000": [
     "Cooking / Entertaining"
@@ -5327,7 +5327,7 @@ export const BISAC: Record<string, string[]> = {
     "Cooking / Health & Healing / Low Fat"
   ],
   "CKB137000": [
-    "Cooking / Health & Healing / Low FODMAP *"
+    "Cooking / Health & Healing / Low FODMAP"
   ],
   "CKB052000": [
     "Cooking / Health & Healing / Low Salt",
@@ -5496,7 +5496,7 @@ export const BISAC: Record<string, string[]> = {
     "Cooking / Regional & Cultural / Indigenous Food of the Americas"
   ],
   "CKB138000": [
-    "Cooking / Regional & Cultural / Indigenous Food of Turtle Island *"
+    "Cooking / Regional & Cultural / Indigenous Food of Turtle Island"
   ],
   "CKB045000": [
     "Cooking / Regional & Cultural / International"
@@ -5527,7 +5527,7 @@ export const BISAC: Record<string, string[]> = {
     "Cooking / Regional & Cultural / Middle Eastern"
   ],
   "CKB139000": [
-    "Cooking / Regional & Cultural / Native American *"
+    "Cooking / Regional & Cultural / Native American"
   ],
   "CKB065000": [
     "Cooking / Regional & Cultural / Polish"
@@ -5606,7 +5606,7 @@ export const BISAC: Record<string, string[]> = {
     "Cooking / Specific Ingredients / Vegetables"
   ],
   "CKB140000": [
-    "Cooking / Street Food *"
+    "Cooking / Street Food"
   ],
   "CKB082000": [
     "Cooking / Tablesetting"
@@ -6025,7 +6025,7 @@ export const BISAC: Record<string, string[]> = {
     "Poetry / History & Criticism see LITERARY CRITICISM / Poetry"
   ],
   "POE030000": [
-    "Poetry / Indigenous *"
+    "Poetry / Indigenous"
   ],
   "POE011010": [
     "Poetry / Indigenous Peoples of Turtle Island"
@@ -6072,7 +6072,7 @@ export const BISAC: Record<string, string[]> = {
     "Poetry / Subjects & Themes / Love & Erotica"
   ],
   "POE023080": [
-    "Poetry / Subjects & Themes / Motivational & Inspirational *"
+    "Poetry / Subjects & Themes / Motivational & Inspirational"
   ],
   "POE023040": [
     "Poetry / Subjects & Themes / Places"
@@ -6224,19 +6224,19 @@ export const BISAC: Record<string, string[]> = {
     "Political Science / Imperialism"
   ],
   "POL074000": [
-    "Political Science / Indigenous / General *"
+    "Political Science / Indigenous / General"
   ],
   "POL074010": [
-    "Political Science / Indigenous / Governance & Sovereignty *"
+    "Political Science / Indigenous / Governance & Sovereignty"
   ],
   "POL074020": [
-    "Political Science / Indigenous / Reconciliation *"
+    "Political Science / Indigenous / Reconciliation"
   ],
   "POL074030": [
-    "Political Science / Indigenous / Treaties & Agreements *"
+    "Political Science / Indigenous / Treaties & Agreements"
   ],
   "POL075000": [
-    "Political Science / Indigenous Peoples of Turtle Island *"
+    "Political Science / Indigenous Peoples of Turtle Island"
   ],
   "POL036000": [
     "Political Science / Intelligence & Espionage"
@@ -6266,7 +6266,7 @@ export const BISAC: Record<string, string[]> = {
     "Political Science / Law Enforcement"
   ],
   "POL076000": [
-    "Political Science / Native American *"
+    "Political Science / Native American"
   ],
   "POL041000": [
     "Political Science / NGOs (Non-Governmental Organizations)"
@@ -6366,7 +6366,7 @@ export const BISAC: Record<string, string[]> = {
     "Political Science / Public Policy / Environmental Policy"
   ],
   "POL077000": [
-    "Political Science / Public Policy / Gun & Firearm Policy *"
+    "Political Science / Public Policy / Gun & Firearm Policy"
   ],
   "POL073000": [
     "Political Science / Public Policy / Health Care"
@@ -6451,10 +6451,10 @@ export const BISAC: Record<string, string[]> = {
     "Drama / American / African American & Black"
   ],
   "DRA001020": [
-    "Drama / American / Asian & Pacific Islander *"
+    "Drama / American / Asian & Pacific Islander"
   ],
   "DRA001030": [
-    "Drama / American / Hispanic & Latino *"
+    "Drama / American / Hispanic & Latino"
   ],
   "DRA006000": [
     "Drama / Ancient & Classical"
@@ -6479,7 +6479,7 @@ export const BISAC: Record<string, string[]> = {
     "Drama / Caribbean & Latin American"
   ],
   "DRA021000": [
-    "Drama / Contemporary *"
+    "Drama / Contemporary"
   ],
   "DRA004000": [
     "Drama / European / General"
@@ -6507,10 +6507,10 @@ export const BISAC: Record<string, string[]> = {
     "Drama / Indigenous"
   ],
   "DRA022000": [
-    "Drama / Indigenous Peoples of Turtle Island *"
+    "Drama / Indigenous Peoples of Turtle Island"
   ],
   "DRA028000": [
-    "Drama / Jewish *"
+    "Drama / Jewish"
   ],
   "DRA017000": [
     "Drama / LGBTQ+"
@@ -6523,7 +6523,7 @@ export const BISAC: Record<string, string[]> = {
     "Drama / Monologues see PERFORMING ARTS / Monologues & Scenes"
   ],
   "DRA023000": [
-    "Drama / Native American *"
+    "Drama / Native American"
   ],
   "DRA016000": [
     "Drama / Russian & Soviet"
@@ -6532,19 +6532,19 @@ export const BISAC: Record<string, string[]> = {
     "Drama / Shakespeare"
   ],
   "DRA024000": [
-    "Drama / Type / Comedy *"
+    "Drama / Type / Comedy"
   ],
   "DRA025000": [
-    "Drama / Type / Historical *"
+    "Drama / Type / Historical"
   ],
   "DRA008000": [
     "Drama / Type / Religious & Liturgical"
   ],
   "DRA026000": [
-    "Drama / Type / Tragedy *"
+    "Drama / Type / Tragedy"
   ],
   "DRA027000": [
-    "Drama / Type / Tragicomedy *"
+    "Drama / Type / Tragicomedy"
   ],
   "DRA019000": [
     "Drama / Women Authors"
@@ -6563,7 +6563,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Assessment, Testing & Measurement"
   ],
   "PSY057000": [
-    "Psychology / Career Counseling *"
+    "Psychology / Career Counseling"
   ],
   "PSY007000": [
     "Psychology / Clinical Psychology"
@@ -6575,13 +6575,13 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Cognitive Psychology & Cognition"
   ],
   "PSY058000": [
-    "Psychology / Consulting Psychology *"
+    "Psychology / Consulting Psychology"
   ],
   "PSY034000": [
     "Psychology / Creative Ability"
   ],
   "PSY059000": [
-    "Psychology / Cross-Cultural Psychology *"
+    "Psychology / Cross-Cultural Psychology"
   ],
   "PSY050000": [
     "Psychology / Cultural Psychology"
@@ -6609,13 +6609,13 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Emotions"
   ],
   "PSY060000": [
-    "Psychology / Environmental Psychology *"
+    "Psychology / Environmental Psychology"
   ],
   "PSY055000": [
     "Psychology / Essays"
   ],
   "PSY061000": [
-    "Psychology / Ethics *"
+    "Psychology / Ethics"
   ],
   "PSY053000": [
     "Psychology / Evolutionary Psychology"
@@ -6627,14 +6627,14 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Forensic Psychology"
   ],
   "PSY062000": [
-    "Psychology / Gender *"
+    "Psychology / Gender"
   ],
   "PSY052000": [
     "Psychology / Grief & Loss",
     "Psychology / Group Psychology see Social Psychology"
   ],
   "PSY063000": [
-    "Psychology / Health Psychology *"
+    "Psychology / Health Psychology"
   ],
   "PSY015000": [
     "Psychology / History"
@@ -6652,7 +6652,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Interpersonal Relations"
   ],
   "PSY064000": [
-    "Psychology / LGBTQ+ (see also Psychotherapy / LGBTQ+) *"
+    "Psychology / LGBTQ+ (see also Psychotherapy / LGBTQ+)"
   ],
   "PSY036000": [
     "Psychology / Mental Health",
@@ -6664,7 +6664,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Occupational Psychology see Industrial & Organizational Psychology"
   ],
   "PSY065000": [
-    "Psychology / Parapsychology *",
+    "Psychology / Parapsychology",
     "Psychology / Pathological Psychology see headings under Psychopathology"
   ],
   "PSY023000": [
@@ -6674,7 +6674,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Physiological Psychology"
   ],
   "PSY066000": [
-    "Psychology / Positive Psychology *"
+    "Psychology / Positive Psychology"
   ],
   "PSY046000": [
     "Psychology / Practice Management",
@@ -6682,7 +6682,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Psychoanalysis see Movements / Psychoanalysis"
   ],
   "PSY067000": [
-    "Psychology / Psychology of Technology *"
+    "Psychology / Psychology of Technology"
   ],
   "PSY022000": [
     "Psychology / Psychopathology / General"
@@ -6731,7 +6731,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Psychotherapy / General"
   ],
   "PSY068000": [
-    "Psychology / Psychotherapy / Art & Music Therapy *"
+    "Psychology / Psychotherapy / Art & Music Therapy"
   ],
   "PSY045010": [
     "Psychology / Psychotherapy / Behaviorism"
@@ -6749,10 +6749,10 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Psychotherapy / Couples & Family"
   ],
   "PSY069000": [
-    "Psychology / Psychotherapy / Dialectical Behavior Therapy *"
+    "Psychology / Psychotherapy / Dialectical Behavior Therapy"
   ],
   "PSY070000": [
-    "Psychology / Psychotherapy / Emotion-Focused Therapy *"
+    "Psychology / Psychotherapy / Emotion-Focused Therapy"
   ],
   "PSY045040": [
     "Psychology / Psychotherapy / Existential"
@@ -6767,7 +6767,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Psychotherapy / Humanistic"
   ],
   "PSY071000": [
-    "Psychology / Psychotherapy / Integrative & Transtheoretical *"
+    "Psychology / Psychotherapy / Integrative & Transtheoretical"
   ],
   "PSY045060": [
     "Psychology / Psychotherapy / Jungian"
@@ -6779,13 +6779,13 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Psychotherapy / Psychoanalysis"
   ],
   "PSY072000": [
-    "Psychology / Psychotherapy / Psychodynamic *"
+    "Psychology / Psychotherapy / Psychodynamic"
   ],
   "PSY073000": [
-    "Psychology / Psychotherapy / Spiritually Integrated *"
+    "Psychology / Psychotherapy / Spiritually Integrated"
   ],
   "PSY074000": [
-    "Psychology / Psychotherapy / Therapy Dynamics (see also Practice Management) *"
+    "Psychology / Psychotherapy / Therapy Dynamics (see also Practice Management)"
   ],
   "PSY029000": [
     "Psychology / Reference"
@@ -6807,7 +6807,7 @@ export const BISAC: Record<string, string[]> = {
     "Psychology / Testing & Measurement see Assessment, Testing & Measurement"
   ],
   "PSY075000": [
-    "Psychology / Trauma Psychology *"
+    "Psychology / Trauma Psychology"
   ],
   "EDU000000": [
     "Education / General"
@@ -6868,7 +6868,7 @@ export const BISAC: Record<string, string[]> = {
     "Education / Counseling / Crisis Management"
   ],
   "EDU062000": [
-    "Education / Cultural Pedagogies *"
+    "Education / Cultural Pedagogies"
   ],
   "EDU007000": [
     "Education / Curricula"
@@ -7206,7 +7206,7 @@ export const BISAC: Record<string, string[]> = {
     "Family & Relationships / Children with Special Needs"
   ],
   "FAM060000": [
-    "Family & Relationships / Chosen Family *"
+    "Family & Relationships / Chosen Family"
   ],
   "FAM013000": [
     "Family & Relationships / Conflict Resolution"
@@ -7241,7 +7241,7 @@ export const BISAC: Record<string, string[]> = {
     "Family & Relationships / Humorous see HUMOR / Topic / Marriage & Family or HUMOR / Topic / Men, Women & Relationships"
   ],
   "FAM061000": [
-    "Family & Relationships / Indigenous Families *",
+    "Family & Relationships / Indigenous Families",
     "Family & Relationships / Infertility see HEALTH & FITNESS / Fertility & Infertility"
   ],
   "FAM028000": [
@@ -7332,7 +7332,7 @@ export const BISAC: Record<string, string[]> = {
     "Religion / General"
   ],
   "REL121000": [
-    "Religion / African Diaspora Religions *"
+    "Religion / African Diaspora Religions"
   ],
   "REL001000": [
     "Religion / Agnosticism"
@@ -7788,7 +7788,7 @@ export const BISAC: Record<string, string[]> = {
     "Religion / Counseling"
   ],
   "REL122000": [
-    "Religion / Creation *"
+    "Religion / Creation"
   ],
   "REL020000": [
     "Religion / Cults"
@@ -7830,7 +7830,7 @@ export const BISAC: Record<string, string[]> = {
     "Religion / Faith"
   ],
   "REL123000": [
-    "Religion / Faith Deconstruction *"
+    "Religion / Faith Deconstruction"
   ],
   "REL029000": [
     "Religion / Folk & Tribal",
@@ -7880,25 +7880,25 @@ export const BISAC: Record<string, string[]> = {
     "Religion / I Ching see BODY, MIND & SPIRIT / I Ching"
   ],
   "REL124000": [
-    "Religion / Indigenous / General *"
+    "Religion / Indigenous / General"
   ],
   "REL124010": [
-    "Religion / Indigenous / Ceremony & Spiritual Practice *"
+    "Religion / Indigenous / Ceremony & Spiritual Practice"
   ],
   "REL124020": [
-    "Religion / Indigenous / Sacred Stories *"
+    "Religion / Indigenous / Sacred Stories"
   ],
   "REL124030": [
-    "Religion / Indigenous / Scripture & Prayerbooks *"
+    "Religion / Indigenous / Scripture & Prayerbooks"
   ],
   "REL124040": [
-    "Religion / Indigenous / Spirituality *"
+    "Religion / Indigenous / Spirituality"
   ],
   "REL124050": [
-    "Religion / Indigenous / Teachings *"
+    "Religion / Indigenous / Teachings"
   ],
   "REL125000": [
-    "Religion / Indigenous Peoples of Turtle Island *"
+    "Religion / Indigenous Peoples of Turtle Island"
   ],
   "REL036000": [
     "Religion / Inspirational"
@@ -7987,7 +7987,7 @@ export const BISAC: Record<string, string[]> = {
     "Religion / Mythology see SOCIAL SCIENCE / Folklore & Mythology"
   ],
   "REL126000": [
-    "Religion / Native American *"
+    "Religion / Native American"
   ],
   "REL117000": [
     "Religion / Paganism & Neo-Paganism",
@@ -8246,7 +8246,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Erotica / LGBTQ+ / Transgender"
   ],
   "FIC005100": [
-    "Fiction / Erotica / LGBTQ+ / Two-Spirited & Indigiqueer *"
+    "Fiction / Erotica / LGBTQ+ / Two-Spirited & Indigiqueer"
   ],
   "FIC005050": [
     "Fiction / Erotica / Science Fiction, Fantasy & Horror"
@@ -8299,7 +8299,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Fantasy / Humorous"
   ],
   "FIC009150": [
-    "Fiction / Fantasy / Indigenous *"
+    "Fiction / Fantasy / Indigenous"
   ],
   "FIC009140": [
     "Fiction / Fantasy / Military"
@@ -8331,38 +8331,38 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Hispanic & Latino / General"
   ],
   "FIC056010": [
-    "Fiction / Hispanic & Latino / Christian *"
+    "Fiction / Hispanic & Latino / Christian"
   ],
   "FIC056020": [
-    "Fiction / Hispanic & Latino / Erotica *"
+    "Fiction / Hispanic & Latino / Erotica"
   ],
   "FIC056030": [
-    "Fiction / Hispanic & Latino / Family Life *"
+    "Fiction / Hispanic & Latino / Family Life"
   ],
   "FIC056040": [
-    "Fiction / Hispanic & Latino / Fantasy *"
+    "Fiction / Hispanic & Latino / Fantasy"
   ],
   "FIC056050": [
-    "Fiction / Hispanic & Latino / Historical *"
+    "Fiction / Hispanic & Latino / Historical"
   ],
   "FIC056060": [
-    "Fiction / Hispanic & Latino / Horror *"
+    "Fiction / Hispanic & Latino / Horror"
   ],
   "FIC056070": [
-    "Fiction / Hispanic & Latino / Inspirational *"
+    "Fiction / Hispanic & Latino / Inspirational"
   ],
   "FIC056080": [
-    "Fiction / Hispanic & Latino / Mystery & Detective *",
+    "Fiction / Hispanic & Latino / Mystery & Detective",
     "Fiction / Hispanic & Latino / Romance see Romance / Hispanic & Latino *"
   ],
   "FIC056090": [
-    "Fiction / Hispanic & Latino / Science Fiction *"
+    "Fiction / Hispanic & Latino / Science Fiction"
   ],
   "FIC056100": [
-    "Fiction / Hispanic & Latino / Urban & Street Lit *"
+    "Fiction / Hispanic & Latino / Urban & Street Lit"
   ],
   "FIC056110": [
-    "Fiction / Hispanic & Latino / Women *"
+    "Fiction / Hispanic & Latino / Women"
   ],
   "FIC014000": [
     "Fiction / Historical / General",
@@ -8416,49 +8416,49 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Humorous / Science Fiction see Science Fiction / Humorous"
   ],
   "FIC134000": [
-    "Fiction / Immigration *"
+    "Fiction / Immigration"
   ],
   "FIC059000": [
     "Fiction / Indigenous / General (see also Indigenous Peoples of Turtle Island or Native American)"
   ],
   "FIC059010": [
-    "Fiction / Indigenous / City Life *"
+    "Fiction / Indigenous / City Life"
   ],
   "FIC059020": [
-    "Fiction / Indigenous / Elders *"
+    "Fiction / Indigenous / Elders"
   ],
   "FIC059030": [
-    "Fiction / Indigenous / Erotica *"
+    "Fiction / Indigenous / Erotica"
   ],
   "FIC059040": [
-    "Fiction / Indigenous / Family Life *"
+    "Fiction / Indigenous / Family Life"
   ],
   "FIC059050": [
-    "Fiction / Indigenous / Historical *"
+    "Fiction / Indigenous / Historical"
   ],
   "FIC059060": [
-    "Fiction / Indigenous / Horror *"
+    "Fiction / Indigenous / Horror"
   ],
   "FIC059070": [
-    "Fiction / Indigenous / Indigenous Futurism *"
+    "Fiction / Indigenous / Indigenous Futurism"
   ],
   "FIC059080": [
-    "Fiction / Indigenous / Life Stories *"
+    "Fiction / Indigenous / Life Stories"
   ],
   "FIC059090": [
-    "Fiction / Indigenous / Mystery & Detective *"
+    "Fiction / Indigenous / Mystery & Detective"
   ],
   "FIC059100": [
-    "Fiction / Indigenous / Oral Storytelling & Teachings *"
+    "Fiction / Indigenous / Oral Storytelling & Teachings"
   ],
   "FIC059110": [
-    "Fiction / Indigenous / Science Fiction *"
+    "Fiction / Indigenous / Science Fiction"
   ],
   "FIC059120": [
-    "Fiction / Indigenous / Women *"
+    "Fiction / Indigenous / Women"
   ],
   "FIC135000": [
-    "Fiction / Indigenous Peoples of Turtle Island *"
+    "Fiction / Indigenous Peoples of Turtle Island"
   ],
   "FIC046000": [
     "Fiction / Jewish"
@@ -8483,7 +8483,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / LGBTQ+ / Transgender"
   ],
   "FIC136000": [
-    "Fiction / LGBTQ+ / Two-Spirited & Indigiqueer *"
+    "Fiction / LGBTQ+ / Two-Spirited & Indigiqueer"
   ],
   "FIC019000": [
     "Fiction / Literary"
@@ -8531,7 +8531,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Mystery & Detective / Cozy / Animals"
   ],
   "FIC022170": [
-    "Fiction / Mystery & Detective / Cozy / Books, Bookstores & Libraries *"
+    "Fiction / Mystery & Detective / Cozy / Books, Bookstores & Libraries"
   ],
   "FIC022120": [
     "Fiction / Mystery & Detective / Cozy / Crafts"
@@ -8571,7 +8571,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Mythology see Fairy Tales, Folk Tales, Legends & Mythology"
   ],
   "FIC137000": [
-    "Fiction / Native American *"
+    "Fiction / Native American"
   ],
   "FIC077000": [
     "Fiction / Nature & the Environment"
@@ -8641,7 +8641,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Romance / Firefighters"
   ],
   "FIC027500": [
-    "Fiction / Romance / Hispanic & Latino *"
+    "Fiction / Romance / Hispanic & Latino"
   ],
   "FIC027050": [
     "Fiction / Romance / Historical / General"
@@ -8683,7 +8683,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Romance / Holiday"
   ],
   "FIC027510": [
-    "Fiction / Romance / Indigenous *"
+    "Fiction / Romance / Indigenous"
   ],
   "FIC027490": [
     "Fiction / Romance / International"
@@ -8707,7 +8707,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Romance / LGBTQ+ / Transgender"
   ],
   "FIC027520": [
-    "Fiction / Romance / LGBTQ+ / Two-Spirited & Indigiqueer *"
+    "Fiction / Romance / LGBTQ+ / Two-Spirited & Indigiqueer"
   ],
   "FIC027410": [
     "Fiction / Romance / Medical"
@@ -8838,7 +8838,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / Sports Romance see Romance / Sports"
   ],
   "FIC138000": [
-    "Fiction / Suburban *"
+    "Fiction / Suburban"
   ],
   "FIC063000": [
     "Fiction / Superheroes (see also COMICS & GRAPHIC NOVELS / Superheroes)",
@@ -8971,7 +8971,7 @@ export const BISAC: Record<string, string[]> = {
     "Fiction / World Literature / Central America"
   ],
   "FIC139000": [
-    "Fiction / World Literature / Central Asia *"
+    "Fiction / World Literature / Central Asia"
   ],
   "FIC093000": [
     "Fiction / World Literature / Chile"
@@ -9291,7 +9291,7 @@ export const BISAC: Record<string, string[]> = {
     "Science / History"
   ],
   "SCI104000": [
-    "Science / Indigenous Knowledge & Perspectives *"
+    "Science / Indigenous Knowledge & Perspectives"
   ],
   "SCI093000": [
     "Science / Laboratory Techniques"
@@ -9751,7 +9751,7 @@ export const BISAC: Record<string, string[]> = {
     "Self-help / Hypnotism see Self-Hypnosis"
   ],
   "SEL050000": [
-    "Self-help / Indigenous Mental Health & Healing *"
+    "Self-help / Indigenous Mental Health & Healing"
   ],
   "SEL045000": [
     "Self-help / Journaling"
@@ -10065,7 +10065,7 @@ export const BISAC: Record<string, string[]> = {
     "Social Science / Disease & Health Issues"
   ],
   "SOC074000": [
-    "Social Science / Diversity & Multiculturalism *"
+    "Social Science / Diversity & Multiculturalism"
   ],
   "SOC007000": [
     "Social Science / Emigration & Immigration"
@@ -10111,7 +10111,7 @@ export const BISAC: Record<string, string[]> = {
     "Social Science / Immigration see Emigration & Immigration"
   ],
   "SOC075000": [
-    "Social Science / Indigenous Peoples of Turtle Island Studies *"
+    "Social Science / Indigenous Peoples of Turtle Island Studies"
   ],
   "SOC062000": [
     "Social Science / Indigenous Studies"
@@ -10504,7 +10504,7 @@ export const BISAC: Record<string, string[]> = {
     "Sports & Recreation / Fishing"
   ],
   "SPO086000": [
-    "Sports & Recreation / Flying Discs *"
+    "Sports & Recreation / Flying Discs"
   ],
   "SPO015000": [
     "Sports & Recreation / Football"
@@ -10836,7 +10836,7 @@ export const BISAC: Record<string, string[]> = {
     "Health & Fitness / Homeopathy"
   ],
   "HEA056000": [
-    "Health & Fitness / Indigenous Health & Healing *"
+    "Health & Fitness / Indigenous Health & Healing"
   ],
   "HEA054000": [
     "Health & Fitness / LGBTQ+ Health"
@@ -11219,7 +11219,7 @@ export const BISAC: Record<string, string[]> = {
     "History / Far East see headings under Asia"
   ],
   "HIS068000": [
-    "History / Hispanic & Latino *"
+    "History / Hispanic & Latino"
   ],
   "HIS052000": [
     "History / Historical Geography"
@@ -11231,25 +11231,25 @@ export const BISAC: Record<string, string[]> = {
     "History / Indigenous / General"
   ],
   "HIS028010": [
-    "History / Indigenous / Creation & Origins *"
+    "History / Indigenous / Creation & Origins"
   ],
   "HIS028020": [
-    "History / Indigenous / Migration *"
+    "History / Indigenous / Migration"
   ],
   "HIS028030": [
-    "History / Indigenous / Archaeological Stages & Interpretations of Oral History *"
+    "History / Indigenous / Archaeological Stages & Interpretations of Oral History"
   ],
   "HIS028040": [
-    "History / Indigenous / Contact, European Invasion & Exploration *"
+    "History / Indigenous / Contact, European Invasion & Exploration"
   ],
   "HIS028050": [
-    "History / Indigenous / Colonial History & Interaction with Nations, Tribes, Bands & Communities *"
+    "History / Indigenous / Colonial History & Interaction with Nations, Tribes, Bands & Communities"
   ],
   "HIS028060": [
-    "History / Indigenous / Modern *"
+    "History / Indigenous / Modern"
   ],
   "HIS069000": [
-    "History / Indigenous Peoples of Turtle Island *"
+    "History / Indigenous Peoples of Turtle Island"
   ],
   "HIS065000": [
     "History / Islamic"
@@ -11407,7 +11407,7 @@ export const BISAC: Record<string, string[]> = {
     "History / Modern / 21st Century"
   ],
   "HIS070000": [
-    "History / Native American *"
+    "History / Native American"
   ],
   "HIS029000": [
     "History / North America"
@@ -11769,7 +11769,7 @@ export const BISAC: Record<string, string[]> = {
     "Technology & Engineering / Imaging Systems"
   ],
   "TEC075000": [
-    "Technology & Engineering / Indigenous Knowledge & Perspectives *"
+    "Technology & Engineering / Indigenous Knowledge & Perspectives"
   ],
   "TEC016000": [
     "Technology & Engineering / Industrial Design / General"
@@ -12707,7 +12707,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Biographical / Asia"
   ],
   "JUV004080": [
-    "Juvenile Fiction / Biographical / Australia & Oceania *"
+    "Juvenile Fiction / Biographical / Australia & Oceania"
   ],
   "JUV004040": [
     "Juvenile Fiction / Biographical / Canada"
@@ -12722,7 +12722,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Biographical / United States"
   ],
   "JUV081000": [
-    "Juvenile Fiction / Biracial & Multiracial *"
+    "Juvenile Fiction / Biracial & Multiracial"
   ],
   "JUV047000": [
     "Juvenile Fiction / Books & Libraries"
@@ -12755,7 +12755,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Comics & Graphic Novels / Animals"
   ],
   "JUV008190": [
-    "Juvenile Fiction / Comics & Graphic Novels / Asian American & Pacific Islander *"
+    "Juvenile Fiction / Comics & Graphic Novels / Asian American & Pacific Islander"
   ],
   "JUV008060": [
     "Juvenile Fiction / Comics & Graphic Novels / Classic Adaptation"
@@ -12767,7 +12767,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Comics & Graphic Novels / Fantasy"
   ],
   "JUV008200": [
-    "Juvenile Fiction / Comics & Graphic Novels / Hispanic & Latino *"
+    "Juvenile Fiction / Comics & Graphic Novels / Hispanic & Latino"
   ],
   "JUV008090": [
     "Juvenile Fiction / Comics & Graphic Novels / Historical"
@@ -12779,7 +12779,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Comics & Graphic Novels / Humorous"
   ],
   "JUV008210": [
-    "Juvenile Fiction / Comics & Graphic Novels / Indigenous *"
+    "Juvenile Fiction / Comics & Graphic Novels / Indigenous"
   ],
   "JUV008160": [
     "Juvenile Fiction / Comics & Graphic Novels / Indigenous Peoples of Turtle Island"
@@ -12830,7 +12830,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Concepts / Date & Time"
   ],
   "JUV009130": [
-    "Juvenile Fiction / Concepts / Language *"
+    "Juvenile Fiction / Concepts / Language"
   ],
   "JUV009090": [
     "Juvenile Fiction / Concepts / Money"
@@ -12898,7 +12898,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Family / Blended Families"
   ],
   "JUV013100": [
-    "Juvenile Fiction / Family / Grandparents *"
+    "Juvenile Fiction / Family / Grandparents"
   ],
   "JUV013020": [
     "Juvenile Fiction / Family / Marriage & Divorce"
@@ -12923,7 +12923,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Farm Life see Lifestyles / Farm & Ranch Life"
   ],
   "JUV082000": [
-    "Juvenile Fiction / First Nations *",
+    "Juvenile Fiction / First Nations",
     "Juvenile Fiction / Folklore see headings under Fairy Tales & Folklore",
     "Juvenile Fiction / Games see Sports & Recreation / Games"
   ],
@@ -12948,7 +12948,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Health & Daily Living / Mental Health"
   ],
   "JUV015040": [
-    "Juvenile Fiction / Health & Daily Living / Mindfulness & Meditation *"
+    "Juvenile Fiction / Health & Daily Living / Mindfulness & Meditation"
   ],
   "JUV039170": [
     "Juvenile Fiction / Health & Daily Living / Toilet Training"
@@ -12969,7 +12969,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Historical / Asia"
   ],
   "JUV016220": [
-    "Juvenile Fiction / Historical / Australia & Oceania *"
+    "Juvenile Fiction / Historical / Australia & Oceania"
   ],
   "JUV016160": [
     "Juvenile Fiction / Historical / Canada / General"
@@ -12981,7 +12981,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Historical / Canada / Post-Confederation (1867-)"
   ],
   "JUV016230": [
-    "Juvenile Fiction / Historical / Caribbean & Latin America *"
+    "Juvenile Fiction / Historical / Caribbean & Latin America"
   ],
   "JUV016040": [
     "Juvenile Fiction / Historical / Europe"
@@ -13035,10 +13035,10 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Holidays & Celebrations / Christmas & Advent"
   ],
   "JUV017160": [
-    "Juvenile Fiction / Holidays & Celebrations / Day of the Dead *"
+    "Juvenile Fiction / Holidays & Celebrations / Day of the Dead"
   ],
   "JUV017170": [
-    "Juvenile Fiction / Holidays & Celebrations / Diwali *"
+    "Juvenile Fiction / Holidays & Celebrations / Diwali"
   ],
   "JUV017020": [
     "Juvenile Fiction / Holidays & Celebrations / Easter & Lent"
@@ -13053,13 +13053,13 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Holidays & Celebrations / Hanukkah"
   ],
   "JUV017180": [
-    "Juvenile Fiction / Holidays & Celebrations / Juneteenth *"
+    "Juvenile Fiction / Holidays & Celebrations / Juneteenth"
   ],
   "JUV017050": [
     "Juvenile Fiction / Holidays & Celebrations / Kwanzaa"
   ],
   "JUV017190": [
-    "Juvenile Fiction / Holidays & Celebrations / Lunar New Year *"
+    "Juvenile Fiction / Holidays & Celebrations / Lunar New Year"
   ],
   "JUV017150": [
     "Juvenile Fiction / Holidays & Celebrations / Mother's Day"
@@ -13071,7 +13071,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Holidays & Celebrations / Patriotic Holidays"
   ],
   "JUV017200": [
-    "Juvenile Fiction / Holidays & Celebrations / Ramadan *"
+    "Juvenile Fiction / Holidays & Celebrations / Ramadan"
   ],
   "JUV017060": [
     "Juvenile Fiction / Holidays & Celebrations / Thanksgiving"
@@ -13095,31 +13095,31 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Imagination & Play"
   ],
   "JUV083000": [
-    "Juvenile Fiction / Indigenous / General *"
+    "Juvenile Fiction / Indigenous / General"
   ],
   "JUV083010": [
-    "Juvenile Fiction / Indigenous / Animal Stories *"
+    "Juvenile Fiction / Indigenous / Animal Stories"
   ],
   "JUV083020": [
-    "Juvenile Fiction / Indigenous / Cautionary Tales *"
+    "Juvenile Fiction / Indigenous / Cautionary Tales"
   ],
   "JUV083030": [
-    "Juvenile Fiction / Indigenous / Elders *"
+    "Juvenile Fiction / Indigenous / Elders"
   ],
   "JUV083040": [
-    "Juvenile Fiction / Indigenous / Family Life *"
+    "Juvenile Fiction / Indigenous / Family Life"
   ],
   "JUV083050": [
-    "Juvenile Fiction / Indigenous / Historical *"
+    "Juvenile Fiction / Indigenous / Historical"
   ],
   "JUV083060": [
-    "Juvenile Fiction / Indigenous / Life Stories (see also headings under Biographical) *"
+    "Juvenile Fiction / Indigenous / Life Stories (see also headings under Biographical)"
   ],
   "JUV083070": [
-    "Juvenile Fiction / Indigenous / Oral Stories *"
+    "Juvenile Fiction / Indigenous / Oral Stories"
   ],
   "JUV083080": [
-    "Juvenile Fiction / Indigenous / Retellings *"
+    "Juvenile Fiction / Indigenous / Retellings"
   ],
   "JUV030140": [
     "Juvenile Fiction / Indigenous / Teachings"
@@ -13131,7 +13131,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Interactive Adventures"
   ],
   "JUV084000": [
-    "Juvenile Fiction / Inuit *"
+    "Juvenile Fiction / Inuit"
   ],
   "JUV021000": [
     "Juvenile Fiction / Law & Crime"
@@ -13185,7 +13185,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Mermaids & Mermen"
   ],
   "JUV085000": [
-    "Juvenile Fiction / Métis *"
+    "Juvenile Fiction / Métis"
   ],
   "JUV030130": [
     "Juvenile Fiction / Middle Eastern & Arab American"
@@ -13284,7 +13284,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Readers / Chapter Books"
   ],
   "JUV086000": [
-    "Juvenile Fiction / Readers / Hi-Lo *",
+    "Juvenile Fiction / Readers / Hi-Lo",
     "Juvenile Fiction / Recreation see headings under Sports & Recreation"
   ],
   "JUV063000": [
@@ -13605,7 +13605,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Fiction / Travel"
   ],
   "JUV087000": [
-    "Juvenile Fiction / Trickster Tales *"
+    "Juvenile Fiction / Trickster Tales"
   ],
   "JUV078000": [
     "Juvenile Fiction / Vampires"
@@ -13891,7 +13891,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Biography & Autobiography / Women"
   ],
   "JNF074000": [
-    "Juvenile Nonfiction / Biracial & Multiracial *"
+    "Juvenile Nonfiction / Biracial & Multiracial"
   ],
   "JNF063000": [
     "Juvenile Nonfiction / Books & Libraries"
@@ -14018,7 +14018,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Family / Blended Families"
   ],
   "JNF019100": [
-    "Juvenile Nonfiction / Family / Grandparents *"
+    "Juvenile Nonfiction / Family / Grandparents"
   ],
   "JNF019020": [
     "Juvenile Nonfiction / Family / Marriage & Divorce"
@@ -14040,7 +14040,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Farm Life see Lifestyles / Farm & Ranch Life"
   ],
   "JNF075000": [
-    "Juvenile Nonfiction / First Nations *"
+    "Juvenile Nonfiction / First Nations"
   ],
   "JNF021000": [
     "Juvenile Nonfiction / Games & Activities / General"
@@ -14214,10 +14214,10 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Holidays & Celebrations / Christmas & Advent"
   ],
   "JNF026140": [
-    "Juvenile Nonfiction / Holidays & Celebrations / Day of the Dead *"
+    "Juvenile Nonfiction / Holidays & Celebrations / Day of the Dead"
   ],
   "JNF026150": [
-    "Juvenile Nonfiction / Holidays & Celebrations / Diwali *"
+    "Juvenile Nonfiction / Holidays & Celebrations / Diwali"
   ],
   "JNF026020": [
     "Juvenile Nonfiction / Holidays & Celebrations / Easter & Lent"
@@ -14229,13 +14229,13 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Holidays & Celebrations / Hanukkah"
   ],
   "JNF026160": [
-    "Juvenile Nonfiction / Holidays & Celebrations / Juneteenth *"
+    "Juvenile Nonfiction / Holidays & Celebrations / Juneteenth"
   ],
   "JNF026050": [
     "Juvenile Nonfiction / Holidays & Celebrations / Kwanzaa"
   ],
   "JNF026170": [
-    "Juvenile Nonfiction / Holidays & Celebrations / Lunar New Year *"
+    "Juvenile Nonfiction / Holidays & Celebrations / Lunar New Year"
   ],
   "JNF026120": [
     "Juvenile Nonfiction / Holidays & Celebrations / Passover"
@@ -14244,7 +14244,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Holidays & Celebrations / Patriotic Holidays"
   ],
   "JNF026180": [
-    "Juvenile Nonfiction / Holidays & Celebrations / Ramadan *"
+    "Juvenile Nonfiction / Holidays & Celebrations / Ramadan"
   ],
   "JNF026060": [
     "Juvenile Nonfiction / Holidays & Celebrations / Thanksgiving"
@@ -14271,28 +14271,28 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Humor / Jokes & Riddles"
   ],
   "JNF076000": [
-    "Juvenile Nonfiction / Indigenous / General *"
+    "Juvenile Nonfiction / Indigenous / General"
   ],
   "JNF076010": [
-    "Juvenile Nonfiction / Indigenous / Animal Stories *"
+    "Juvenile Nonfiction / Indigenous / Animal Stories"
   ],
   "JNF076020": [
-    "Juvenile Nonfiction / Indigenous / Elders *"
+    "Juvenile Nonfiction / Indigenous / Elders"
   ],
   "JNF076030": [
-    "Juvenile Nonfiction / Indigenous / Family Life *"
+    "Juvenile Nonfiction / Indigenous / Family Life"
   ],
   "JNF076040": [
-    "Juvenile Nonfiction / Indigenous / Health & Healing *"
+    "Juvenile Nonfiction / Indigenous / Health & Healing"
   ],
   "JNF076050": [
-    "Juvenile Nonfiction / Indigenous / History *"
+    "Juvenile Nonfiction / Indigenous / History"
   ],
   "JNF076060": [
-    "Juvenile Nonfiction / Indigenous / Land-Based Knowledge *"
+    "Juvenile Nonfiction / Indigenous / Land-Based Knowledge"
   ],
   "JNF076070": [
-    "Juvenile Nonfiction / Indigenous / Reconciliation *"
+    "Juvenile Nonfiction / Indigenous / Reconciliation"
   ],
   "JNF038120": [
     "Juvenile Nonfiction / Indigenous Peoples of Turtle Island"
@@ -14301,7 +14301,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Inspirational & Personal Growth"
   ],
   "JNF077000": [
-    "Juvenile Nonfiction / Inuit *"
+    "Juvenile Nonfiction / Inuit"
   ],
   "JNF029000": [
     "Juvenile Nonfiction / Language Arts / General",
@@ -14336,7 +14336,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Language Study / French"
   ],
   "JNF020040": [
-    "Juvenile Nonfiction / Language Study / Indigenous Languages in the Americas *"
+    "Juvenile Nonfiction / Language Study / Indigenous Languages in the Americas"
   ],
   "JNF020030": [
     "Juvenile Nonfiction / Language Study / Spanish"
@@ -14385,7 +14385,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Metaphysical see Paranormal & Supernatural"
   ],
   "JNF078000": [
-    "Juvenile Nonfiction / Métis *"
+    "Juvenile Nonfiction / Métis"
   ],
   "JNF038130": [
     "Juvenile Nonfiction / Middle Eastern & Arab American"
@@ -14511,7 +14511,7 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Readers / Chapter Books"
   ],
   "JNF079000": [
-    "Juvenile Nonfiction / Readers / Hi-Lo *",
+    "Juvenile Nonfiction / Readers / Hi-Lo",
     "Juvenile Nonfiction / Recreation see headings under Sports & Recreation"
   ],
   "JNF065000": [
@@ -14569,19 +14569,19 @@ export const BISAC: Record<string, string[]> = {
     "Juvenile Nonfiction / Religion / Hinduism"
   ],
   "JNF049340": [
-    "Juvenile Nonfiction / Religion / Indigenous / General *"
+    "Juvenile Nonfiction / Religion / Indigenous / General"
   ],
   "JNF049350": [
-    "Juvenile Nonfiction / Religion / Indigenous / Ceremony & Spiritual Practice *"
+    "Juvenile Nonfiction / Religion / Indigenous / Ceremony & Spiritual Practice"
   ],
   "JNF049360": [
-    "Juvenile Nonfiction / Religion / Indigenous / Sacred Stories *"
+    "Juvenile Nonfiction / Religion / Indigenous / Sacred Stories"
   ],
   "JNF049370": [
-    "Juvenile Nonfiction / Religion / Indigenous / Scripture & Prayerbooks *"
+    "Juvenile Nonfiction / Religion / Indigenous / Scripture & Prayerbooks"
   ],
   "JNF049380": [
-    "Juvenile Nonfiction / Religion / Indigenous / Spirituality *"
+    "Juvenile Nonfiction / Religion / Indigenous / Spirituality"
   ],
   "JNF038140": [
     "Juvenile Nonfiction / Religion / Indigenous / Teachings & Traditions"
@@ -14976,7 +14976,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Biographical"
   ],
   "YAF076000": [
-    "Young Adult Fiction / Biracial & Multiracial *"
+    "Young Adult Fiction / Biracial & Multiracial"
   ],
   "YAF006000": [
     "Young Adult Fiction / Books & Libraries"
@@ -15000,10 +15000,10 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Comics & Graphic Novels / Action & Adventure"
   ],
   "YAF010190": [
-    "Young Adult Fiction / Comics & Graphic Novels / African American & Black *"
+    "Young Adult Fiction / Comics & Graphic Novels / African American & Black"
   ],
   "YAF010200": [
-    "Young Adult Fiction / Comics & Graphic Novels / Asian American & Pacific Islander *"
+    "Young Adult Fiction / Comics & Graphic Novels / Asian American & Pacific Islander"
   ],
   "YAF010060": [
     "Young Adult Fiction / Comics & Graphic Novels / Classic Adaptation"
@@ -15024,7 +15024,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Comics & Graphic Novels / Fantasy"
   ],
   "YAF010210": [
-    "Young Adult Fiction / Comics & Graphic Novels / Hispanic & Latino *"
+    "Young Adult Fiction / Comics & Graphic Novels / Hispanic & Latino"
   ],
   "YAF010110": [
     "Young Adult Fiction / Comics & Graphic Novels / Historical"
@@ -15036,10 +15036,10 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Comics & Graphic Novels / Humorous"
   ],
   "YAF010220": [
-    "Young Adult Fiction / Comics & Graphic Novels / Indigenous *"
+    "Young Adult Fiction / Comics & Graphic Novels / Indigenous"
   ],
   "YAF010230": [
-    "Young Adult Fiction / Comics & Graphic Novels / Indigenous Peoples of Turtle Island *"
+    "Young Adult Fiction / Comics & Graphic Novels / Indigenous Peoples of Turtle Island"
   ],
   "YAF010140": [
     "Young Adult Fiction / Comics & Graphic Novels / LGBTQ+"
@@ -15057,7 +15057,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Comics & Graphic Novels / Mystery & Detective"
   ],
   "YAF010240": [
-    "Young Adult Fiction / Comics & Graphic Novels / Native American *"
+    "Young Adult Fiction / Comics & Graphic Novels / Native American"
   ],
   "YAF010160": [
     "Young Adult Fiction / Comics & Graphic Novels / Paranormal"
@@ -15147,7 +15147,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Fantasy / Historical"
   ],
   "YAF019070": [
-    "Young Adult Fiction / Fantasy / Indigenous *"
+    "Young Adult Fiction / Fantasy / Indigenous"
   ],
   "YAF019060": [
     "Young Adult Fiction / Fantasy / Romance"
@@ -15159,7 +15159,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Fashion & Beauty"
   ],
   "YAF077000": [
-    "Young Adult Fiction / First Nations *"
+    "Young Adult Fiction / First Nations"
   ],
   "YAF021000": [
     "Young Adult Fiction / Ghost Stories"
@@ -15189,7 +15189,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Historical / Asia"
   ],
   "YAF024190": [
-    "Young Adult Fiction / Historical / Australia & Oceania *"
+    "Young Adult Fiction / Historical / Australia & Oceania"
   ],
   "YAF024040": [
     "Young Adult Fiction / Historical / Canada"
@@ -15252,28 +15252,28 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Indigenous / General"
   ],
   "YAF046180": [
-    "Young Adult Fiction / Indigenous / Cautionary Tales *"
+    "Young Adult Fiction / Indigenous / Cautionary Tales"
   ],
   "YAF046190": [
-    "Young Adult Fiction / Indigenous / City Life *"
+    "Young Adult Fiction / Indigenous / City Life"
   ],
   "YAF046200": [
-    "Young Adult Fiction / Indigenous / Family Life *"
+    "Young Adult Fiction / Indigenous / Family Life"
   ],
   "YAF046210": [
-    "Young Adult Fiction / Indigenous / Historical *"
+    "Young Adult Fiction / Indigenous / Historical"
   ],
   "YAF046220": [
-    "Young Adult Fiction / Indigenous / Life Stories (see also Biographical) *"
+    "Young Adult Fiction / Indigenous / Life Stories (see also Biographical)"
   ],
   "YAF046230": [
-    "Young Adult Fiction / Indigenous / Oral Stories *"
+    "Young Adult Fiction / Indigenous / Oral Stories"
   ],
   "YAF046240": [
-    "Young Adult Fiction / Indigenous / Retellings *"
+    "Young Adult Fiction / Indigenous / Retellings"
   ],
   "YAF046250": [
-    "Young Adult Fiction / Indigenous / Teachings *"
+    "Young Adult Fiction / Indigenous / Teachings"
   ],
   "YAF046170": [
     "Young Adult Fiction / Indigenous Peoples of Turtle Island"
@@ -15282,7 +15282,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Interactive Adventures"
   ],
   "YAF078000": [
-    "Young Adult Fiction / Inuit *"
+    "Young Adult Fiction / Inuit"
   ],
   "YAF029000": [
     "Young Adult Fiction / Law & Crime"
@@ -15300,19 +15300,19 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / LGBTQ+ / General"
   ],
   "YAF031010": [
-    "Young Adult Fiction / LGBTQ+ / Bisexual *"
+    "Young Adult Fiction / LGBTQ+ / Bisexual"
   ],
   "YAF031020": [
-    "Young Adult Fiction / LGBTQ+ / Gay *"
+    "Young Adult Fiction / LGBTQ+ / Gay"
   ],
   "YAF031030": [
-    "Young Adult Fiction / LGBTQ+ / Lesbian *"
+    "Young Adult Fiction / LGBTQ+ / Lesbian"
   ],
   "YAF031040": [
-    "Young Adult Fiction / LGBTQ+ / Transgender *"
+    "Young Adult Fiction / LGBTQ+ / Transgender"
   ],
   "YAF031050": [
-    "Young Adult Fiction / LGBTQ+ / Two-Spirited & Indigiqueer *"
+    "Young Adult Fiction / LGBTQ+ / Two-Spirited & Indigiqueer"
   ],
   "YAF032000": [
     "Young Adult Fiction / Lifestyles / City & Town Life"
@@ -15339,7 +15339,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Mermaids & Mermen"
   ],
   "YAF079000": [
-    "Young Adult Fiction / Métis *"
+    "Young Adult Fiction / Métis"
   ],
   "YAF046160": [
     "Young Adult Fiction / Middle Eastern & Arab American"
@@ -15483,7 +15483,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Romance / Historical"
   ],
   "YAF052080": [
-    "Young Adult Fiction / Romance / Indigenous *"
+    "Young Adult Fiction / Romance / Indigenous"
   ],
   "YAF052040": [
     "Young Adult Fiction / Romance / LGBTQ+"
@@ -15528,7 +15528,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Fiction / Science Fiction / Apocalyptic & Post-Apocalyptic"
   ],
   "YAF056040": [
-    "Young Adult Fiction / Science Fiction / Indigenous Futurism *"
+    "Young Adult Fiction / Science Fiction / Indigenous Futurism"
   ],
   "YAF056030": [
     "Young Adult Fiction / Science Fiction / Romance"
@@ -15808,7 +15808,7 @@ export const BISAC: Record<string, string[]> = {
     "Language Arts & Disciplines / Literacy"
   ],
   "LAN030000": [
-    "Language Arts & Disciplines / Orality *",
+    "Language Arts & Disciplines / Orality",
     "Language Arts & Disciplines / Proofreading see Editing & Proofreading"
   ],
   "LAN026000": [
@@ -15977,7 +15977,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Biography & Autobiography / Women"
   ],
   "YAN062000": [
-    "Young Adult Nonfiction / Biracial & Multiracial *"
+    "Young Adult Nonfiction / Biracial & Multiracial"
   ],
   "YAN008000": [
     "Young Adult Nonfiction / Books & Libraries"
@@ -16070,7 +16070,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Fashion"
   ],
   "YAN063000": [
-    "Young Adult Nonfiction / First Nations *"
+    "Young Adult Nonfiction / First Nations"
   ],
   "YAN021000": [
     "Young Adult Nonfiction / Games & Activities / General"
@@ -16208,22 +16208,22 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Indigenous / General"
   ],
   "YAN038170": [
-    "Young Adult Nonfiction / Indigenous / Elders *"
+    "Young Adult Nonfiction / Indigenous / Elders"
   ],
   "YAN038180": [
-    "Young Adult Nonfiction / Indigenous / Family Life *"
+    "Young Adult Nonfiction / Indigenous / Family Life"
   ],
   "YAN038190": [
-    "Young Adult Nonfiction / Indigenous / Health & Healing *"
+    "Young Adult Nonfiction / Indigenous / Health & Healing"
   ],
   "YAN038200": [
-    "Young Adult Nonfiction / Indigenous / History *"
+    "Young Adult Nonfiction / Indigenous / History"
   ],
   "YAN038210": [
-    "Young Adult Nonfiction / Indigenous / Land-Based Knowledge *"
+    "Young Adult Nonfiction / Indigenous / Land-Based Knowledge"
   ],
   "YAN038220": [
-    "Young Adult Nonfiction / Indigenous / Reconciliation *"
+    "Young Adult Nonfiction / Indigenous / Reconciliation"
   ],
   "YAN038160": [
     "Young Adult Nonfiction / Indigenous Peoples of Turtle Island"
@@ -16232,7 +16232,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Inspirational & Personal Growth"
   ],
   "YAN064000": [
-    "Young Adult Nonfiction / Inuit *"
+    "Young Adult Nonfiction / Inuit"
   ],
   "YAN030000": [
     "Young Adult Nonfiction / Language Arts / General"
@@ -16262,7 +16262,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Language Study / French"
   ],
   "YAN020040": [
-    "Young Adult Nonfiction / Language Study / Indigenous Languages in the Americas *"
+    "Young Adult Nonfiction / Language Study / Indigenous Languages in the Americas"
   ],
   "YAN020030": [
     "Young Adult Nonfiction / Language Study / Spanish"
@@ -16292,7 +16292,7 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Media Tie-In"
   ],
   "YAN065000": [
-    "Young Adult Nonfiction / Métis *"
+    "Young Adult Nonfiction / Métis"
   ],
   "YAN038150": [
     "Young Adult Nonfiction / Middle Eastern & Arab American"
@@ -16412,22 +16412,22 @@ export const BISAC: Record<string, string[]> = {
     "Young Adult Nonfiction / Religion / Hinduism"
   ],
   "YAN047090": [
-    "Young Adult Nonfiction / Religion / Indigenous / General *"
+    "Young Adult Nonfiction / Religion / Indigenous / General"
   ],
   "YAN047100": [
-    "Young Adult Nonfiction / Religion / Indigenous / Ceremony & Spiritual Practice *"
+    "Young Adult Nonfiction / Religion / Indigenous / Ceremony & Spiritual Practice"
   ],
   "YAN047110": [
-    "Young Adult Nonfiction / Religion / Indigenous / Sacred Stories *"
+    "Young Adult Nonfiction / Religion / Indigenous / Sacred Stories"
   ],
   "YAN047120": [
-    "Young Adult Nonfiction / Religion / Indigenous / Scripture & Prayerbooks *"
+    "Young Adult Nonfiction / Religion / Indigenous / Scripture & Prayerbooks"
   ],
   "YAN047130": [
-    "Young Adult Nonfiction / Religion / Indigenous / Spirituality *"
+    "Young Adult Nonfiction / Religion / Indigenous / Spirituality"
   ],
   "YAN047140": [
-    "Young Adult Nonfiction / Religion / Indigenous / Teachings & Traditions *"
+    "Young Adult Nonfiction / Religion / Indigenous / Teachings & Traditions"
   ],
   "YAN047070": [
     "Young Adult Nonfiction / Religion / Islam"
@@ -17024,7 +17024,7 @@ export const BISAC: Record<string, string[]> = {
     "Law / Reference"
   ],
   "LAW121000": [
-    "Law / Reform & Transformation *"
+    "Law / Reform & Transformation"
   ],
   "LAW080000": [
     "Law / Remedies & Damages"

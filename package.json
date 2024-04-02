@@ -22,17 +22,15 @@
     "postversion": "yarn publish:git && yarn publish:npm",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "publish:git": "git push && git push --tags",
-    "publish:npm": "yarn build && npm publish --access public",
+    "publish:npm": "yarn build && yarn npm publish --access public",
     "generate:bisac": "node ./utils/bisac.js",
     "generate:onix-enums": "node ./utils/onix-enums.js"
   },
   "dependencies": {
-    "fast-xml-parser": "^4.3.5",
-    "ssh2-sftp-client": "^10.0.3"
+    "fast-xml-parser": "^4.3.5"
   },
   "devDependencies": {
     "@types/node": "^20.11.27",
-    "@types/ssh2-sftp-client": "^9.0.3",
     "cheerio": "^1.0.0-rc.12",
     "conventional-changelog-cli": "^4.1.0",
     "ts-node": "^10.9.2",

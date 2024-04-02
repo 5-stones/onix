@@ -1,2 +1,2 @@
+export * from './bisac';
 export { parse } from './parse';
-export { parseFeedOnSFTP } from './parseFeedOnSFTP';

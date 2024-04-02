@@ -40,13 +40,15 @@ async function scrapePage(href) {
       isCodeCtx = true;
       const parts = txt.split(reg);
       const code = parts[1].trim();
-      const label = parts[2].trim();
+      const label = parts[2]
+        .trim()
+        .replace(/\s\*$/g, '')
+      ;
 
       lastCode = code;
       if (!prefix) {
         prefix = label.split('/')[0].trim();
       }
-
       
       codes[code] = [label.replace(prefix, titleize(prefix))];
     } else if (prefix && txt.includes(prefix)) {
@@ -84,7 +86,7 @@ async function scrapePage(href) {
 
 
   fs.writeFileSync(
-    path.join(__dirname, '../src/data/bisac.json'),
-    JSON.stringify(allCodes, null, 2),
+    path.join(__dirname, '../src/data/bisac.ts'),
+    `export const BISAC: Record<string, string[]> = ${JSON.stringify(allCodes, null, 2)}`,
   );
 })()
