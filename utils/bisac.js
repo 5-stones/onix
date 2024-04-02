@@ -42,6 +42,7 @@ async function scrapePage(href) {
       const code = parts[1].trim();
       const label = parts[2]
         .trim()
+        .replace(/\s/g, ' ') // normalize whitespace characters
         .replace(/\s\*$/g, '')
       ;
 
