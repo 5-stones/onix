@@ -1,3 +1,12 @@
+# [1.0.0-rc.4](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.3...v1.0.0-rc.4) (2024-04-02)
+
+
+### Features
+
+* **bisac:** clean up bisac labels and add bisac helpers ([7afb52a](https://gitlab.com/annunciate/onix/commit/7afb52a27675da4a9743121cefab4831f5c243da))
+
+
+
 # [1.0.0-rc.3](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.2...v1.0.0-rc.3) (2024-04-01)
 
 
