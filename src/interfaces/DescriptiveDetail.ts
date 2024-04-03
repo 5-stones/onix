@@ -2,6 +2,7 @@ import { ProductComposition } from '../enums';
 import { ProductForm } from '../enums';
 import { ProductFormDetail } from '../enums';
 import { Audience } from './Audience';
+import { Collection } from './Collection';
 import { Contributor } from './Contributor';
 import { Extent } from './Extent';
 import { Language } from './Language';
@@ -19,6 +20,7 @@ export interface DescriptiveDetail {
   Measure?: Measure[];
   CountryOfManufacture?: string;
   PrimaryContentType?: string;
+  Collection?: Collection[] | Collection;
   NoCollection?: string;
   TitleDetail?: TitleDetail;
   NoContributor?: string;
