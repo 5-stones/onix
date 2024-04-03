@@ -21,11 +21,39 @@ function titleize(str) {
   return newStr
 }
 
+
 function cleanLabel(label) {
   return label
     .trim()
     .replace(/\s/g, ' ') // normalize whitespace characters
     .replace(/\s\*$/g, '')
+  ;
+}
+
+function getRelatedLabel(label) {
+  let matches = label.match(/ \(see also (.*)\)$/);
+
+  if (!matches) {
+    matches = label.match(/ \(see (.*)\)$/);
+  }
+
+  if (!matches) {
+    matches = label.match(/ see (.*)$/);
+  }
+
+  if (!matches) return;
+
+  const parts = matches[1].split(' / ');
+  parts[0] = titleize(parts[0]);
+  return parts.join(' / ');
+}
+
+// remove (see also ...) as dealt with elsewheres
+function stripRelatedLabel(label) {
+  return label
+    .replace(/ \(see also (.*)\)$/, '')
+    .replace(/ \(see (.*)\)$/, '')
+    .replace(/ see (.*)$/, '')
   ;
 }
 
@@ -55,13 +83,32 @@ async function scrapePage(href) {
         prefix = label.split('/')[0].trim();
       }
       
-      codes[code] = [label.replace(prefix, titleize(prefix))];
+      codes[code] = {
+        labels: [label.replace(prefix, titleize(prefix))],
+        related: {},
+      };
     } else if (prefix && txt.includes(prefix)) {
-      codes[lastCode].push(
+      codes[lastCode].labels.push(
         cleanLabel(txt)
           .replace(prefix, titleize(prefix))
        );
     }
+  }
+
+  for (let code of Object.keys(codes)) {
+    const obj = codes[code];
+
+    const labels = [];
+    for (let label of obj.labels) {
+      const newLabel = stripRelatedLabel(label);
+      labels.push(newLabel);
+      const related = getRelatedLabel(label);
+      if (related) {
+        obj.related[related] = newLabel;
+      }
+    }
+
+    obj.labels = labels;
   }
 
   return {
@@ -90,11 +137,8 @@ async function scrapePage(href) {
     console.log(">>>>>> completed", category);
   }
 
-  console.log(allCodes);
-
-
   fs.writeFileSync(
     path.join(__dirname, '../src/data/bisac.ts'),
-    `export const BISAC: Record<string, string[]> = ${JSON.stringify(allCodes, null, 2)}`,
+    `export const BISAC: Record<string, { labels: string[]; related: Record<string, string>; }> = ${JSON.stringify(allCodes, null, 2)}`,
   );
 })()

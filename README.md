@@ -20,10 +20,16 @@ for strong typing and parsing (e.g. BISAC data).
 There are also the following helpers for dealing with BISAC:
 
 ```ts
-import { getBISACLabelsForCode, getBISACCodeForLabel } from '@5stones/onix';
+import {
+  getBISACLabelsForCode,
+  getBISACCodeForLabel,
+  getBISACAncestorForCode,
+  type BISACNode,
+} from '@5stones/onix';
 
 const labels: string[] = getBISACLabelsForCode('...');
 const code: string = getBISACCodeForLabel('...');
+const ancestor: BISACNode | undefined = getBISACAncestorForCode('...');
 ```
 
 ## Code Generation
