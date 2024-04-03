@@ -5,7 +5,12 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "private": false,
+  "repository": "http://github.com/5-stones/onix",
+  "author": "Jacob Spizziri <jspizziri@weare5stones.com> (https://github.com/jspizziri)",
   "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/5-stones/onix/issues"
+  },
   "keywords": [
     "onix",
     "typescript",
