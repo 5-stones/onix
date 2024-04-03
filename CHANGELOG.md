@@ -1,3 +1,17 @@
+# [1.0.0-rc.6](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.5...v1.0.0-rc.6) (2024-04-03)
+
+
+### Bug Fixes
+
+* **bisac:** more whitespace normalization ([5848f9f](https://gitlab.com/annunciate/onix/commit/5848f9f03e0161973f6b53d701f141765c1f1c80))
+
+
+### Features
+
+* **bisac:** add the ability to get the ancestor category for a given code ([538fb46](https://gitlab.com/annunciate/onix/commit/538fb462451802d06f049c5aed6e9bb253d8823d))
+
+
+
 # [1.0.0-rc.5](https://gitlab.com/annunciate/onix/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2024-04-02)
 
 
