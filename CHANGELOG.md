@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/5-stones/onix/compare/v1.0.0-rc.7...v1.0.0) (2024-07-10)
+
+
+### Bug Fixes
+
+* **parse:** support special characters using HTML entities ([f94f264](https://github.com/5-stones/onix/commit/f94f264b0e6c090392b9a4308401e1ddd2576361))
+
+
+### Features
+
+* **interfaces:** add collection interface ([65fc7f6](https://github.com/5-stones/onix/commit/65fc7f6f8871efe3b56a6ddaf5238cbf6644f26f))
+
+
+
 # [1.0.0-rc.7](https://github.com/5-stones/onix/compare/v1.0.0-rc.6...v1.0.0-rc.7) (2024-04-03)
 
 
