@@ -1,3 +1,7 @@
+## [1.0.1](https://github.com/5-stones/onix/compare/v1.0.0...v1.0.1) (2024-07-10)
+
+
+
 # [1.0.0](https://github.com/5-stones/onix/compare/v1.0.0-rc.7...v1.0.0) (2024-07-10)
 
 
