@@ -1,4 +1,4 @@
-import { CollectionFrequencyCode, CollectionType } from 'src/enums';
+import { CollectionFrequencyCode, CollectionType } from '../enums';
 import { TitleDetail } from './TitleDetail';
 
 export interface Collection {
