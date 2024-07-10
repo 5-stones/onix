@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/5-stones/onix/compare/v1.0.1...v1.0.2) (2024-07-10)
+
+
+### Bug Fixes
+
+* **interfaces:** fix import reference for Collection interface ([a8aabde](https://github.com/5-stones/onix/commit/a8aabde8323451e3843c2ecc6955c0153767a6f9))
+
+
+
 ## [1.0.1](https://github.com/5-stones/onix/compare/v1.0.0...v1.0.1) (2024-07-10)
 
 
